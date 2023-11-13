@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "378de7c5d032f488",
+    "type": "split",
+    "children": [
+      {
+        "id": "22e64361cffaf987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36993b42a54dbbe3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2b796da3813f7d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b59f74eeb635f6a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26905d2f99fa354e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67465ba48c3ef568",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Architecture",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6fed7baab64ca5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fd330b091cdeaec",
+    "type": "split",
+    "children": [
+      {
+        "id": "536e70353777bff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64dc44f240c9a866",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62a5dd93febccee8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04a11ddd31367dc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b4364ebded055d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ac96b1000738840",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "a708c0ffbecc7fa0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 478.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "36993b42a54dbbe3",
+  "lastOpenFiles": [
+    "Service-oriented Architecture (SOA).md",
+    "Service Level Agreement.md",
+    "Security Information Event Management.md",
+    "Azure Sentinel.md",
+    "Azure.md",
+    "SSO.md",
+    "test page.md",
+    "Ubiquitous language.md",
+    "contents.md",
+    "Azure Active Directory B2C (AD B2C).md",
+    "ApplicationInsights.config.md",
+    "Web.config.md",
+    "HTTP.md",
+    "Untitled 1.md",
+    "Microservices Architecture.md",
+    "HTTPS.md",
+    "Bounded Context.md",
+    "Domain-Driven Design (DDD).md",
+    "Bind mounts.md",
+    "Docker.md",
+    "CIAM.md",
+    "Extended Backus-Naur Form (EBNF).md",
+    "KQL.md"
+  ]
+}

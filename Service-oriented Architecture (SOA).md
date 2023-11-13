@@ -1,5 +1,10 @@
-- #Architecture
-- Application is decomposed into multiple services
+---
+aliases:
+  - SOA
+tags:
+  - Architecture
+---
+- - Application is decomposed into multiple services
 	- Usually HTTP services
 -
 - Resources:
