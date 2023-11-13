@@ -1,0 +1,23 @@
+- A feature of [[Azure Monitor]]
+- Sends telemetry from a web application to the [[Azure]] portal
+- Telemetry types/"pillars":
+	- Distributed tracing
+	- Metrics
+	- Logs
+- There are automatic and manual methods for enabling an app to send telemetry
+- Data model:
+	- Telemetry types automatically collected:
+		- Request
+		- Exception
+		- Dependency
+	- Types for custom telemetry:
+		- Trace
+		- Event
+		- Metric
+- Integration:
+	- Application Insights ASP.NET SDK
+		- Configured by [[ApplicationInsights.config]]
+		-
+- Resources:
+	- [Application Insights overview - Azure Monitor | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
+	- [Data Collection Basics of Azure Monitor Application Insights - Azure Monitor | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-overview?tabs=aspnetcore)

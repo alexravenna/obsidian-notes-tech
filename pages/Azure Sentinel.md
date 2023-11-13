@@ -1,0 +1,4 @@
+- Provides [[Security Information Event Management (SIEM)]]
+-
+- Resources:
+	- [What is Microsoft Sentinel? | Microsoft Learn](https://learn.microsoft.com/en-us/azure/sentinel/overview)

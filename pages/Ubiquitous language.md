@@ -1,0 +1,2 @@
+- Resources:
+	- [UbiquitousLanguage (martinfowler.com)](https://martinfowler.com/bliki/UbiquitousLanguage.html)
