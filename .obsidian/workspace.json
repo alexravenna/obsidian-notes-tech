@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,6 +167,11 @@
   },
   "active": "87e2669dffd6f06b",
   "lastOpenFiles": [
+    "README.md",
+    "px.ini",
+    "snippets/SSH - Public key fingerprint.md",
+    "SSL.md",
+    "OpenSSL.md",
     "Intel vPro.md",
     "Docker/Docker Hub.md",
     "Docker/Docker.md",
@@ -191,17 +196,12 @@
     "Umbraco/Umbraco Examine.md",
     "Common Language Runtime.md",
     "Umbraco",
-    "Intermediate Language.md",
-    "Portable Executable.md",
-    "appsettings.json.md",
-    "Visual Studio/MSBuild Project File.md",
     "Visual Studio",
     "Links",
     "Kubernetes",
     "Infrastructure as Code",
     "Ansible",
     "Azure DevOps",
-    "Azure",
-    "snippets"
+    "Azure"
   ]
 }
