@@ -1,0 +1,4 @@
+---
+aliases:
+  - Single Sign-on
+---

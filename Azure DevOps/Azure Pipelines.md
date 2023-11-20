@@ -1,0 +1,3 @@
+- Tasks:
+	- [[Azure App Service Deploy]]
+	- [[IIS WebApp Deploy]]

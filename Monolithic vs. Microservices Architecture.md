@@ -1,0 +1,8 @@
+---
+resources: []
+---
+- #architecture
+- [[Monolithic Architecture]] vs. [[Microservices Architecture]]
+
+- Resources:
+	- [Containerizing monolithic applications - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/containerize-monolithic-applications)

@@ -1,0 +1,9 @@
+---
+aliases:
+  - file
+---
+- Created in project root folder
+- Copied to `bin` folder upon compilation
+-
+- Resources:
+	- [ApplicationInsights.config reference - Azure - Azure Monitor | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-monitor/app/configuration-with-applicationinsights-config)

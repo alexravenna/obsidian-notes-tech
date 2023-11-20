@@ -1,0 +1,24 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "#microsoft",
+        "color": "#1a20c7"
+      },
+      {
+        "query": "",
+        "color": "#b3b3b3"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 5,
+    "linkThickness": 2,
+    "particleSize": 13,
+    "particleCount": 10
+  }
+}

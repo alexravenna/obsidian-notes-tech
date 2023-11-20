@@ -1,1 +1,0 @@
-- Query language used in [[Azure Monitor Application Insights]]
