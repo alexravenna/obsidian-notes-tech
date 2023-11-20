@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f3e922baccac3e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identity and Access Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Identity and Access Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Identity and Access Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Identity and Access Management.md"
+              }
             }
           },
           {
@@ -144,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Identity and Access Management.md"
+              }
             }
           }
         ],
@@ -165,8 +184,9 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "87e2669dffd6f06b",
+  "active": "f3e922baccac3e83",
   "lastOpenFiles": [
+    "Identity and Access Management.md",
     "README.md",
     "px.ini",
     "snippets/SSH - Public key fingerprint.md",
@@ -194,7 +214,6 @@
     "Visual Studio/packages.config vs. PackageReference.md",
     "NuGet.md",
     "Umbraco/Umbraco Examine.md",
-    "Common Language Runtime.md",
     "Umbraco",
     "Visual Studio",
     "Links",
