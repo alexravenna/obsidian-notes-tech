@@ -1,4 +1,5 @@
 - A feature of [[Azure Monitor]]
+- Enables [[Application Performance Management]]
 - Sends telemetry from a web application to the [[Azure]] portal
 - Telemetry types/"pillars":
 	- Distributed tracing
@@ -7,14 +8,14 @@
 - There are automatic and manual methods for enabling an app to send telemetry
 - Data model:
 	- Telemetry types automatically collected:
-		- Request
-		- Exception
-		- Dependency
-	- Types for custom telemetry:
-		- Trace
-		- Event
-		- Metric
-- Integration:
+		- Requests - server requests
+		- Exceptions
+		- Dependencies - calls to external components
+	- Types for custom telemetry (not automatic):
+		- Traces - diagnostic logs
+		- Events - user actions and other events
+		- Metrics - performance measurements
+- Integration possibilities:
 	- Application Insights ASP.NET SDK
 		- Configured by [[ApplicationInsights.config]]
 
