@@ -1,0 +1,4 @@
+---
+aliases:
+  - remote procedure call
+---
