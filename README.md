@@ -1,1 +1,0 @@
-Made possible at work by: [genotrance/px: An HTTP proxy server to automatically authenticate through an NTLM proxy (github.com)](https://github.com/genotrance/px)
