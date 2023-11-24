@@ -4,7 +4,7 @@ tags:
   - cloud
 ---
 - Components:
-	- [[Azure Active Directory B2C (AD B2C)]]
+	- [[Azure Active Directory B2C]]
 	- [[Azure Container Registry]]
 	- [[Azure App Service]]
 	- [[Azure Cosmos DB]]
