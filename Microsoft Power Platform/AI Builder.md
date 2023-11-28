@@ -1,4 +1,4 @@
 ---
 tags:
-  - docker
+  - ai
 ---
