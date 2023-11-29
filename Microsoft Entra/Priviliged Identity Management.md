@@ -1,0 +1,6 @@
+---
+aliases:
+  - PIM
+tags:
+  - azure
+---
