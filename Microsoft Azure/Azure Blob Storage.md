@@ -1,0 +1,6 @@
+---
+tags:
+  - azure
+  - storage
+  - blob
+---
