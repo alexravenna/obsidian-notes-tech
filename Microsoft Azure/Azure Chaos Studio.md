@@ -6,6 +6,7 @@ tags:
   - azure
   - resilience
   - testing
+  - chaos
 ---
 - Enables testing resiliency
 - Introduce faults into your system to see where it breaks and how it responds to disruptions
