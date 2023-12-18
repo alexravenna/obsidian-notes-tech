@@ -1,6 +1,5 @@
 ---
 tags:
-  - caveat
   - service-bus
   - queue
 documentation:
@@ -12,4 +11,4 @@ documentation:
 ```csharp
 var transport = endpointConfiguration.UseTransport<LearningTransport>(); transport.StorageDirectory("PathToStoreTransportFiles");
 ```
-- The manually configured storage location should not be committed to [[VCS]], but the default `.learningtransport` directory may be necessary for something like [[integration tests]], whereby committing the empty directory (with a [[gitkeep|.gitkeep]] file) will be necessary
+- #caveat The manually configured storage location should not be committed to [[VCS]], but the default `.learningtransport` directory may be necessary for something like [[integration tests]], whereby committing the empty directory (with a [[gitkeep|.gitkeep]] file) will be necessary
