@@ -7,6 +7,7 @@ documentation:
 ---
 - A way to add additional methods to a [[class]] or [[interface]]
 - Defined as [[static]] methods but called as if they belong to the class [[instance]]
+- Often used in [[LINQ]]
 - Example definition:
 ```csharp
 public static class StringExtensions
