@@ -1,0 +1,14 @@
+---
+tags:
+  - SSH
+  - filesystem
+  - client
+  - abbreviation
+aliases:
+  - SSH Filesystem
+homepage:
+  - https://github.com/libfuse/sshfs
+---
+# Description
+- A filesystem client to mount and interact with remote files and directories
+- Utilizes [[SFTP|SSH File Transfer Protocol]]

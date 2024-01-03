@@ -4,5 +4,6 @@ homepage:
 tags:
   - internet
   - abbreviation
+aliases:
+  - Internet Corporation for Assigned Names and Numbers
 ---
-Internet Corporation for Assigned Names and Numbers
