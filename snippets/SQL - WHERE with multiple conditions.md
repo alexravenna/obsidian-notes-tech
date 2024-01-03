@@ -3,7 +3,7 @@ tags:
   - sql
   - snippet
 ---
-- Use the `AND` operator:
+- Use the `AND` operator
 ```sql
 SELECT *
 FROM friends
