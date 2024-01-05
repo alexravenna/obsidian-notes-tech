@@ -29,7 +29,8 @@ tags:
 	- Application Insights ASP.NET SDK
 		- Configured by [[ApplicationInsights.config]]
 - #caveat [[Redis]] dependencies must be manually configured, they aren't detected automatically
-# Sampling
+# Preprocessing Telemetry
+## Sampling
 - Application Insights features three sampling methods:
 	- Adaptive sampling (default)
 		- telemetry volume is automatically adjusted
@@ -43,5 +44,15 @@ tags:
 		- is mutually exclusive with adaptive and fixed-rate sampling
 		- doesn't reduce telemetry sent, but can be useful to reduce Application Insights usage/costs
 - Sampling can be configured in [[ApplicationInsights.config]]
+## Modifying
+- Adding or modifying properties of telemetry is done with `TelemetryInitializer`s
+	- These implement `ITelemetryInitializer` and are added in [[ApplicationInsights.config]]
+	- All registered telemetry initializers are called for every telemetry item
+## Filtering
+- Filtering of telemetry before it is sent to Application Insights is done with `TelemetryProcessor`s
+	- These implement `ITelemetryProcessor` and are added in [[ApplicationInsights.config]]
+	- These always run after telemetry initializers
+	- Not all telemetry processors may be run for each telemetry item if a previous one filtered the item out
+
 # Optimizing
 - Described here: [DevOps - Optimize Telemetry with Application Insights | Microsoft Learn](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/may/devops-optimize-telemetry-with-application-insights)
