@@ -13,4 +13,4 @@ aliases:
   - OCI Registry as Storage
 ---
 # Description
-- Distributes arbitrary [[OCI]] artifacts to registries that implement the [[distribution-spec]]
+- Distributes arbitrary [[Virtualization/Containers/OCI/OCI]]CI]]alization/Containers/OCI]] artifacts to registries that implement the [[distribution-spec]]

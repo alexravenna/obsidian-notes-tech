@@ -5,4 +5,6 @@ tags:
   - cd
 homepage:
   - https://cd.foundation/
+aliases:
+  - Continuous Delivery Foundation
 ---
