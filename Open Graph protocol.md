@@ -1,6 +1,7 @@
 ---
 tags:
   - facebook
+  - social-media
 resources:
   - https://ogp.me/
 ---
