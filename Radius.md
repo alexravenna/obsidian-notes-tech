@@ -1,6 +1,7 @@
 ---
 tags:
   - cloud-native
+  - microsoft
 homepage:
   - https://radapp.io/
 documentation:

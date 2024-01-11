@@ -1,6 +1,6 @@
 ---
 tags:
-  - APM
+  - SSR
 aliases:
-  - APM
+  - SSR
 ---
