@@ -1,0 +1,4 @@
+---
+aliases:
+  - Database Management System
+---

@@ -14,7 +14,7 @@ resources:
 	- [[Azure portal]]
 	- [[Azure CLI]]
 	- [[PowerShell]]
-	- [[REST API]]
+	- [[REST|REST API]]
 	- A button in your [[Markdown]] readme
 	- [[Azure Cloud Shell]]
 - Similar to [[Bicep]]

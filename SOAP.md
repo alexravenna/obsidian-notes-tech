@@ -1,0 +1,6 @@
+---
+tags:
+  - abbreviation
+  - interface
+  - XML
+---

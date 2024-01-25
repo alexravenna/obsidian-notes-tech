@@ -6,5 +6,6 @@ tags:
   - dev-tool
   - ide
   - microsoft
+category: IDE
 ---
 - [[Electron]] app

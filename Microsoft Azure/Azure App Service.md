@@ -8,4 +8,4 @@ aliases:
 documentation:
   - https://learn.microsoft.com/en-us/azure/app-service/
 ---
-- [[PaaS]] offering for hosting web apps, [[REST API]]s and mobile back ends
+- [[PaaS]] offering for hosting web apps, [[REST|REST API]]s and mobile back ends
