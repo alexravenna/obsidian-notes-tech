@@ -5,5 +5,5 @@ tags:
 resources:
   - https://lucene.apache.org/
 ---
-- [[Apache]] project
+- [[Apache Software Foundation]] project
 - The search core of [[Elasticsearch]]
