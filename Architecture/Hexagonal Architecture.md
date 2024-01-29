@@ -1,0 +1,11 @@
+---
+aliases:
+  - Port-Adapter
+---
+- From Alistair Cockburn
+- Each port can accept multiple adapters
+- Primary ports
+	- For UI
+- Secondary ports
+	- Interfaces to be implements
+	- For infrastructure

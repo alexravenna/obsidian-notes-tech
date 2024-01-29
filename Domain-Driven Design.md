@@ -1,5 +1,0 @@
----
-aliases:
-  - DDD
----
-- [[Bounded Context]]
