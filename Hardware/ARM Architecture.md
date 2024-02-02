@@ -1,0 +1,6 @@
+---
+tags:
+  - architecture
+aliases:
+  - ARM
+---
