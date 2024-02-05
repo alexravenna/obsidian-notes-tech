@@ -5,4 +5,3 @@ tags:
   - container-registry
 ---
 - A [[Container Registry|container registry]] for official [[Microsoft]] [[container images|images]]
-- 

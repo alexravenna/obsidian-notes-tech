@@ -10,7 +10,7 @@ homepage:
   - https://www.thepollyproject.org/
 ---
 # About
-- A [[.NET]] library for implementing resilience strategies
+- A [[.NET]] library for implementing [[resilience]] strategies
 
 # Resilience Strategies
 ## Reactive
