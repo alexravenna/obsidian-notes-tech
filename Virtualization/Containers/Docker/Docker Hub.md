@@ -7,4 +7,4 @@ documentation:
 homepage:
   - https://hub.docker.com/
 ---
-- [[Container Registry]]
+- A [[Container Registry|container registry]] hosted by [[Docker]]
