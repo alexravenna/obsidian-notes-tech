@@ -6,7 +6,7 @@ resources:
 ---
 # Description
 - The building block of a [[.NET]] application
-- Come as either:
+- Comes as either:
 	- .exe
 	- .dll
 # Manifest
