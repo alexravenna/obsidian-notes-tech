@@ -3,4 +3,4 @@ tags:
   - aws
   - logging
 ---
-- Logging portal
+- Logging portal for [[AWS]]
