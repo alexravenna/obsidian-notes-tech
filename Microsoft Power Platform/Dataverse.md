@@ -1,0 +1,2 @@
+- Storage solution in the [[Power Platform]]
+- A central repository for data
