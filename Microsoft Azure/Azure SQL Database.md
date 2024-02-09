@@ -1,0 +1,12 @@
+---
+tags:
+  - SaaS
+  - azure
+  - database
+---
+- Two purchasing models:
+	- vCore model
+	- DTU (Data transaction unit) model
+- Elastic pools:
+	- Multiple databases on a single server sharing a set number of resources
+	- Offer the ability to scale

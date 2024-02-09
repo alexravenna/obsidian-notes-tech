@@ -1,0 +1,2 @@
+- Labeled data: data has tags
+- Learn from past examples to predict future values

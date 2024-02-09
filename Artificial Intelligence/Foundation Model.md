@@ -1,0 +1,1 @@
+- Large model pre-trained on a vast quantity of data that should be adapted to a wide range of downstream tasks

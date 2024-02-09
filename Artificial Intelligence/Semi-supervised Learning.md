@@ -1,0 +1,3 @@
+- A neural network is trained on a small amount of labeled data and a large amount of unlabeled data
+- Labeled data -> learn basic concepts of a task
+- Unlabeled data -> learn to generalize to new examples

@@ -1,0 +1,3 @@
+- Artificial neural networks can process complex patterns
+- Have many layers of neurons (interconnected nodes)
+- Can use labeled and unlabeled data

@@ -1,0 +1,1 @@
+- Looking at raw data to see if it naturally falls into groups
