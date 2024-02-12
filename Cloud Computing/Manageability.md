@@ -1,0 +1,2 @@
+- Management of the cloud - managing your cloud resources
+- Management in the cloud - how to manage the cloud environment and resources

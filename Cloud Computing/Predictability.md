@@ -1,0 +1,8 @@
+- Performance
+	- Predicting the resources needed for a positive customer experience
+	- Supported by:
+		- [[Autoscaling]]
+		- [[Load balancing]]
+		- [[High Availability|High availability]]
+- Cost
+	- Predicting or forecasting the cost of the cloud spend

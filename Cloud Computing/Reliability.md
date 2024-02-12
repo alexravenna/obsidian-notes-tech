@@ -1,0 +1,3 @@
+- The ability of a system to recover from failures and continue to function
+- Naturally supported by decentralized systems
+- Example: if service in a region fails, the system can be shifted to a region that's still active
