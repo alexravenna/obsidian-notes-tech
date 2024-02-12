@@ -1,0 +1,1 @@
+- Usually ends in `.git`

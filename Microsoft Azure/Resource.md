@@ -1,0 +1,4 @@
+---
+aliases:
+  - Azure resource
+---

@@ -13,5 +13,5 @@ tags:
 	- [[record]]
 - Built-in reference types:
 	- [[dynamic]]
-	- [[object]]
+	- object
 	- [[string]]

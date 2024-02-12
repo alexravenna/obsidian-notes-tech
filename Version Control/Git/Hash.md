@@ -1,0 +1,3 @@
+- A unique number/string representing the contents of a file or [[Object|Git object]]
+- 160 [[bit|bits]] long
+- Made with [[SHA-1]]

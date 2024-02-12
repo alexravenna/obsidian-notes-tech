@@ -1,0 +1,11 @@
+---
+aliases:
+  - Git commit
+---
+- Represents a specific version of the [[Working tree|working tree]]
+- Contains:
+	- Author's name and e-mail address
+	- Date
+	- Comment/description about the changes
+	- A digital signature (optional)
+	- 

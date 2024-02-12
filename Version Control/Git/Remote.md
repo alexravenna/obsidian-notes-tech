@@ -1,0 +1,3 @@
+- A named reference to another [[Repository|repo]]
+- `origin` is the default name for a remote when you create a repo
+-  `upstream` is often the name when you [[fork]] a repo
