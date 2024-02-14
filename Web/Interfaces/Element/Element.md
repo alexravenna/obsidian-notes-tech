@@ -9,4 +9,5 @@ documentation:
 # Description
 - The base element for all element objects in a [[Document]]
 ## Events
+- [[blur]]
 - [[focus]]
