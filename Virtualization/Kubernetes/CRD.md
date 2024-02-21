@@ -1,0 +1,4 @@
+---
+aliases:
+  - Custom Resource Definition
+---
