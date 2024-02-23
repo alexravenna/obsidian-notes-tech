@@ -1,0 +1,1 @@
+- The ability to send messages in both directions, i.e. between a [[server]] and a [[client]]
