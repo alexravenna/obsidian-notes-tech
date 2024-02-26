@@ -1,0 +1,3 @@
+- A process that is idempotent always produces the same result no matter how many times it is repeated
+- Examples:
+	- [[GET]] requests

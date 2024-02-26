@@ -1,0 +1,1 @@
+- Preventing the execution of subsequent processes so that only one (or a limited number of total processes) can be executed concurrently
