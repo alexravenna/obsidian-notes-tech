@@ -1,0 +1,4 @@
+---
+aliases:
+  - Static Site Generator
+---
