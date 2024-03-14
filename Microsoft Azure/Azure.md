@@ -6,7 +6,13 @@ tags:
 ---
 # Description
 - The cloud platform from [[Microsoft]]
-# Components
+- Offers more than 100 services spanning:
+	- Running apps/[[VM]]s
+	- Storage, i.e. [[Database|databases]]
+	- [[IoT]]
+	- [[Machine Learning|ML]]
+- Global
+# Services
 - [[Azure Active Directory B2C]]
 - [[Azure Container Registry]]
 - [[Azure App Service]]

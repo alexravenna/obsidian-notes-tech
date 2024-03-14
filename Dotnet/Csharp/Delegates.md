@@ -5,5 +5,5 @@ tags:
   - pointer
   - reference
 ---
-- A [[reference type]]
+- A [[Reference type]]
 - A pointer/reference to a method

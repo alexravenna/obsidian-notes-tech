@@ -15,3 +15,4 @@ tags:
 	- [[dynamic]]
 	- object
 	- [[string]]
+- The `default` value for all reference types is  `null`
