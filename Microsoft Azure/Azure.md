@@ -12,6 +12,14 @@ tags:
 	- [[IoT]]
 	- [[Machine Learning|ML]]
 - Global
+# Physical Infrastructure
+- Azure Regions
+	- Contain at least one datacenter
+	- Availability Zones exist in some regions
+		- Consist of one or more independent datacenters
+		- Offer resiliency and redundancy if one zone goes down
+	- Region pairs exist for most regions
+		- Regions act as fallbacks and backups for each other
 # Services
 - [[Azure Active Directory B2C]]
 - [[Azure Container Registry]]
