@@ -1,0 +1,2 @@
+- An identity in [[Entra ID]] or a directory trusted by Entra ID
+- An account has to have at least one [[Subscription|subscription]]
