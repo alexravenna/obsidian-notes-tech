@@ -5,7 +5,11 @@ tags:
   - template
   - DSL
   - declarative
-resources:
+  - idempotent
+documentation:
   - https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/
 ---
-- A declarative [[DSL]] for defining Azure infrastructure
+- A declarative [[DSL]] for defining and deploying [[Azure]] infrastructure
+- Bicep files can be deployed with [[Azure CLI]] or [[Azure PowerShell]] by including the template file:
+	- Azure CLI: `--template-file <bicep-file>`
+	- Azure PowerShell: `-Templatefile`

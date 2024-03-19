@@ -1,0 +1,21 @@
+---
+tags:
+  - powershell
+  - cross-platform
+  - azure
+  - ps-module
+  - add-on
+documentation:
+  - https://learn.microsoft.com/en-us/powershell/azure/
+---
+- Collection of [[PowerShell]] [[Module|modules]] for creating and managing [[Azure]] [[Resource|resources]]
+- Module name: `Az`
+- Compatible with PowerShell 7.x+ and [[Windows PowerShell]] 5.1
+- Runs in:
+	- [[Azure Cloud Shell]]
+	- PowerShell
+	-  a [[Docker]] [[container]]
+- Has tab completion and predictive [[IntelliSense]]
+- Based on [[.NET Standard]]
+- Returns [[.NET objects]]
+- Uses PowerShell `Verb-Noun` syntax

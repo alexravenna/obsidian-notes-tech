@@ -1,1 +1,0 @@
-- A browser-based shell to manage [[Resource|Azure resource]]s
