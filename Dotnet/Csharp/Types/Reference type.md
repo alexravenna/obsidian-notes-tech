@@ -9,7 +9,7 @@ tags:
 - Keywords used to create reference types: 
 	- [[class]]
 	- [[interface]]
-	- [[Delegates|delegate]]
+	- [[delegate|delegate]]
 	- [[record]]
 - Built-in reference types:
 	- [[dynamic]]
