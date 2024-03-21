@@ -8,5 +8,5 @@ aliases:
 	- Model validation
 	- Model deployment
 	- Model retraining
-- Model registry: like a [[repository|code repository]] for ML models; for saving and versioning
+- Model registry: like a [[Repository|code repository]] for ML models; for saving and versioning
 - Save training datasets centrally
