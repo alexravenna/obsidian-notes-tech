@@ -3,6 +3,7 @@ tags:
   - foundation
   - open-source
   - linux-foundation
+  - member-of/linux-foundation
 aliases:
   - Open Source Security Foundation
 homepage:

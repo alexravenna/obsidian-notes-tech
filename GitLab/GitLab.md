@@ -1,0 +1,19 @@
+---
+tags:
+  - open-source
+  - scm
+  - devsecops
+---
+- Big on [[DevSecOps]] instead of just [[DevOps]]
+- Multiple editions:
+	- Standard
+	- Premium
+	- Ultimate
+- [[Pull Request|Pull requests]] are called merge requests
+- Security scans during merge requests:
+	- [[SAST]]/[[DAST]]
+	- Containers
+	- Licenses
+	- Dependencies
+	- Vulnerabilities
+- Supports CODEOWNERS
