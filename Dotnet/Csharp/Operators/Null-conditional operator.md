@@ -9,7 +9,7 @@ tags:
   - null-safety
   - operator
 ---
-- `?.` to check if a value is `null` before we try to dereference it
+- `?.` to check if a value/property is `null` before we try to dereference it
 	- If it is, use the `default` value of the object
 	- If it isn't, allow dereferencing
 - Example:

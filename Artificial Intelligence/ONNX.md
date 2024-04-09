@@ -11,4 +11,4 @@ homepage:
   - https://onnx.ai/
 github: https://github.com/onnx
 ---
-- An open standard format for representing machine learning [[models]]
+- An open standard format for representing machine learning [[Model]]
