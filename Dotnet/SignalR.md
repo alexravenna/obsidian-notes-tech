@@ -31,9 +31,9 @@ training: https://learn.microsoft.com/en-us/training/modules/aspnet-core-signalr
 ## Transports
 - SignalR chooses the best transport method
 - Listed in graceful fallback order, they are:
-1. [[WebSockets]]
-2. [[Server-sent events]]
-3. Long polling
+	1. [[WebSockets]]
+	2. [[Server-sent events]]
+	3. Long polling
 ## Protocols
 - The two built-in protocols are:
 	- text as JSON (default)
