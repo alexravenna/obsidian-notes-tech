@@ -9,7 +9,7 @@ tags:
   - framework
 ---
 - Four key metrics:
-	- Lead time
+	- Lead time for changes
 	- Deployment frequency
 	- Change failure rate
 	- Time to restore service

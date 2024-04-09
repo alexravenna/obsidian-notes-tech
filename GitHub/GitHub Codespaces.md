@@ -18,7 +18,7 @@ resources:
 	- in [[Visual Studio Code|VS Code]]
 	- with the [[GitHub CLI]]
 	- while editing on [[GitHub.dev]]
-- Multiple Codespaces running at the same time are possible per [[repo]] and per [[branch]]
+- Multiple Codespaces running at the same time are possible per [[repo]] and per [[Branch]]
 - Number of total Codespaces is limited per user according to your subscription
 - Prebuilds are possible for speeding up Codespace creation
 - All work (including the clone of the repo) is stored under `/workspace`

@@ -1,0 +1,4 @@
+---
+aliases:
+  - HashiCorp Configuration Language
+---

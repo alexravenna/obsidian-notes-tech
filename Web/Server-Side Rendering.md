@@ -1,6 +1,0 @@
----
-tags:
-  - SSR
-aliases:
-  - SSR
----

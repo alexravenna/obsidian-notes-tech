@@ -8,4 +8,5 @@ tags:
   - cloud
   - cloud-native
   - linux-foundation
+  - member-of/linux-foundation
 ---

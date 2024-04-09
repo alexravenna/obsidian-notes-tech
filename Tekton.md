@@ -7,4 +7,4 @@ tags:
   - member-of/cd-foundation
   - open-source
 ---
-- A [[cloud-native]] [[CI]]/[[CD]] framework
+- A [[Cloud-native]] [[CI]]/[[CD]] framework

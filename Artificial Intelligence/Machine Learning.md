@@ -4,7 +4,7 @@ tags:
 aliases:
   - ML
 ---
-
+# Description
 - Model is trained from input data
 - Model can then make useful predictions for new or never-before-seen data
 - Predictions are compared to training data

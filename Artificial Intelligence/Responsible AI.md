@@ -1,10 +1,12 @@
 ---
 tags:
   - ethics
+  - microsoft
+  - ai
 resources:
   - https://www.microsoft.com/en-us/ai/responsible-ai
 ---
-- The principles and best practices to ensure that [[AI]] work is:
+- The principles and best practices to ensure that [[AI]] work are:
 	- accountable
 	- inclusive
 	- reliable
