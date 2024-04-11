@@ -1,7 +1,8 @@
 ---
 tags:
-  - http-header
   - SEO
+  - response-header
+  - http
 documentation:
   - https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#xrobotstag
   - https://developers.google.com/search/docs/crawling-indexing/block-indexing#http-response-header
