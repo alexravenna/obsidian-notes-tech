@@ -1,0 +1,13 @@
+---
+tags:
+  - t-sql
+  - data-type
+  - integer
+  - binary
+---
+- An [[integer]] data type
+- Possible values:
+	- 1
+	- 0
+	- NULL
+- [[SQL Server]] optimizes storage of bit columns: every group of up to 8 columns is stored as 1 [[byte]]

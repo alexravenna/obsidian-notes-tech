@@ -4,7 +4,7 @@ tags:
   - cross-platform
   - dev-tool
   - microsoft
-resources:
+documentation:
   - https://learn.microsoft.com/en-us/azure-data-studio/
 ---
 - A desktop application that enables connecting to and browsing/querying various kinds of databases from various sources
