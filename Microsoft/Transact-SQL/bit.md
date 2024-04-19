@@ -4,8 +4,11 @@ tags:
   - data-type
   - integer
   - binary
+documentation:
+  - https://learn.microsoft.com/en-us/sql/t-sql/data-types/bit-transact-sql
 ---
 - An [[integer]] data type
+- Used for storing boolean values: `"TRUE"` => 1 and `"FALSE"` => 0
 - Possible values:
 	- 1
 	- 0

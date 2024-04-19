@@ -5,7 +5,7 @@ tags:
   - sql
   - query-language
 ---
-- [[Microsoft]] implementation of the [[SQL]] standard
+- [[Microsoft]] implementation of the [[SQL - Exclude null values]] standard
 - Used by:
 	- [[SQL Server Management Studio]]
 	- [[Azure Data Studio]]
