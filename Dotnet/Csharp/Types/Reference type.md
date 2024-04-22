@@ -14,5 +14,5 @@ tags:
 - Built-in reference types:
 	- [[dynamic]]
 	- object
-	- [[String interpolation]]
+	- [[Strings]]
 - The `default` value for all reference types is  `null`

@@ -1,0 +1,1 @@
+- A domain is a human-readable, user-friendly address for a website
