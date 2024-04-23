@@ -8,4 +8,7 @@ tags:
   - event-driven
   - scaling
   - cncf-graduated
+github: https://github.com/kedacore/keda
+documentation:
+  - https://keda.sh/docs/
 ---

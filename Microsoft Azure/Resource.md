@@ -4,7 +4,7 @@ aliases:
 training: https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/
 ---
 # Description
-- The basic building block of [[Azure]]: basically, your instances of Azure services
+- The basic building block of [[Microsoft Azure/Azure]]: basically, your instances of Azure services
 - Resources inherit permissions from their [[#Resource Groups|resource group]]
 # Resource Groups
 - A grouping of one or more resources
