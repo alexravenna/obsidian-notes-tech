@@ -33,7 +33,7 @@ documentation:
 - Deployment slots:
 	- Enable different environments for running different instances of a function app
 - Require an [[Azure Storage]] account for managing triggers and logging executions
-	- The storage account must support [[Azure Blob Storage|Azure Blob]], [[Azure Storage Queue|Queue]], [[Azure Files||Files]], and [[Azure Table|Table]] storage
+	- The storage account must support [[Azure Blob Storage|Azure Blob]], [[Azure Queue Storage|Queue]], [[Azure Files||Files]], and [[Azure Table Storage|Table]] storage
 	- Code files are stored on [[Azure Files]] shares
 - Three levels of protection are available for functions triggered by HTTP requests:
 	- Anonymous - any user can trigger the function

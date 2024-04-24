@@ -34,7 +34,7 @@ training: https://learn.microsoft.com/en-us/training/modules/describe-core-archi
 - [[Azure App Service]]
 - [[Azure Cosmos DB]]
 - [[Azure SQL Database]]
-- [[Microsoft Azure/Azure Storage]]
+- [[Azure Storage#Services|Azure Storage Services]] 
 - [[Azure Key Vault]]
 - [[Azure Resource Manager]]
 - [[Azure Monitor]]

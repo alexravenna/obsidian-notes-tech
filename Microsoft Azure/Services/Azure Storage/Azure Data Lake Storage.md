@@ -1,0 +1,1 @@
+- Endpoint format: `https://<storage-account-name>.dfs.core.windows.net`

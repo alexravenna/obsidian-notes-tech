@@ -1,0 +1,2 @@
+- Synchronous message queueing
+- Endpoint format: `https://<storage-account-name>.queue.core.windows.net`
