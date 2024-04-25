@@ -1,0 +1,22 @@
+---
+aliases:
+  - ??=
+documentation:
+  - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator
+tags:
+  - "null"
+  - null-safety
+  - operator
+  - assignment
+related to: "[[Null-coalescing operator]]"
+---
+-  `??=` assigns the left-hand operand to the right-hand operand only if the left-hand operand evaluates to null
+- If the left-hand operand evaluates to *non*-null, the right-hand operand is not evaluated
+- #Basically, it can be used to simplify an `if` condition:
+  ```csharp
+  int? myValue = null;
+  
+  if (myValue == null) myValue = 42;
+  // becomes
+  myValue ??= 42
+```
