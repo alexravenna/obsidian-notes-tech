@@ -11,7 +11,7 @@ tags:
 github: https://github.com/webhintio
 ---
 - A [[linting]] tool for websites to help improve their:
-	- [[accessibility]]
+	- [[Accessibility]]
 	- speed
 	- cross-browser compatibility
 	- cleaning up usage of bad practices

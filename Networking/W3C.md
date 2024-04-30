@@ -11,7 +11,7 @@ homepage:
 # Description
 - [[SDO]] working on open web standards
 - Focus points:
-	- [[accessibility]]
+	- [[Accessibility]]
 	- [[internationalization]]
 	- security
 	- privacy

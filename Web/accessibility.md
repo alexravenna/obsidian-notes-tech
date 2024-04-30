@@ -1,0 +1,5 @@
+- Common issues:
+	- Missing text alternatives
+	- Insufficient color contrast
+	- No/broken keyboard navigation
+	- Screen readers have difficulties with non-standard [[HTML]] usage

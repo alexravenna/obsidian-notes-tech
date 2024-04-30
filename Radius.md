@@ -2,6 +2,7 @@
 tags:
   - cloud-native
   - microsoft
+  - cncf-sandbox
 homepage:
   - https://radapp.io/
 documentation:

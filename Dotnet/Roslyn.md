@@ -3,4 +3,14 @@ tags:
   - compiler
   - open-source
   - csharp
+github: https://github.com/dotnet/roslyn
+documentation:
+  - https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/
 ---
+- The [[compiler]] platform for [[NET|.NET]]
+- Includes:
+	- the compiler itself
+	- [[API]]s for interacting with the compiler
+- Roslyn analyzers can be used to inspect code and perform:
+	- Code quality analysis (`CAxxxx` rules)
+	- Code-style analysis (`IDExxxx` rules)

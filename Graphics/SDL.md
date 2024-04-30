@@ -18,10 +18,10 @@ documentation:
 	- joystick
 	- graphics
 - Officially supports:
-	- Windows
-	- max=S
-	- Linux
-	- iOS
-	- Android
-- Written in C
-- 
+	- [[Windows]]
+	- [[macOS]]
+	- [[Linux]]
+	- [[iOS]]
+	- [[Android]]
+- Written in [[C]]
+- Works natively with [[C++]] and has bindings for other languages
