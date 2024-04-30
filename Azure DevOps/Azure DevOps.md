@@ -1,2 +1,7 @@
-- Boards
-- [[Azure Pipelines]]
+---
+aliases:
+  - ADO
+---
+- Components:
+	- Boards
+	- [[Azure Pipelines]]
