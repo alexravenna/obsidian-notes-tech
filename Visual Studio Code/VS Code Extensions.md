@@ -1,0 +1,2 @@
+- Available in the [[Visual Studio Marketplace]]: [Visual Studio Code page in the Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
+- Can also be hosted by an [[Open VSX Registry]]
