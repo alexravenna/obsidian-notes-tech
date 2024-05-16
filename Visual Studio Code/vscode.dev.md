@@ -8,6 +8,10 @@ homepage:
   - https://vscode.dev/
 aliases:
   - VS Code for the Web
+  - Visual Studio Code for the Web
+training: https://learn.microsoft.com/en-us/training/modules/edit-code-using-any-device/
+documentation:
+  - https://code.visualstudio.com/docs/editor/vscode-web
 ---
 # Description
 - A lightweight web-based version of [[Visual Studio Code]]
@@ -19,7 +23,7 @@ aliases:
 	- open [vscode.dev](https://vscode.dev)
 	- prepend the URL of a [[GitHub]] repository with `vscode.dev`
 	- prepend the URL of an [[Azure DevOps]] repository with `vscode.dev`
-- Supports [[Visual Studio Code|VS Code]] [[web extensions]]
+- Supports [[VS Code Extensions|extensions]], but only [[web extensions]]
 	- Each extension is run in a separate, independent [[web worker]]
 - Supports [[Visual Studio Code|VS Code]] Settings Sync
 - Some extensions are built-in:
