@@ -1,0 +1,1 @@
+- A [[Codec|codec]] that compresses and decompresses digital video

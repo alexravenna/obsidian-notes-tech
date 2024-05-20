@@ -1,0 +1,1 @@
+- A device or computer program that encodes or decodes a data stream or signal
