@@ -4,6 +4,7 @@
 	- Hot
 	- Cool
 	- Archive
+- Azure Storage can be mounted as [[Volumes|volumes]] for [[Docker]] [[Container|containers]] through a plugin
 # Services
 - [[Azure Blob Storage]]
 - [[Azure Data Lake Storage]]

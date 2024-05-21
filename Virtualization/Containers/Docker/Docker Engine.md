@@ -2,3 +2,11 @@
 tags:
   - docker
 ---
+- A [[client-server]] implementation
+- Client and server communicate through a [[REST]] [[API]]
+- Client and server generally run on the same host (e.g. your local computer), but don't have to
+- Clients:
+	- [[Docker Desktop]]
+	- [[Docker CLI]]
+- Server:
+	- [[dockerd]]

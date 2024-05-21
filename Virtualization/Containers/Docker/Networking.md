@@ -1,0 +1,7 @@
+- Bridge network (Linux) or NAT network (Windows)
+	- Default network configuration
+	- Container ports can be mapped to host ports with e.g. `--publish 8080:80`
+- Host network
+	- Not available under Windows or macOS
+- None network
+	- Networking is disabled
