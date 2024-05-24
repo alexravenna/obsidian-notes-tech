@@ -1,9 +1,17 @@
 # Description
+- All data is encrypted
+- Accessible through [[HTTP]] and [[HTTPS]] through:
+	- client libraries
+	- a [[REST]] [[API]]
+- Scripting supported through:
+	- [[Azure PowerShell]]
+	- [[Azure CLI]]
+- Storage tiers with varying costs, availability and granularity at what level the tier can be set (account or blob level):
+	- Hot - for frequently accessed data
+	- Cool - for infrequently-accessed data stored for at least 30 days
+	- Cold - for infrequently-accessed data stored for at least 90 days
+	- Archive - for rarely-accessed data stored for at least 180 days, with flexible latency requirements
 - An Azure Storage account has to have a namespace that is unique in Azure
-- Storage tiers:
-	- Hot
-	- Cool
-	- Archive
 - Azure Storage can be mounted as [[Volumes|volumes]] for [[Docker]] [[Container|containers]] through a plugin
 # Services
 - [[Azure Blob Storage]]

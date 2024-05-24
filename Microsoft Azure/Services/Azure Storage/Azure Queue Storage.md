@@ -1,2 +1,4 @@
 - Synchronous message queueing
+- For storing large numbers of messages
+- Each message can be up to 64 [[KB]]
 - Endpoint format: `https://<storage-account-name>.queue.core.windows.net`

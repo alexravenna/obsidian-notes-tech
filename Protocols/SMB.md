@@ -1,0 +1,4 @@
+---
+aliases:
+  - Server Message Block
+---
