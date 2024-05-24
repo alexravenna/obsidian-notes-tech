@@ -10,3 +10,4 @@ resources:
   - https://learn.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer
 ---
 - A desktop application that enables managing [[Azure Storage]] resources
+- Uses [[AzCopy]] on the backend
