@@ -1,0 +1,10 @@
+- Architecture type for [[Large Language Models|LLM]]s
+- Consists of:
+	- Encoder: creates semantic representations of the training vocabulary
+	- Decoder: generates new language sequences
+- Can create [[Hallucination|hallucinations]]
+- Process:
+	- Model is trained with a large amount of natural language text
+	- Text sequences are broken down (into [[Tokens|tokens]]) and processed by encoder using [[Attention|attention]]
+	- Encoder outputs [[Embeddings|embeddings]]
+	- Decoder creates a new sequence using embeddings

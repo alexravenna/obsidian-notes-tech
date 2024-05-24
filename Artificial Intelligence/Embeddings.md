@@ -1,0 +1,1 @@
+- [[Vectors]] that represent a semantic attribute of [[Tokens|tokens]]

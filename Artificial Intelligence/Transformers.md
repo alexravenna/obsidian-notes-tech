@@ -1,4 +1,0 @@
-- Consists of:
-	- Encoder
-	- Decoder
-- Can create [[Hallucination|hallucinations]]

@@ -4,4 +4,4 @@ tags:
 aliases:
   - Retrieval-augmented generation
 ---
-- Use [[embeddings]] to retrieve information from a [[vector database]]
+- Use [[Embeddings]] to retrieve information from a [[vector database]]

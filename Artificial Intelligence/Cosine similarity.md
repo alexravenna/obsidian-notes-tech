@@ -1,0 +1,2 @@
+- Used to determine if two [[Vectors|vectors]] have similar directions
+- In an [[Large Language Models|LLM]], similarity indicates a strong semantic relationship

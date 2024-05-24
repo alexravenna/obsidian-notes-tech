@@ -1,0 +1,1 @@
+- Type of [[Machine Learning|ML]] model that can be used for [[NLP]] tasks
