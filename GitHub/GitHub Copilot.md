@@ -8,4 +8,4 @@ tags:
 ---
 # Description
 - An AI [[pair programming|pair programmer]] from [[GitHub]]
-- Powered by [[OpenAI Codex]] 
+- Powered by [[Codex]] 

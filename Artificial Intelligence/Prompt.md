@@ -1,1 +1,1 @@
-- A short piece of text given as input to an [[Large Language Models|LLM]] that is used to control the output of the model
+- A short piece of text given as input to an [[Large Language Model|LLM]] that is used to control the output of the model

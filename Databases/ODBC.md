@@ -6,4 +6,4 @@ tags:
   - api
 ---
 - An [[API]] for accessing [[DBMS]]s
-- [[Database]] and [[operating system]] independent
+- [[Database]] and [[Operating System]] independent

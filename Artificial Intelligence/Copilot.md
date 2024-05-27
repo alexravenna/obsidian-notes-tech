@@ -1,0 +1,1 @@
+- A [[GenAI]] assistant, often integrated into applications as chat interfaces

@@ -1,4 +1,4 @@
-- Architecture type for [[Large Language Models|LLM]]s
+- Architecture type for [[Large Language Model|LLM]]s
 - Consists of:
 	- Encoder: creates semantic representations of the training vocabulary
 	- Decoder: generates new language sequences

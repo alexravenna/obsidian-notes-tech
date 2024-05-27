@@ -1,0 +1,4 @@
+- Examples:
+	- web app
+	- desktop application
+	- background process

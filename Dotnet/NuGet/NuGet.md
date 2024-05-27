@@ -2,9 +2,12 @@
 tags:
   - dev-tool
   - dependency-manager
+  - package-manager
 resources:
   - https://learn.microsoft.com/en-us/nuget/
 ---
+# Description
+- The primary [[package manager]] for [[NET|.NET]]
 # NuGet Package
 - `.nupkg` extension
 - Single [[ZIP]] file that contains:
