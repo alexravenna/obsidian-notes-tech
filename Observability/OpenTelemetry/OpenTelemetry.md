@@ -3,6 +3,7 @@ tags:
   - observability
   - cncf-incubating
   - open-source
+  - framework
 resources:
   - https://opentelemetry.io/
   - https://opentelemetry.io/docs/
