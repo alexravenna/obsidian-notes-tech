@@ -1,0 +1,1 @@
+- Data emitted from a system about its behavior

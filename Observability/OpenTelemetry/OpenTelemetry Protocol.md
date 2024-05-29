@@ -1,6 +1,5 @@
 ---
 aliases:
   - OTLP
-resources:
-  - https://opentelemetry.io/docs/specs/otlp/
+specification: https://opentelemetry.io/docs/specs/otlp/
 ---
