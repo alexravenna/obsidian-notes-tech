@@ -1,11 +1,11 @@
 ---
-training: https://learn.microsoft.com/en-us/training/modules/csharp-null-safety
 tags:
-  - nullable
   - "null"
+  - nullable
 documentation:
   - https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references
 specification: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-8.0/nullable-reference-types
+training: https://learn.microsoft.com/en-us/training/modules/csharp-null-safety
 ---
 # Description
 - [[Reference type|Reference types]] have always been nullable

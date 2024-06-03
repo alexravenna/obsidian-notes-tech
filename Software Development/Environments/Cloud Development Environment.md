@@ -2,8 +2,8 @@
 aliases:
   - CDE
 tags:
-  - cloud
-  - ide
-  - environment
   - browser
+  - cloud
+  - environment
+  - ide
 ---

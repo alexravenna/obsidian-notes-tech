@@ -1,8 +1,8 @@
 ---
 tags:
   - CDE
-  - github
   - container
+  - github
 homepage:
   - https://github.com/features/codespaces
 documentation:

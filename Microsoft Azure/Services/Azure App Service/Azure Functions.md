@@ -1,16 +1,16 @@
 ---
 tags:
-  - serverless
+  - azure
   - compute
-  - service
   - event-driven
   - PaaS
-  - azure
+  - serverless
+  - service
+documentation:
+  - https://learn.microsoft.com/en-us/azure/azure-functions/
 training:
   - https://learn.microsoft.com/en-us/training/modules/intro-azure-functions/
   - https://learn.microsoft.com/en-us/training/paths/implement-azure-functions/
-documentation:
-  - https://learn.microsoft.com/en-us/azure/azure-functions/
 ---
 # Description
 - A serverless solution for running compute workloads

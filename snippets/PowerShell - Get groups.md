@@ -1,8 +1,8 @@
 ---
 tags:
   - powershell
-  - snippet
   - RSoP
+  - snippet
 ---
 Show the Resultant Set of Policy (RSoP) info for the current user:
 `gpresult /r /scope:user`

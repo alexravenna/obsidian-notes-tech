@@ -1,8 +1,8 @@
 ---
-tags:
-  - ai
 aliases:
   - ML
+tags:
+  - ai
 ---
 # Description
 - Model is trained from input data

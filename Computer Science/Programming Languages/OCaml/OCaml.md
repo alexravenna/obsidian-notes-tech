@@ -1,7 +1,7 @@
 ---
-homepage:
-  - https://ocaml.org/
 tags:
   - functional
   - type-safety
+homepage:
+  - https://ocaml.org/
 ---

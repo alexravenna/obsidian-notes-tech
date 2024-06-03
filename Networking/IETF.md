@@ -1,10 +1,10 @@
 ---
 aliases:
   - Internet Engineering Task Force
-homepage:
-  - https://www.ietf.org/
 tags:
   - abbreviation
   - internet
+homepage:
+  - https://www.ietf.org/
 ---
 - [[SDO|Standards Development Organization]] for the internet

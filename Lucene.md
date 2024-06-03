@@ -1,7 +1,7 @@
 ---
 tags:
-  - search
   - apache
+  - search
 resources:
   - https://lucene.apache.org/
 ---

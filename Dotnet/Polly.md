@@ -2,12 +2,12 @@
 tags:
   - dotnet
   - library
-  - resilience
   - NETFoundation
-documentation:
-  - https://www.pollydocs.org/index.html
+  - resilience
 homepage:
   - https://www.thepollyproject.org/
+documentation:
+  - https://www.pollydocs.org/index.html
 ---
 # About
 - A [[.NET]] library for implementing [[resilience]] strategies

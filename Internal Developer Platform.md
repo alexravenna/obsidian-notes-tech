@@ -1,12 +1,12 @@
 ---
 aliases:
-  - IDP
   - Developer portal
-homepage:
-  - https://internaldeveloperplatform.org/
+  - IDP
 tags:
   - platform-engineering
   - self-service
+homepage:
+  - https://internaldeveloperplatform.org/
 ---
 - A self-service portal for developers
 - The main product of [[Platform Engineering|platform engineering]]

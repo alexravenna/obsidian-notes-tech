@@ -1,7 +1,7 @@
 ---
 tags:
-  - dotnet
   - api
+  - dotnet
   - gateway
 resources:
   - https://github.com/threemammals/ocelot

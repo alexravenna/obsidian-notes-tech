@@ -1,8 +1,8 @@
 ---
 tags:
   - aws
-  - serverless
   - lambda
+  - serverless
 ---
 - AWS attempts to analyze when our functions are called to forecast/pre-allocate usage
 - SnapStart for optimizing cold starts

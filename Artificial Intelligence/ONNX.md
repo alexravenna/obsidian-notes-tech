@@ -3,10 +3,10 @@ aliases:
   - Open Neural Network Exchange
 tags:
   - abbreviation
+  - lfia-graduated
+  - member-of/lfai
   - openai
   - standard
-  - member-of/lfai
-  - lfia-graduated
 homepage:
   - https://onnx.ai/
 github: https://github.com/onnx

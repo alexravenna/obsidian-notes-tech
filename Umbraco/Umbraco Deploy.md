@@ -1,8 +1,8 @@
 ---
-resources:
-  - https://our.umbraco.com/documentation/Add-ons/Umbraco-Deploy/
 tags:
   - umbraco
+resources:
+  - https://our.umbraco.com/documentation/Add-ons/Umbraco-Deploy/
 ---
 - Two separate parts of deployment:
 	- meta data (document types, templates, etc.) -> AKA deploy

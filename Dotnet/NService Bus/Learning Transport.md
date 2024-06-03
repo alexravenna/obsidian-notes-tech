@@ -1,7 +1,7 @@
 ---
 tags:
-  - service-bus
   - queue
+  - service-bus
 documentation:
   - https://docs.particular.net/transports/learning/
 ---

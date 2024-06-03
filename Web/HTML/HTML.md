@@ -1,11 +1,11 @@
 ---
-specification: https://html.spec.whatwg.org/multipage/
 aliases:
   - HyperText Markup Language
-github: https://github.com/whatwg/html
 tags:
-  - whatwg
-  - living-standard
   - api
+  - living-standard
+  - whatwg
+github: https://github.com/whatwg/html
+specification: https://html.spec.whatwg.org/multipage/
 ---
 - Maintained by [[WHATWG]]

@@ -1,10 +1,10 @@
 ---
 tags:
-  - webhooks
   - standard
-github: https://github.com/standard-webhooks/standard-webhooks
+  - webhooks
 homepage:
   - https://www.standardwebhooks.com/
+github: https://github.com/standard-webhooks/standard-webhooks
 ---
 - A set of open source tools and guidelines to send [[Webhooks|webhooks]] easily, securely and reliably
 - Includes:

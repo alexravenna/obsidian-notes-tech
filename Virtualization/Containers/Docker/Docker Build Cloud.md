@@ -1,10 +1,10 @@
 ---
-tags:
-  - docker
-  - build
-  - cloud
 aliases:
   - DBC
+tags:
+  - build
+  - cloud
+  - docker
 homepage:
   - https://www.docker.com/products/build-cloud/
 documentation:

@@ -2,7 +2,7 @@
 aliases:
   - Bidirectional Encoder Representations from Transformers
 tags:
-  - llm
   - google
+  - llm
 ---
 - Uses only encoder in the [[Transformer Architecture|transformer architecture]]

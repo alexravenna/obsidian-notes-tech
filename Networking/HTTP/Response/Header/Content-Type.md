@@ -1,8 +1,8 @@
 ---
 tags:
   - content
-  - response-header
   - http
+  - response-header
 documentation:
   - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
 ---

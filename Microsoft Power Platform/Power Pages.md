@@ -1,7 +1,7 @@
 ---
 tags:
-  - power-platform
   - low-code
+  - power-platform
   - SaaS
   - website
 ---

@@ -3,10 +3,10 @@ aliases:
   - NSB
 tags:
   - bus
-  - service-bus
   - pub-sub
-documentation:
-  - https://docs.particular.net/nservicebus/
+  - service-bus
 homepage:
   - https://particular.net/nservicebus
+documentation:
+  - https://docs.particular.net/nservicebus/
 ---

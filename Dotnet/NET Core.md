@@ -1,7 +1,7 @@
 ---
 aliases:
-  - .NET Core
   - .NET
+  - .NET Core
 tags:
   - cross-platform
 ---

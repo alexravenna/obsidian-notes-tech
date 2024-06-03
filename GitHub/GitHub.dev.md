@@ -1,7 +1,7 @@
 ---
 tags:
-  - github
   - browser
+  - github
   - ide
 homepage:
   - https://github.dev/

@@ -1,11 +1,11 @@
 ---
-tags:
-  - aspnet-core
-  - real-time
-  - web
-  - open-source
 aliases:
   - ASP.NET Core SignalR
+tags:
+  - aspnet-core
+  - open-source
+  - real-time
+  - web
 documentation:
   - https://learn.microsoft.com/en-us/aspnet/core/signalr/
 training: https://learn.microsoft.com/en-us/training/modules/aspnet-core-signalr/

@@ -2,8 +2,8 @@
 tags:
   - cncf
   - cncf-incubating
-  - http2
   - google
+  - http2
   - rpc
 ---
 - [[RPC]] framework

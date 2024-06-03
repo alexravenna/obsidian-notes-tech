@@ -1,6 +1,6 @@
 ---
-tags:
-  - quantum-computing
 aliases:
   - Q#
+tags:
+  - quantum-computing
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
+  - ai
   - ethics
   - microsoft
-  - ai
 resources:
   - https://www.microsoft.com/en-us/ai/responsible-ai
 ---

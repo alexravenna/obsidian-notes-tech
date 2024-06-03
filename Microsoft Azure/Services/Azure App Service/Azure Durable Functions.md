@@ -1,7 +1,7 @@
 ---
 tags:
-  - serverless
   - azure
+  - serverless
 documentation:
   - https://learn.microsoft.com/en-us/azure/azure-functions/durable/
 training:

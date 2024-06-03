@@ -1,9 +1,9 @@
 ---
 aliases:
   - Windows Subsystem for Linux
-training: https://learn.microsoft.com/en-us/training/modules/wsl-introduction/
 documentation:
   - https://learn.microsoft.com/en-us/windows/wsl/
+training: https://learn.microsoft.com/en-us/training/modules/wsl-introduction/
 ---
 - #caveat Automatically gives file access to Windows files and paths
 - Files are viewable in Windows Explorer under `\\wsl.localhost\<distribution_name>`

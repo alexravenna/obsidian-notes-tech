@@ -1,7 +1,7 @@
 ---
 tags:
-  - dev-tool
   - dependency-manager
+  - dev-tool
   - package-manager
 resources:
   - https://learn.microsoft.com/en-us/nuget/

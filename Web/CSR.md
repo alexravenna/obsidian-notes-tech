@@ -2,8 +2,8 @@
 aliases:
   - Client-Side Rendering
 tags:
-  - rendering
   - client
+  - rendering
 ---
 - A web page's [[HTML]] content is rendered in the client's browser
 - Process:

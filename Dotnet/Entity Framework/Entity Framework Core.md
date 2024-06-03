@@ -1,17 +1,17 @@
 ---
-tags:
-  - orm
-  - open-source
-  - dotnet
 aliases:
   - EF Core
+tags:
+  - dotnet
+  - open-source
+  - orm
 github: https://github.com/dotnet/efcore
 documentation:
   - https://learn.microsoft.com/en-us/ef/core/
 training:
   - https://learn.microsoft.com/en-us/training/modules/persist-data-ef-core/
-  - https://www.learnentityframeworkcore.com/
   - https://www.entityframeworktutorial.net/
+  - https://www.learnentityframeworkcore.com/
 ---
 # Database Providers
 - There are many databases that can be accessed through EF Core

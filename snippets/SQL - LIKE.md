@@ -1,8 +1,8 @@
 ---
 tags:
-  - sql
-  - snippet
   - search
+  - snippet
+  - sql
 ---
 # Description
 - Search for a specified pattern in a column

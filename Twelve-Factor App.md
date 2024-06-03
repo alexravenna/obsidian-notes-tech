@@ -1,6 +1,6 @@
 ---
-homepage:
-  - https://12factor.net/
 tags:
   - methodology
+homepage:
+  - https://12factor.net/
 ---

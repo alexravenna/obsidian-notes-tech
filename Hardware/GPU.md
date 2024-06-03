@@ -1,7 +1,7 @@
 ---
+aliases:
+  - Graphics Processing Unit
 tags:
   - abbreviation
   - hardware
-aliases:
-  - Graphics Processing Unit
 ---

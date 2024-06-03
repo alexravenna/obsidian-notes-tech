@@ -1,13 +1,13 @@
 ---
+tags:
+  - command-line
+  - cross-platform
+  - shell
 homepage:
   - https://learn.microsoft.com/en-us/powershell/
 github: https://github.com/PowerShell/PowerShell
 documentation:
   - https://learn.microsoft.com/en-us/powershell/scripting/overview
-tags:
-  - shell
-  - command-line
-  - cross-platform
 ---
 # Description
 - Separate from [[Windows PowerShell]]

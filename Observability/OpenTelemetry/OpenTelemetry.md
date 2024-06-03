@@ -1,16 +1,16 @@
 ---
+aliases:
+  - OTel
 tags:
-  - observability
   - cncf-incubating
-  - open-source
   - framework
+  - observability
+  - open-source
   - telemetry
   - vendor-neutral
 resources:
   - https://opentelemetry.io/
   - https://opentelemetry.io/docs/
-aliases:
-  - OTel
 ---
 # Description
 - [[Observability]] framework and toolkit

@@ -4,7 +4,7 @@ aliases:
   - Secure/Multipurpose Internet Mail Extensions
 tags:
   - abbreviation
-  - encryption
   - email
+  - encryption
 ---
 - A standard for digitally signing and encrypting email messages

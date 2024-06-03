@@ -1,9 +1,9 @@
 ---
 tags:
-  - SaaS
-  - microsoft
   - ai
   - copilot
+  - microsoft
+  - SaaS
 homepage:
   - https://www.microsoft.com/en/microsoft-copilot/microsoft-copilot-studio
 ---

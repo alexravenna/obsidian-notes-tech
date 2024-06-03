@@ -1,9 +1,9 @@
 ---
 tags:
-  - sql
-  - wildcards
   - regex
   - snippet
+  - sql
+  - wildcards
 ---
 | Wildcard | Description                                     |
 | -------- | ----------------------------------------------- |

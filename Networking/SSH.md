@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Secure Shell Protocol
 tags:
   - abbreviation
   - client-server
   - networking
   - protocol
-aliases:
-  - Secure Shell Protocol
-implemented by:
+implemented by: 
 ---
 # Description
 - Secure network protocol

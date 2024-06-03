@@ -1,10 +1,10 @@
 ---
-tags:
-  - virtualization
-  - portable
-  - immutable
 aliases:
   - Image
+tags:
+  - immutable
+  - portable
+  - virtualization
 ---
 # Description
 - Portable and immutable

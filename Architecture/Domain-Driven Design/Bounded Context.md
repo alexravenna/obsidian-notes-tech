@@ -1,8 +1,8 @@
 ---
-tags:
-  - ddd
 aliases:
   - Sub-domain
+tags:
+  - ddd
 ---
 - Each BC has its own model and database
 - The boundary can be "physical" (e.g. one distributed service) or logical (e.g. a subsystem)

@@ -1,9 +1,9 @@
 ---
-homepage:
-  - https://domainstorytelling.org/
 tags:
   - ddd
   - modeling
+homepage:
+  - https://domainstorytelling.org/
 ---
 # Description
 - A method for collaborative modeling 

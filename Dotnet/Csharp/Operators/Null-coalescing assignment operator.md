@@ -1,13 +1,13 @@
 ---
 aliases:
   - ??=
-documentation:
-  - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator
 tags:
   - "null"
+  - assignment
   - null-safety
   - operator
-  - assignment
+documentation:
+  - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator
 related to: "[[Null-coalescing operator]]"
 ---
 -  `??=` assigns the left-hand operand to the right-hand operand only if the left-hand operand evaluates to null

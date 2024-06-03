@@ -1,8 +1,8 @@
 ---
-tags:
-  - abbreviation
-  - security
-  - access-control
 aliases:
   - Role-based access control
+tags:
+  - abbreviation
+  - access-control
+  - security
 ---

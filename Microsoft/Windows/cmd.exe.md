@@ -1,9 +1,9 @@
 ---
-tags:
-  - windows
-  - command-line
-  - shell
-  - prompt
 aliases:
   - cmd
+tags:
+  - command-line
+  - prompt
+  - shell
+  - windows
 ---

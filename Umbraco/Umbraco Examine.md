@@ -1,8 +1,8 @@
 ---
 tags:
-  - umbraco
-  - search
   - index
+  - search
+  - umbraco
 ---
 - A search and index engine for [[Umbraco]]
 - [Examine]([Examine Documentation | Examine (shazwazza.github.io)](https://shazwazza.github.io/Examine/)) is third party and wraps [Lucene.NET]([Apache Lucene.NET is a powerful open source .NET search library. | Apache Lucene.NET 4.8.0](https://lucenenet.apache.org/)), which is a .NET port of [[Lucene]]

@@ -2,8 +2,8 @@
 tags:
   - container
   - container-registry
-  - open-source
   - moby-project
+  - open-source
 homepage:
   - https://github.com/distribution/distribution
 github: https://distribution.github.io/distribution/

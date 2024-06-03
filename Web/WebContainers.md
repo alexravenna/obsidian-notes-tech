@@ -1,8 +1,8 @@
 ---
-homepage:
-  - https://webcontainers.io/
 tags:
   - dev-environment
-  - environment
   - dev-tool
+  - environment
+homepage:
+  - https://webcontainers.io/
 ---

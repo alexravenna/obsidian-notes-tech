@@ -1,7 +1,7 @@
 ---
 tags:
-  - umbraco
   - azure
+  - umbraco
 resources:
   - https://github.com/umbraco-community/UmbracoFileSystemProviders.Azure/tree/develop-version-2
 ---

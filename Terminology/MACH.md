@@ -1,11 +1,11 @@
 ---
 tags:
   - abbreviation
-  - microservices
   - api
+  - architecture
   - cloud-native
   - headless
-  - architecture
+  - microservices
 homepage:
   - https://machalliance.org/
 ---

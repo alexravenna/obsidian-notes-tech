@@ -2,8 +2,8 @@
 tags:
   - ai
   - azure
-  - openai
   - gen-ai
+  - openai
 documentation:
   - https://learn.microsoft.com/en-us/azure/ai-services/openai/
 ---

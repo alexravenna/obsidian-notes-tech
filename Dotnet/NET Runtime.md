@@ -2,8 +2,8 @@
 aliases:
   - .NET runtime
 tags:
-  - runtime
   - garbage-collection
+  - runtime
 ---
 # Description
 - An execution environment for a compiled [[NET|.NET]] [[Assembly|assembly]]

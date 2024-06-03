@@ -1,8 +1,8 @@
 ---
 tags:
-  - windows
-  - shell
   - command-line
+  - shell
+  - windows
 ---
 
 - Separate from [[PowerShell]]

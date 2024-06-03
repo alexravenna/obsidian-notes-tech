@@ -1,8 +1,8 @@
 ---
-tags:
-  - file-format
 aliases:
   - PE
+tags:
+  - file-format
 ---
 - Examples:
 	- `.exe`

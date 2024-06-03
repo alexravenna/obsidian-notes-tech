@@ -2,8 +2,8 @@
 aliases:
   - Transact-SQL
 tags:
-  - sql
   - query-language
+  - sql
 ---
 - [[Microsoft]] implementation of the [[SQL - Exclude null values]] standard
 - Used by:

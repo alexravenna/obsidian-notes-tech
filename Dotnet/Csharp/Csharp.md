@@ -1,5 +1,5 @@
 ---
 aliases:
-  - csharp
   - C#
+  - csharp
 ---

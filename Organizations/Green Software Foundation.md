@@ -1,10 +1,10 @@
 ---
+aliases:
+  - GSF
 tags:
   - foundation
   - green-it
   - green-software
-aliases:
-  - GSF
 homepage:
   - https://greensoftware.foundation/
 github: https://github.com/Green-Software-Foundation

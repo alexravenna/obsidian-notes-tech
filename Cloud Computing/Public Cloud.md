@@ -1,5 +1,5 @@
 ---
 tags:
-  - cloud-model
   - cloud
+  - cloud-model
 ---

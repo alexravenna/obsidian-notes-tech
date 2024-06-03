@@ -1,10 +1,10 @@
 ---
-homepage:
-  - https://bytecodealliance.org/
 tags:
   - organization
-  - webassembly
   - wasi
+  - webassembly
+homepage:
+  - https://bytecodealliance.org/
 github: https://github.com/bytecodealliance/
 ---
 - Committed to establishing foundations for secure, efficient and modular runtime environments and language toolchains

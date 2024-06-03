@@ -1,5 +1,5 @@
 ---
 tags:
-  - database
   - cache
+  - database
 ---

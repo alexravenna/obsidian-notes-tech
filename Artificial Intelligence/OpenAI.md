@@ -1,7 +1,7 @@
 ---
 tags:
-  - company
   - ai
+  - company
 ---
 - Creators of:
 	- [[ChatGPT]]

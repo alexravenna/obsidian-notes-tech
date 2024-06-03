@@ -1,11 +1,11 @@
 ---
 tags:
   - cloud-native
-  - microsoft
   - cncf-sandbox
+  - microsoft
 homepage:
   - https://radapp.io/
+github: https://github.com/radius-project
 documentation:
   - https://docs.radapp.io/
-github: https://github.com/radius-project
 ---

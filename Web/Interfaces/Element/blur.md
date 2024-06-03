@@ -1,7 +1,7 @@
 ---
 tags:
-  - html
   - event
+  - html
   - javascript
 documentation:
   - https://developer.mozilla.org/en-US/docs/Web/API/Element/blur_event

@@ -1,6 +1,6 @@
 ---
-tags:
-  - abbreviation
 aliases:
   - Content Delivery Network
+tags:
+  - abbreviation
 ---

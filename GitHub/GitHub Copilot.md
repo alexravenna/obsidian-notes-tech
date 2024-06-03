@@ -1,10 +1,10 @@
 ---
 tags:
-  - github
-  - copilot
   - ai
-  - openai
   - codex
+  - copilot
+  - github
+  - openai
 ---
 # Description
 - An AI [[pair programming|pair programmer]] from [[GitHub]]

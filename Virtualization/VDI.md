@@ -1,6 +1,6 @@
 ---
-tags:
-  - abbreviation
 aliases:
   - Virtual Desktop Infrastructure
+tags:
+  - abbreviation
 ---

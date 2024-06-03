@@ -1,6 +1,6 @@
 ---
-tags:
-  - APM
 aliases:
+  - APM
+tags:
   - APM
 ---

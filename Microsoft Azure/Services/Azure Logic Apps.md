@@ -1,8 +1,8 @@
 ---
 tags:
-  - serverless
-  - declarative
   - azure
+  - declarative
+  - serverless
 ---
 # Description
 - Serverless workflow integration platform

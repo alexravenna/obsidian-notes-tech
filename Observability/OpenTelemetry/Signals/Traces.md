@@ -1,8 +1,8 @@
 ---
-resources:
-  - https://opentelemetry.io/docs/concepts/signals/traces/
 aliases:
   - Distributed Traces
+resources:
+  - https://opentelemetry.io/docs/concepts/signals/traces/
 ---
 # Description
 - Records the paths taken by requests through a multi-service architecture

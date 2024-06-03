@@ -1,8 +1,8 @@
 ---
 tags:
   - compiler
-  - open-source
   - csharp
+  - open-source
 github: https://github.com/dotnet/roslyn
 documentation:
   - https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/

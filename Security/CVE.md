@@ -1,8 +1,8 @@
 ---
-tags:
-  - abbreviation
 aliases:
   - Common Vulnerabilities and Exposures
+tags:
+  - abbreviation
 homepage:
   - https://www.cve.org/
 ---

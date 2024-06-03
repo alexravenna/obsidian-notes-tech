@@ -1,13 +1,13 @@
 ---
-homepage:
-  - https://containerd.io/
 tags:
+  - cncf-graduated
+  - container
   - container-runtime
   - docker
-  - cncf-graduated
-  - oci
-  - container
   - moby-project
+  - oci
+homepage:
+  - https://containerd.io/
 github: https://github.com/containerd/containerd
 documentation:
   - https://containerd.io/docs/

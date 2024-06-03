@@ -1,8 +1,8 @@
 ---
 tags:
+  - dev-tool
   - kubernetes
   - local-development
-  - dev-tool
 homepage:
   - https://kind.sigs.k8s.io/
 github: https://github.com/kubernetes-sigs/kind/

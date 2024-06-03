@@ -1,8 +1,8 @@
 ---
-tags:
-  - ai
 aliases:
   - Generative AI
+tags:
+  - ai
 ---
 - Creates new, original content based on what it has learned from existing content
 - Subset of [[Deep Learning]]

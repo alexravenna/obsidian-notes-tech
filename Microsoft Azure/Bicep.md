@@ -1,11 +1,11 @@
 ---
 tags:
   - azure
-  - IaC
-  - template
-  - DSL
   - declarative
+  - DSL
+  - IaC
   - idempotent
+  - template
 documentation:
   - https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/
 ---

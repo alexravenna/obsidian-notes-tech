@@ -1,5 +1,5 @@
 ---
 tags:
-  - os
   - linux
+  - os
 ---

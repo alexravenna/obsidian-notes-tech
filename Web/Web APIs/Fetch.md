@@ -1,11 +1,11 @@
 ---
-documentation:
-  - https://developer.mozilla.org/docs/Web/API/Fetch_API
 aliases:
   - Fetch API
 tags:
   - api
   - async
+documentation:
+  - https://developer.mozilla.org/docs/Web/API/Fetch_API
 ---
 - Interface for fetching resources across a network
 - [[Promise]]-based

@@ -1,5 +1,5 @@
 ---
-tags:
+tags: []
 ---
 - File shares
 - Can be mounted concurrently by cloud or [[on-premise]] deployments

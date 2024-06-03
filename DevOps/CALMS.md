@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Culture, Automation, Lean, Measurement, and Sharing
 tags:
   - abbreviation
   - assessment
@@ -6,6 +8,4 @@ tags:
   - framework
 resources:
   - https://www.atlassian.com/devops/frameworks/calms-framework
-aliases:
-  - Culture, Automation, Lean, Measurement, and Sharing
 ---

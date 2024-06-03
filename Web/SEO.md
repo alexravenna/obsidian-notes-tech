@@ -1,8 +1,8 @@
 ---
-tags:
-  - abbreviation
-  - search-engine
-  - optimization
 aliases:
   - Search Engine Optimization
+tags:
+  - abbreviation
+  - optimization
+  - search-engine
 ---

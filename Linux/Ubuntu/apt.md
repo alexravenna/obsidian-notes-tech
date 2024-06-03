@@ -2,8 +2,8 @@
 aliases:
   - Advanced Package Tool
 tags:
-  - package-manager
   - cli
+  - package-manager
 ---
 - The default package manager for [[Ubuntu]] and [[Debian]]
 - `update` - list available packages and their versions

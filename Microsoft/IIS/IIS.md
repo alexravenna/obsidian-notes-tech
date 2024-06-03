@@ -1,15 +1,15 @@
 ---
+aliases:
+  - Internet Information Services
 tags:
   - microsoft
   - server
   - web
   - web-server
-aliases:
-  - Internet Information Services
-documentation:
-  - https://learn.microsoft.com/en-us/iis/
 homepage:
   - https://www.iis.net/
+documentation:
+  - https://learn.microsoft.com/en-us/iis/
 ---
 # Description
 - A web server

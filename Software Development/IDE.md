@@ -1,6 +1,6 @@
 ---
-tags:
-  - abbreviation
 aliases:
   - Integrated Development Environment
+tags:
+  - abbreviation
 ---

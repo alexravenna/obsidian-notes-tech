@@ -1,8 +1,8 @@
 ---
-documentation:
-  - https://learn.microsoft.com/en-us/dotnet/core/rid-catalog
 aliases:
   - RID
+documentation:
+  - https://learn.microsoft.com/en-us/dotnet/core/rid-catalog
 ---
 - With .NET 8, a smaller RID graph was introduced
 	- version-specific and [[distro]]-specific RIDs were removed in favor of using "portable" RIDs, e.g.:

@@ -1,10 +1,10 @@
 ---
-tags:
-  - azure
-  - PaaS
 aliases:
   - Azure Web Apps
   - Azure Web Sites
+tags:
+  - azure
+  - PaaS
 documentation:
   - https://learn.microsoft.com/en-us/azure/app-service/
 training:

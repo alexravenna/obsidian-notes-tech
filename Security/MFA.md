@@ -1,6 +1,6 @@
 ---
-tags:
-  - abbreviation
 aliases:
   - Multi-Factor Authentication
+tags:
+  - abbreviation
 ---

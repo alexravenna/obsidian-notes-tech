@@ -1,11 +1,11 @@
 ---
 aliases:
   - ARM
-resources:
-  - https://learn.microsoft.com/en-us/azure/azure-resource-manager/
 tags:
   - azure
   - IaC
+resources:
+  - https://learn.microsoft.com/en-us/azure/azure-resource-manager/
 training: https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/
 ---
 - The deployment and management service for [[Azure]]

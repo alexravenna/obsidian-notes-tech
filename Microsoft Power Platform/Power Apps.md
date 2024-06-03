@@ -1,9 +1,9 @@
 ---
 tags:
-  - power-platform
-  - low-code
   - app
   - app-development
+  - low-code
+  - power-platform
 homepage:
   - https://www.microsoft.com/en-us/power-platform/products/power-apps
 ---

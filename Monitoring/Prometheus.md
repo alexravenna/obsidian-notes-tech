@@ -1,11 +1,11 @@
 ---
 tags:
-  - observability
-  - open-source
   - cncf-graduated
   - monitoring
-resources:
-  - https://prometheus.io/
+  - observability
+  - open-source
 documentation:
   - https://prometheus.io/docs/introduction/overview/
+resources:
+  - https://prometheus.io/
 ---

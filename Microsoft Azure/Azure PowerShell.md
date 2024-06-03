@@ -1,10 +1,10 @@
 ---
 tags:
-  - powershell
-  - cross-platform
-  - azure
-  - ps-module
   - add-on
+  - azure
+  - cross-platform
+  - powershell
+  - ps-module
 documentation:
   - https://learn.microsoft.com/en-us/powershell/azure/
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
   - snippet
-  - sql
   - sort
+  - sql
 ---
 # Description
 - Sort/order the result set

@@ -1,11 +1,11 @@
 ---
-homepage:
-  - https://ebpf.io/
 aliases:
   - extended Berkeley Packet Filter
 tags:
-  - linux
   - kernel
+  - linux
+homepage:
+  - https://ebpf.io/
 ---
 - Process:
 	- C code compiled to intermediate bytecode

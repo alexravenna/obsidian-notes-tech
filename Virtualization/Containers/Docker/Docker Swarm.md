@@ -1,7 +1,7 @@
 ---
 tags:
-  - docker
   - container
+  - docker
   - orchestrator
 ---
 - A native [[Docker]] clustering solution

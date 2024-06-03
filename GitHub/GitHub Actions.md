@@ -1,8 +1,8 @@
 ---
 tags:
+  - automation
   - ci-cd
   - pipeline
-  - automation
 documentation:
   - https://docs.github.com/en/actions
 ---

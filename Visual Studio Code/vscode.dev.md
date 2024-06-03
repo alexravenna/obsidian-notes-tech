@@ -1,17 +1,17 @@
 ---
+aliases:
+  - Visual Studio Code for the Web
+  - VS Code for the Web
 tags:
-  - ide
   - browser
-resources:
-  - https://code.visualstudio.com/blogs/2021/10/20/vscode-dev
+  - ide
 homepage:
   - https://vscode.dev/
-aliases:
-  - VS Code for the Web
-  - Visual Studio Code for the Web
-training: https://learn.microsoft.com/en-us/training/modules/edit-code-using-any-device/
 documentation:
   - https://code.visualstudio.com/docs/editor/vscode-web
+resources:
+  - https://code.visualstudio.com/blogs/2021/10/20/vscode-dev
+training: https://learn.microsoft.com/en-us/training/modules/edit-code-using-any-device/
 ---
 # Description
 - A lightweight web-based version of [[Visual Studio Code]]

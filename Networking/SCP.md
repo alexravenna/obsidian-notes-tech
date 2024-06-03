@@ -1,12 +1,12 @@
 ---
-tags:
-  - abbreviation
-  - protocol
-  - legacy
-  - networking
-  - tool
 aliases:
   - Secure Copy Protocol
+tags:
+  - abbreviation
+  - legacy
+  - networking
+  - protocol
+  - tool
 ---
 # Description
 - A network protocol for transferring files between two hosts

@@ -1,13 +1,13 @@
 ---
-homepage:
-  - https://buildpacks.io/
-documentation:
-  - https://buildpacks.io/docs/
-github: https://github.com/buildpacks
 tags:
   - cloud-native
-  - container-images
   - cncf-incubating
+  - container-images
+homepage:
+  - https://buildpacks.io/
+github: https://github.com/buildpacks
+documentation:
+  - https://buildpacks.io/docs/
 ---
 # Description
 - Initiated by [[Heroku]]

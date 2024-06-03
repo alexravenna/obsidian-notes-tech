@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Continuous Delivery Foundation
 tags:
-  - linux-foundation
-  - continuous-delivery
   - cd
+  - continuous-delivery
+  - linux-foundation
   - member-of/linux-foundation
 homepage:
   - https://cd.foundation/
-aliases:
-  - Continuous Delivery Foundation
 github: https://github.com/cdfoundation
 ---

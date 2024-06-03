@@ -1,10 +1,10 @@
 ---
-resources:
-  - https://learn.microsoft.com/en-us/aspnet/core/fundamentals/startup?preserve-view=true&view=aspnetcore-5.0
 tags:
   - ASPNET
   - dotnet
   - file
+resources:
+  - https://learn.microsoft.com/en-us/aspnet/core/fundamentals/startup?preserve-view=true&view=aspnetcore-5.0
 ---
 - Purpose:
 	- Configures services: `ConfigureServices` method

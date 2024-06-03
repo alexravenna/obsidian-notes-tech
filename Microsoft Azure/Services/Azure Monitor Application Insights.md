@@ -1,11 +1,11 @@
 ---
+tags:
+  - azure
+  - logging
+  - telemetry
 resources:
   - https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
   - https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-overview?tabs=aspnetcore
-tags:
-  - azure
-  - telemetry
-  - logging
 ---
 # Description
 - A feature of [[Azure Monitor]]

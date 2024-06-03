@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Open Container Initiative
 tags:
   - abbreviation
   - container
   - linux-foundation
 homepage:
   - https://opencontainers.org/
-aliases:
-  - Open Container Initiative
 github: https://github.com/opencontainers
 ---
 # Description

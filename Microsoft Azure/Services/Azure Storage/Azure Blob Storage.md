@@ -1,8 +1,8 @@
 ---
 tags:
   - azure
-  - storage
   - blob
+  - storage
 ---
 - Object storage solution
 - For unstructured data (text, binary)

@@ -1,8 +1,8 @@
 ---
-tags:
-  - architecture
 aliases:
   - ARM
+tags:
+  - architecture
 homepage:
   - https://www.arm.com/
 ---

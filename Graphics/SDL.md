@@ -1,13 +1,13 @@
 ---
+aliases:
+  - Simple DirectMedia Layer
 tags:
   - abbreviation
-  - graphics
   - cross-platform
+  - graphics
 homepage:
   - https://www.libsdl.org/index.php
 github: https://github.com/libsdl-org
-aliases:
-  - Simple DirectMedia Layer
 documentation:
   - https://wiki.libsdl.org/SDL2/FrontPage
 ---

@@ -1,6 +1,6 @@
 ---
-tags:
-  - abbreviation
 aliases:
   - Incremental Static Regeneration
+tags:
+  - abbreviation
 ---

@@ -1,13 +1,13 @@
 ---
+tags:
+  - accessibility
+  - client-server
+  - compatibility
+  - dev-tool
+  - member-of/openjs
+  - web
 homepage:
   - https://webhint.io/
-tags:
-  - member-of/openjs
-  - accessibility
-  - compatibility
-  - web
-  - client-server
-  - dev-tool
 github: https://github.com/webhintio
 ---
 - A [[linting]] tool for websites to help improve their:

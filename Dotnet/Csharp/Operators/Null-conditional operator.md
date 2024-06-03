@@ -1,13 +1,13 @@
 ---
 aliases:
   - ?.
-documentation:
-  - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-
-training: https://learn.microsoft.com/en-us/training/modules/csharp-null-safety
 tags:
   - "null"
   - null-safety
   - operator
+documentation:
+  - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-
+training: https://learn.microsoft.com/en-us/training/modules/csharp-null-safety
 ---
 - `?.` to check if a value/property is `null` before we try to dereference it
 	- If it is, use the `default` value of the object

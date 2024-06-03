@@ -1,7 +1,7 @@
 ---
 tags:
-  - logging
   - library
+  - logging
 documentation:
   - https://github.com/serilog/serilog/wiki
 ---

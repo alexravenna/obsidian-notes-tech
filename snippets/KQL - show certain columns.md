@@ -1,7 +1,7 @@
 ---
 tags:
-  - snippet
   - KQL
+  - snippet
 ---
 - Use the `project` operator:
 ```kql

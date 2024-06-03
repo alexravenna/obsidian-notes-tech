@@ -2,9 +2,9 @@
 tags:
   - git
   - VCS
-documentation:
-  - https://git-scm.com/doc
 homepage:
   - https://git-scm.com/
+documentation:
+  - https://git-scm.com/doc
 ---
 - A distributed [[VCS]]

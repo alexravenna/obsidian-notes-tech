@@ -1,7 +1,7 @@
 ---
 tags:
-  - microsoft
   - holograph
+  - microsoft
 documentation:
   - https://learn.microsoft.com/en-us/windows/mixed-reality/develop/native/holographic-remoting-overview
 ---

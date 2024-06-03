@@ -2,9 +2,9 @@
 aliases:
   - SSH File Transfer Protocol
 tags:
-  - SSH
-  - FTP
   - abbreviation
+  - FTP
+  - SSH
 ---
 # Description
 - A network protocol for:

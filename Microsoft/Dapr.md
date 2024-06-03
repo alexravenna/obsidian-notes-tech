@@ -1,14 +1,14 @@
 ---
-tags:
-  - microsoft
-  - cloud
-  - distributed-computing
-  - cncf-incubating
-documentation:
-  - https://docs.dapr.io/
-github: https://github.com/dapr
-homepage:
-  - https://dapr.io/
 aliases:
   - Distributed Application Runtime
+tags:
+  - cloud
+  - cncf-incubating
+  - distributed-computing
+  - microsoft
+homepage:
+  - https://dapr.io/
+github: https://github.com/dapr
+documentation:
+  - https://docs.dapr.io/
 ---

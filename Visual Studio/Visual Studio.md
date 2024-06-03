@@ -1,8 +1,8 @@
 ---
 tags:
+  - dev-tool
   - ide
   - microsoft
-  - dev-tool
 homepage:
   - https://visualstudio.microsoft.com/
 documentation:

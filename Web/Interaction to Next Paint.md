@@ -1,11 +1,11 @@
 ---
 aliases:
   - INP
-resources:
-  - https://web.dev/explore/how-to-optimize-inp
 tags:
+  - interactivity
   - metric
   - responsiveness
-  - interactivity
+resources:
+  - https://web.dev/explore/how-to-optimize-inp
 ---
 - A measurement of how quickly a page responds to user interactions

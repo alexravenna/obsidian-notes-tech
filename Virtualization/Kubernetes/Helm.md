@@ -1,11 +1,11 @@
 ---
 tags:
+  - cncf-graduated
+  - dev-tool
   - kubernetes
   - package-manager
-  - dev-tool
-  - cncf-graduated
+github: https://github.com/helm/helm
 resources:
   - https://helm.sh/
-github: https://github.com/helm/helm
 ---
 - The package manager for [[Kubernetes]]

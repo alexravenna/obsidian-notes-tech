@@ -1,12 +1,12 @@
 ---
 aliases:
   - CNCF
-resources:
-  - https://www.cncf.io/
 tags:
-  - foundation
   - cloud
   - cloud-native
+  - foundation
   - linux-foundation
   - member-of/linux-foundation
+resources:
+  - https://www.cncf.io/
 ---

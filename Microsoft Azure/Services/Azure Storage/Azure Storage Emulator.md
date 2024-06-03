@@ -1,10 +1,10 @@
 ---
 tags:
   - azure
-  - storage
-  - emulator
-  - dev-tool
   - deprecated
+  - dev-tool
+  - emulator
+  - storage
 ---
 - Windows-only
 - Superseded by [[Azurite]]

@@ -1,7 +1,7 @@
 ---
 tags:
-  - logging
   - application-insights
+  - logging
   - serilog
 homepage:
   - https://github.com/serilog-contrib/serilog-sinks-applicationinsights

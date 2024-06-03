@@ -1,8 +1,8 @@
 ---
 tags:
+  - devsecops
   - open-source
   - scm
-  - devsecops
 ---
 - Big on [[DevSecOps]] instead of just [[DevOps]]
 - Multiple editions:

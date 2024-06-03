@@ -1,9 +1,9 @@
 ---
 tags:
-  - t-sql
+  - binary
   - data-type
   - integer
-  - binary
+  - t-sql
 documentation:
   - https://learn.microsoft.com/en-us/sql/t-sql/data-types/bit-transact-sql
 ---

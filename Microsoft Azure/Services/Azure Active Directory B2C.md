@@ -2,9 +2,9 @@
 aliases:
   - AD B2C
 tags:
-  - azure
   - "#authentication"
   - "#authorization"
+  - azure
 resources:
   - https://learn.microsoft.com/en-us/azure/active-directory-b2c/overview
 ---

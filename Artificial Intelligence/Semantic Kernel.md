@@ -1,12 +1,12 @@
 ---
 tags:
+  - ai
   - microsoft
   - open-source
-  - ai
   - sdk
+github: https://github.com/microsoft/semantic-kernel
 documentation:
   - https://learn.microsoft.com/en-us/semantic-kernel/
-github: https://github.com/microsoft/semantic-kernel
 training:
   - https://learn.microsoft.com/en-us/training/modules/build-your-kernel/
 ---

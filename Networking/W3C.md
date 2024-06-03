@@ -1,10 +1,10 @@
 ---
-tags:
-  - internet
-  - www
-  - abbreviation
 aliases:
   - World Wide Web Consortium
+tags:
+  - abbreviation
+  - internet
+  - www
 homepage:
   - https://www.w3.org/
 ---

@@ -3,8 +3,8 @@ tags:
   - html
   - tag
 resources:
-  - https://developers.google.com/search/docs/crawling-indexing/special-tags
   - https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag
+  - https://developers.google.com/search/docs/crawling-indexing/special-tags
 ---
 - `<meta>`
 - Used to provide additional information about a webpage to search engines and other clients

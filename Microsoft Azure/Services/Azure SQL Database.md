@@ -1,8 +1,8 @@
 ---
 tags:
-  - SaaS
   - azure
   - database
+  - SaaS
 ---
 - Two purchasing models:
 	- vCore model

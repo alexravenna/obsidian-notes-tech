@@ -2,8 +2,8 @@
 aliases:
   - Natural Language Processing
 tags:
+  - abbreviation
   - ai
   - language
-  - abbreviation
 ---
 - When software can understand written and spoken language

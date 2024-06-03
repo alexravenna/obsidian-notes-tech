@@ -1,16 +1,16 @@
 ---
 tags:
-  - dynamically-typed
-  - language
-  - scripting
-  - web
-  - interpreted
-  - garbage-collected
-  - prototyped-based
-  - oop
   - browser
-  - v8
+  - dynamically-typed
+  - garbage-collected
+  - interpreted
+  - language
   - nodejs
+  - oop
+  - prototyped-based
+  - scripting
+  - v8
+  - web
 ---
 
 - [[Interpreted language]]

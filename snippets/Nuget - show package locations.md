@@ -1,7 +1,7 @@
 ---
 tags:
-  - snippet
   - nuget
+  - snippet
 ---
 With [[NuGet CLI]]
 ```

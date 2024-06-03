@@ -1,7 +1,7 @@
 ---
 tags:
-  - sql
   - snippet
+  - sql
 ---
 - Use the `AND` operator
 ```sql

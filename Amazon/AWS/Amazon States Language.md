@@ -1,5 +1,5 @@
 ---
 tags:
-  - dsl
   - aws
+  - dsl
 ---

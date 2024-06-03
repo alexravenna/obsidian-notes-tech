@@ -1,13 +1,13 @@
 ---
-github: https://github.com/microsoft/monaco-editor
+tags:
+  - code-editor
+  - editor
+  - microsoft
+  - vs-code
+  - web
 homepage:
   - https://microsoft.github.io/monaco-editor/
-tags:
-  - editor
-  - code-editor
-  - vs-code
-  - microsoft
-  - web
+github: https://github.com/microsoft/monaco-editor
 documentation:
   - https://microsoft.github.io/monaco-editor/docs.html
 ---

@@ -4,9 +4,9 @@ tags:
   - SEO
 documentation:
   - https://developers.google.com/search/docs/crawling-indexing/robots/intro
+specification: https://www.rfc-editor.org/info/rfc9309
 resources:
   - https://support.google.com/webmasters/answer/7489871
-specification: https://www.rfc-editor.org/info/rfc9309
 ---
 # Description
 - A standard file for managing [[Web crawler|web crawler]] traffic, i.e. preventing/allowing crawling

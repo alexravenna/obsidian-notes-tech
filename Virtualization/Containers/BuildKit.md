@@ -1,5 +1,5 @@
 ---
-github: https://github.com/moby/buildkit
 tags:
   - moby-project
+github: https://github.com/moby/buildkit
 ---

@@ -1,12 +1,12 @@
 ---
-github: https://github.com/msgpack
-homepage:
-  - https://msgpack.org/
-tags:
-  - format
-  - binary
-  - serialization
 aliases:
   - MsgPack
+tags:
+  - binary
+  - format
+  - serialization
+homepage:
+  - https://msgpack.org/
+github: https://github.com/msgpack
 ---
 - A [[binary]] [[serialization]] format

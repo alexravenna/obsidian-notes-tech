@@ -1,11 +1,11 @@
 ---
 tags:
-  - declarative
-  - IaC
   - cloud
-  - infrastructure
-  - hashicorp
   - cloud-agnostic
+  - declarative
+  - hashicorp
+  - IaC
+  - infrastructure
 ---
 # Description
 - [[Cloud-agnostic]] [[Infrastructure as Code]] tool

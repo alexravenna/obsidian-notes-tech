@@ -3,8 +3,8 @@ aliases:
   - RESTful API Modeling Language
 tags:
   - api
-  - yaml
   - rest
+  - yaml
 homepage:
   - https://raml.org/
 ---

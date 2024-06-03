@@ -1,11 +1,11 @@
 ---
-tags:
-  - SSH
-  - filesystem
-  - client
-  - abbreviation
 aliases:
   - SSH Filesystem
+tags:
+  - abbreviation
+  - client
+  - filesystem
+  - SSH
 homepage:
   - https://github.com/libfuse/sshfs
 ---

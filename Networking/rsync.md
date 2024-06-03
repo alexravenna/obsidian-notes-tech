@@ -1,9 +1,9 @@
 ---
+tags:
+  - file
+  - open-source
+  - sync
+  - transfer
 homepage:
   - https://rsync.samba.org/
-tags:
-  - open-source
-  - file
-  - transfer
-  - sync
 ---

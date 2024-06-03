@@ -1,5 +1,5 @@
 ---
 tags:
-  - IoC
   - DI
+  - IoC
 ---

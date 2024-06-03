@@ -1,8 +1,8 @@
 ---
 tags:
   - company
-  - hosting
   - development
+  - hosting
   - microsoft
   - open-source
 ---

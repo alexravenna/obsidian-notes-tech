@@ -1,11 +1,11 @@
 ---
-documentation:
-  - https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-publish
 tags:
-  - dotnet
   - command
   - compiler
+  - dotnet
   - output
+documentation:
+  - https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-publish
 ---
 # Description
 - `dotnet publish` compiles the application and outputs the following assets:

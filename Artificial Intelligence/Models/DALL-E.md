@@ -1,6 +1,6 @@
 ---
 tags:
-  - openai
-  - image-generation
   - ai-
+  - image-generation
+  - openai
 ---

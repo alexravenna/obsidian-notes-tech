@@ -1,12 +1,12 @@
 ---
 aliases:
   - Kusto
-resources:
-  - https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
-  - https://detective.kusto.io/
 tags:
-  - query-language
   - KQL
+  - query-language
+resources:
+  - https://detective.kusto.io/
+  - https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
 ---
 - Kusto Query Language
 - Primary query language used in [[Azure Data Explorer]]

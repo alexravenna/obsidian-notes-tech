@@ -5,6 +5,6 @@ aliases:
   - spiderbot
 tags:
   - bot
-  - SEO
   - search
+  - SEO
 ---

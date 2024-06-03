@@ -1,10 +1,10 @@
 ---
 tags:
   - cloud
-  - events
-  - specification
   - cncf-graduated
+  - events
   - interoperability
+  - specification
 homepage:
   - https://cloudevents.io/
 github: https://github.com/cloudevents

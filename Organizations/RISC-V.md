@@ -1,6 +1,6 @@
 ---
 tags:
-  - linux-foundation
   - abbreviation
+  - linux-foundation
   - member-of/linux-foundation
 ---

@@ -1,11 +1,11 @@
 ---
-documentation:
-  - https://learn.microsoft.com/en-us/azure/remote-rendering/
 aliases:
   - ARR
 tags:
-  - microsoft
   - azure
+  - microsoft
+documentation:
+  - https://learn.microsoft.com/en-us/azure/remote-rendering/
 ---
 # Description
 - Enables real-time streaming of high-quality, interactive 3D content to devices like the [[HoloLens 2]]

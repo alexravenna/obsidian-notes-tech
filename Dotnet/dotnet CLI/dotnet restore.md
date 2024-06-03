@@ -1,7 +1,7 @@
 ---
 tags:
-  - dotnet
   - command
+  - dotnet
   - nuget
 documentation:
   - https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-restore

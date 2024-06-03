@@ -1,7 +1,7 @@
 ---
+aliases:
+  - extract, transform, load
 tags:
   - abbreviation
   - data
-aliases:
-  - extract, transform, load
 ---

@@ -1,10 +1,10 @@
 ---
-tags:
-  - abbreviation
-  - protocol
-  - microsoft
 aliases:
   - Language Server Protocol
+tags:
+  - abbreviation
+  - microsoft
+  - protocol
 homepage:
   - https://microsoft.github.io/language-server-protocol/
 ---

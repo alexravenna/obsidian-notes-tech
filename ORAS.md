@@ -1,16 +1,16 @@
 ---
+aliases:
+  - OCI Registry as Storage
 tags:
-  - container
-  - cncf-sandbox
   - abbreviation
+  - cncf-sandbox
+  - container
   - server-client
 homepage:
   - https://oras.land/
+github: https://github.com/oras-project
 documentation:
   - https://oras.land/docs/
-github: https://github.com/oras-project
-aliases:
-  - OCI Registry as Storage
 ---
 # Description
 - Distributes arbitrary [[OCI]] artifacts to registries that implement the [[distribution-spec]]

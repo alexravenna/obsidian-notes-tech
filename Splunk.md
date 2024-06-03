@@ -1,11 +1,11 @@
 ---
-homepage:
-  - https://www.splunk.com/
 tags:
+  - enterprise
   - observability
   - platform
-  - security
   - resilience
-  - enterprise
+  - security
+homepage:
+  - https://www.splunk.com/
 ---
 - Enterprise security and observability platform
