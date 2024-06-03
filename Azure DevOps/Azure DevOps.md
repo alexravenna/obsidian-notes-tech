@@ -5,3 +5,7 @@ aliases:
 - Components:
 	- Boards
 	- [[Azure Pipelines]]
+- Libraries: a collection of build and release assets for a project
+	- Contain:
+		- variable groups
+		- secure files
