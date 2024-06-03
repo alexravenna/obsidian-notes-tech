@@ -1,12 +1,12 @@
 ---
-tags:
-  - IaC
-  - template
-  - JSON
-  - build
-  - azure
 resources:
   - https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/
+tags:
+  - azure
+  - build
+  - IaC
+  - JSON
+  - template
 ---
 - Azure Resource Manager Templates
 - Declarative syntax in JSON files for defining infrastructure and resources for Azure Deployment

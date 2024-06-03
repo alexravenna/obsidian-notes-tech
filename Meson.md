@@ -1,13 +1,13 @@
 ---
-homepage:
-  - https://mesonbuild.com/
 tags:
   - build
+  - build-system
   - c
   - cpp
-  - open-source
-  - build-system
   - multiplatform
+  - open-source
+homepage:
+  - https://mesonbuild.com/
 github: https://github.com/mesonbuild/meson
 ---
 - A multiplatform build system for multiple languages, including:

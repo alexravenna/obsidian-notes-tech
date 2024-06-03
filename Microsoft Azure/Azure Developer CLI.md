@@ -1,10 +1,10 @@
 ---
 aliases:
   - azd
-training: https://learn.microsoft.com/en-us/training/paths/azure-developer-cli/
 tags:
+  - azure
   - cli
   - command-line
   - open-source
-  - azure
+training: https://learn.microsoft.com/en-us/training/paths/azure-developer-cli/
 ---
