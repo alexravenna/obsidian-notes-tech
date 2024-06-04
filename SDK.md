@@ -11,7 +11,7 @@ tags:
 	- add-ons
 	- extension
 	- etc.
-- Are often [[open source]], but not always
+- Are often [[Open Source]], but not always
 - May contain any/all of the following:
 	- [[API]]s
 	- [[Documentation]]

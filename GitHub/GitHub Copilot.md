@@ -5,6 +5,9 @@ tags:
   - copilot
   - github
   - openai
+resources:
+  - https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/
+  - https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/
 training:
   - https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
 ---

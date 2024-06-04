@@ -11,7 +11,7 @@ github: https://github.com/xunit/xunit
 documentation:
   - https://xunit.net/#documentation
 ---
-- An [[open source]] [[unit testing]] tool for the [[.NET Framework]]
+- An [[Open Source]] [[unit testing]] tool for the [[.NET Framework]]
 - Supported languages:
 	- [[Csharp#|C#]]
 	- [[Fsharp|F#]]
