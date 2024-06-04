@@ -1,1 +1,0 @@
-- The process of creating a [[Prompt|prompt]] that will generate the desired output
