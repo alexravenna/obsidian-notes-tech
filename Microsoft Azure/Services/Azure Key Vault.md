@@ -3,6 +3,6 @@ tags:
   - azure
   - secrets
   - secrets-management
-resources:
+documentation:
   - https://learn.microsoft.com/en-us/azure/key-vault/general/
 ---

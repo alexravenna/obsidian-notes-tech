@@ -4,6 +4,7 @@ aliases:
 ---
 - Components:
 	- Boards
+	- Repos
 	- [[Azure Pipelines]]
 - Libraries: a collection of build and release assets for a project
 	- Contain:

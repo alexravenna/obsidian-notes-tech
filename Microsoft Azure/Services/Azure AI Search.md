@@ -3,6 +3,8 @@ tags:
   - azure
   - search
   - service-bus
+documentation:
+  - https://learn.microsoft.com/en-us/azure/search/
 ---
 - Search-as-a-service
 - Formerly known as:

@@ -5,6 +5,8 @@ tags:
   - PaaS
 homepage:
   - https://azure.microsoft.com/en-us/products/ai-studio
+documentation:
+  - https://learn.microsoft.com/en-us/azure/ai-studio/
 ---
 - Allows more fine-tuning than something like [[Copilot Studio]]:
 	- definition of which [[Model]] to use
