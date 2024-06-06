@@ -14,6 +14,11 @@ training:
 # Description
 - An AI [[pair programming|pair programmer]] from [[GitHub]]
 - Powered by [[Codex]] 
+- Supported [[IDE]]s:
+	- [[Visual Studio]]
+	- [[Visual Studio Code|VS Code]]
+	- [[Neovim]]
+	- [[JetBrains]] IDEs
 - Steps behind a prompt:
   1. Prompt and context (nearby code, file type and name, open tabs) transmission (over [[HTTPS]])
   2. Content filtering to remove personal data and inappropriate content
@@ -22,3 +27,7 @@ training:
   5. User interaction (accept, modify or reject code suggestions)
   6. Copilot internal feedback loop
   7. Repeat for subsequent prompts
+- GitHub Copilot for Business vs GitHub Copilot for Individuals:
+	- [[VPN]] proxy support via [[Self-signed Certificate|self-signed certificates]]
+	- zero data retention for snippets and telemetry
+	- policy management organization-wide
