@@ -7,6 +7,7 @@ documentation:
 ---
 - A portfolio of [[AI]] services
 - Offers prebuilt, pretrained [[Machine Learning|ML]] models
+- Studio interfaces are available for some services, e.g. [[Azure AI Studio]]
 - Services are accessible through:
 	- [[REST]] [[API]]s
 	- client libraries
