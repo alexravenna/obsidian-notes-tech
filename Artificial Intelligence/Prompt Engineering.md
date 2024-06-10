@@ -3,6 +3,9 @@ aliases:
   - Prompt Design
 resources:
   - https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
+  - https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering
+training:
+  - https://learn.microsoft.com/en-us/training/modules/create-prompts-for-generative-ai-training-tools/
 ---
 # Description
 - The process of creating a [[Prompt|prompt]] that guide the [[AI]] system to generate the desired output
