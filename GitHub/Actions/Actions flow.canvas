@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a80d7c1fca97d9f2","type":"text","text":"Events","x":-340,"y":-220,"width":250,"height":60},
+		{"id":"6350f951f700daad","type":"text","text":"Jobs\n","x":-339,"y":146,"width":250,"height":60},
+		{"id":"0d8a5a0689588a22","type":"text","text":"Workflows","x":-339,"y":-20,"width":250,"height":60},
+		{"id":"d59d8ac2f9599c06","type":"text","text":"Actions","x":-339,"y":329,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5ff55f09f6bbe998","fromNode":"a80d7c1fca97d9f2","fromSide":"bottom","toNode":"0d8a5a0689588a22","toSide":"top","label":"trigger"},
+		{"id":"f4735aa517ad5254","fromNode":"0d8a5a0689588a22","fromSide":"bottom","toNode":"6350f951f700daad","toSide":"top","label":"contain"},
+		{"id":"21051ae21e6d5ebb","fromNode":"6350f951f700daad","fromSide":"bottom","toNode":"d59d8ac2f9599c06","toSide":"top","label":"use"}
+	]
+}

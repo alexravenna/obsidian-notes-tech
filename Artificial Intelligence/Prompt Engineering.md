@@ -2,8 +2,8 @@
 aliases:
   - Prompt Design
 resources:
-  - https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
   - https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering
+  - https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
 training:
   - https://learn.microsoft.com/en-us/training/modules/create-prompts-for-generative-ai-training-tools/
 ---
