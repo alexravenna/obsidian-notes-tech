@@ -32,6 +32,20 @@ training:
 		- events and triggers
 		- jobs to run when triggered
 		- where to run the jobs, i.e. with which runner
+- Jobs:
+	- can be dependent on one another
+	- if not, they run in parallel
+	- all steps in one job execute on the same runner and share the same filesystem
+- Runners:
+	- self-hosted runners:
+		- have to be registered before use
+		- can be added at repo, organization and enterprise level
+- Versions:
+	- the latest version of an Action is always automatically retrieved
+	- you can specify a specific version through:
+		- tags: `-uses: actions/install-timer@v2.0.1`
+		- [[SHA]]-based hashes: `-uses: actions/install-timer@327239021...`
+		- the latest version from a specific branch: `-uses: actions/install-timer@develop`
 # Workflow Syntax
 - `on`: defines triggering event
 - `jobs`: list of jobs to execute
