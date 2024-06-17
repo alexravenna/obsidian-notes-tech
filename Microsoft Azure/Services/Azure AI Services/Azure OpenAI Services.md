@@ -20,3 +20,4 @@ documentation:
 	 - [Azure OpenAI Studio - Microsoft Azure](https://oai.azure.com/portal)
 	 - [[REST]] [[API]]s
 	 - [[Python]] [[SDK]]
+ - Provides content filters for enabling [[Responsible AI|responsible AI]] usage

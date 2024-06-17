@@ -3,9 +3,9 @@ aliases:
   - Git commit
 ---
 - Represents a specific version of the [[Working tree|working tree]]
+- A record of change(s) to one or more files on a [[branch]]
 - Contains:
 	- Author's name and e-mail address
-	- Date
+	- Date and time
 	- Comment/description about the changes
 	- A digital signature (optional)
-	- 

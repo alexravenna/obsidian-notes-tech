@@ -1,0 +1,1 @@
+- A mechanism for signifying that the [[Commit|commits]] from one [[branch]] are ready to be merged into another branch

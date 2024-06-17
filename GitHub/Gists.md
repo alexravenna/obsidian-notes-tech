@@ -1,0 +1,2 @@
+- Each gist is a [[Git]] [[Repository|repo]]
+- Secret/private gists can be seen by those with the [[URL]]
