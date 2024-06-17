@@ -1,6 +1,10 @@
 ---
 aliases:
   - ADO
+  - TFS
+  - VSTS
+documentation:
+  - https://learn.microsoft.com/en-us/azure/devops/
 ---
 - Components:
 	- Boards
@@ -10,3 +14,8 @@ aliases:
 	- Contain:
 		- variable groups
 		- secure files
+- Available in two flavors:
+	- Azure DevOps Services - the [[cloud]] offering
+		- Formerly Visual Studio Team Services (VSTS)
+	- Azure DevOps Server - the [[self-hosted]]/[[on-premise|on-prem]] variant
+		- Formerly Visual Studio Team Foundation Server (TFS)

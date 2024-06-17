@@ -3,6 +3,8 @@ tags:
   - azure-devops
   - ci-cd
   - devops
+documentation:
+  - https://learn.microsoft.com/en-us/azure/devops/pipelines/
 ---
 # Description
 - A [[CI]]/[[CD]] service from [[Azure DevOps]]
@@ -20,6 +22,12 @@ tags:
 	- Stage: primary divisions of a pipeline
 	- Task: the building block of a pipeline
 	- Trigger: when a pipeline should run
-- Tasks:
-	- [[Azure App Service Deploy]]
-	- [[IIS WebApp Deploy]]
+- Agents:
+	- can be [[self-hosted]] under:
+		- [[Windows]]
+		- [[macOS]]
+		- [[Linux]]
+		- [[Docker]]
+# Tasks
+- [[Azure App Service Deploy]]
+- [[IIS WebApp Deploy]]
