@@ -10,3 +10,13 @@ tags:
 - A developer platform
 - Acquired by [[Microsoft]]
 - Largest web portal for hosting code
+- Components:
+	- Repositories
+	- Issues 
+		- For tracking ideas, feedback, tasks or bugs
+		- Multiple templates for new issues can be defined
+	- Discussions
+		- For open discussions: Q&A, announcements, etc. - like a forum
+		- Have to be enabled first in Settings
+	- Pages
+		- [[Static site]] hosting service
