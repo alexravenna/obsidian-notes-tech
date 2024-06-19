@@ -53,3 +53,10 @@ training:
 	- `runs-on`: which runner to execute on
 	- `steps`: a list of steps to execute
 		- `uses`: which Action to consume
+# Environment Variables
+- All built-in [[Environment Variables|environment variables]] have the `GITHUB_` prefix
+- Examples:
+	- `GITHUB_WORKFLOW`: the name of the workflow
+	- `GITHUB_ACTION`: the unique identifier for the action
+	- `GITHUB_REPOSITORY`: owner/repo
+- Passed in with the `env:` key
