@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "resources": "multitext",
+    "documentation": "multitext",
+    "implemented by": "multitext",
+    "training": "multitext"
+  }
+}

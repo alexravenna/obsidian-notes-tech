@@ -1,0 +1,21 @@
+{
+  "token": "5wG2Dm8cCjYowOKiUziX7cOYyyJJBQSVHWQES3ocuV1Ft1HzmN",
+  "readwiseDir": "Readwise",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": true,
+  "lastSavedStatusID": 12827606,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "Readwise/Articles/How to Stop Lying to Ourselves A Call for Self-Awareness.md": "35346737",
+    "Readwise/Articles/Passages Saved From Android.md": "35383889",
+    "Readwise/Articles/Locofy Launches ‘Large Design Model’ to Turn Designs to Code.md": "36828079",
+    "Readwise/Articles/DevSecOps Is Nothing Without DevEx.md": "36935917",
+    "Readwise/Articles/MicrosoftDev-Proxy Dev Proxy Is a Command Line Tool That Simulates Real World Behaviors of HTTP APIs, Including Microsoft Graph, Locally..md": "37058009",
+    "Readwise/Articles/Mobb Extends DevSecOps Reach of Tool to Generate Patches.md": "37295112"
+  },
+  "reimportShowConfirmation": true
+}

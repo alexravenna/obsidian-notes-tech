@@ -1,0 +1,10 @@
+{
+  "cloudCapabilities": "blended",
+  "hasLoaded": true,
+  "autoOpen": true,
+  "autoDiscover": true,
+  "enrich_confirmation": true,
+  "autoDiscoverMaximum": 50,
+  "use_note_title": false,
+  "enrichmentLevels": "HIGH"
+}
