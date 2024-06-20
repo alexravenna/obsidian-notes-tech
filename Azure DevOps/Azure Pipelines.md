@@ -28,6 +28,7 @@ documentation:
 		- [[macOS]]
 		- [[Linux]]
 		- [[Docker]]
+	- or hosted by [[Microsoft]]
 # Tasks
 - [[Azure App Service Deploy]]
 - [[IIS WebApp Deploy]]

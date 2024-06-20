@@ -5,6 +5,8 @@ tags:
   - pipeline
 documentation:
   - https://docs.github.com/en/actions
+resources:
+  - https://github.com/actions/starter-workflows
 training:
   - https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/
 ---
