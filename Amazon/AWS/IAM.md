@@ -5,4 +5,4 @@ tags:
   - aws
   - iam
 ---
-- The [[IAM]] solution for [[AWS]]
+- The [[Identity and Access Management|IAM]] solution for [[AWS]]
