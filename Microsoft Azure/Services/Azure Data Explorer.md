@@ -1,7 +1,7 @@
 ---
 aliases:
   - ADX
-resources:
-  - https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
+documentation:
+  - https://learn.microsoft.com/en-us/azure/data-explorer/
 ---
 - Data analytics platform

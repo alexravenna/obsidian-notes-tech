@@ -10,7 +10,7 @@ resources:
 # Description
 - A feature of [[Azure Monitor]]
 - Enables [[Application Performance Management]]
-- Sends telemetry from a web application to the [[Microsoft Azure/Azure]] portal
+- Sends telemetry from a web application to the [[Azure]] portal
 - Telemetry types/"pillars":
 	- Distributed tracing
 	- Metrics
@@ -28,7 +28,9 @@ resources:
 - Integration possibilities:
 	- Application Insights ASP.NET SDK
 		- Configured by [[ApplicationInsights.config]]
+	- The Application Insights agent
 - #caveat [[Redis]] dependencies must be manually configured, they aren't detected automatically
+- Can send status requests to your application
 # Preprocessing Telemetry
 ## Sampling
 - Application Insights features three sampling methods:
