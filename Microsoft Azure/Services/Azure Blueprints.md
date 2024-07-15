@@ -1,0 +1,1 @@
+- Can be used to assign [[Azure Policy|policy]] assignments

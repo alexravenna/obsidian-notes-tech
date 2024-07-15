@@ -1,0 +1,1 @@
+- Allows you to query information about [[Resource|resource]] [[Azure Policy|compliancy]]

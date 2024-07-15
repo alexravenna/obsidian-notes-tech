@@ -1,0 +1,7 @@
+- Allows you to manage resource types hosted outside of [[Azure]]
+- Supported resource types:
+	- physical and virtual [[Windows]] or [[Linux]] servers
+	- [[Kubernetes]] clusters
+	- Azure services such as Azure SQL Managed Instance
+	- [[SQL Server]]
+	- [[Virtual Machine|VM]]s based on [[VMWare vSphere]] or [[Azure Stack HCI]]

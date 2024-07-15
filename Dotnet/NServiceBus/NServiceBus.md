@@ -20,3 +20,9 @@ documentation:
 - Message handlers don't have to be [[idempotent]] because the outbox ensures consistency
 - Basically, incoming messages are kept in an outbox before acknowledgement of their receipt is sent
 - #caveat Requires persistent storage
+# Sagas
+- A message-driven state machine
+	- Basically a collection of message handlers with a persisted shared state
+- Useful when a process relies on more than one message
+- Often called "policies": implementing [[class|classes]] are suffixed with `Policy`
+- Saga data is often implemented as a nested class inside the saga definition
