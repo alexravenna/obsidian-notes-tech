@@ -10,7 +10,7 @@ documentation:
 	- [[class]]
 	- [[interface]]
 	- [[delegate|delegate]]
-	- [[record]]
+	- [[Record|record]]
 - Built-in reference types:
 	- [[dynamic]]
 	- object
