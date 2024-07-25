@@ -5,7 +5,7 @@ training:
 # Description
 - Three services:
 	- Azure Status
-		- A global view of the health of all [[Microsoft Azure/Azure]] services across all Azure regions
+		- A global view of the health of all [[Azure]] services across all Azure regions
 	- Service Health
 		- Provides health information about the Azure services and regions you currently use
 		- Can notify you with health alerts (issues, maintenance, etc.)

@@ -1,4 +1,4 @@
-- Allows you to manage resource types hosted outside of [[Microsoft Azure/Azure]]
+- Allows you to manage resource types hosted outside of [[Azure]]
 - Supported resource types:
 	- physical and virtual [[Windows]] or [[Linux]] servers
 	- [[Kubernetes]] clusters

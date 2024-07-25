@@ -5,7 +5,7 @@ tags:
   - command-line
   - cross-platform
 ---
-- [[CLI]] tool for connecting to [[Microsoft Azure/Azure]] and managing [[Resource|resources]], i.e. running commands on them
+- [[CLI]] tool for connecting to [[Azure]] and managing [[Resource|resources]], i.e. running commands on them
 - Command: `az`
 - Runs in:
 	- [[Azure Cloud Shell]]

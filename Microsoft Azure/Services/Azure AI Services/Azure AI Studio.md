@@ -12,4 +12,4 @@ documentation:
 	- definition of which [[Model|model]] to use
 	- the ability to fine-tune the model
 	- definition of prompt flows
-- The solution (a [[Copilot|copilot]] service) can be deployed to [[Microsoft Azure/Azure]] and used by custom applications
+- The solution (a [[Copilot|copilot]] service) can be deployed to [[Azure]] and used by custom applications

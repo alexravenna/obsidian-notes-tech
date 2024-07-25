@@ -26,7 +26,7 @@
 - Data is always replicated synchronously three times in the primary region
 - Options for replication in the primary region:
 	- Locally redundant storage (LRS) - data replicated three times in a single data center
-	- Zone-redundant storage (ZRS) - data replicated across three [[Microsoft Azure/Azure#Physical Infrastructure|Availability Zones]]
+	- Zone-redundant storage (ZRS) - data replicated across three [[Azure#Physical Infrastructure|Availability Zones]]
 ## In a secondary region
 - Data can be replicated asynchronously to a secondary region
 	- Target for data replication is 15 minutes - known as recovery point objective (RPO)

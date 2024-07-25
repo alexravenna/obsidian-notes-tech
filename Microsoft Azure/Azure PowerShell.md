@@ -8,7 +8,7 @@ tags:
 documentation:
   - https://learn.microsoft.com/en-us/powershell/azure/
 ---
-- Collection of [[PowerShell]] [[Module|modules]] for creating and managing [[Microsoft Azure/Azure]] [[Resource|resources]]
+- Collection of [[PowerShell]] [[Module|modules]] for creating and managing [[Azure]] [[Resource|resources]]
 - Module name: `Az`
 - Compatible with PowerShell 7.x+ and [[Windows PowerShell]] 5.1
 - Runs in:
