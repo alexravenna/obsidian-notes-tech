@@ -6,6 +6,7 @@ tags:
   - resilience
 homepage:
   - https://www.thepollyproject.org/
+github: https://github.com/App-vNext/Polly
 documentation:
   - https://www.pollydocs.org/index.html
 ---

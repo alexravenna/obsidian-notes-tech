@@ -10,7 +10,7 @@ resources:
 # Description
 - A feature of [[Azure Monitor]]
 - Enables [[Application Performance Management]]
-- Sends telemetry from a web application to the [[Azure]] portal
+- Sends telemetry from a web application to the [[Microsoft Azure/Azure]] portal
 - Telemetry types/"pillars":
 	- Distributed tracing
 	- Metrics

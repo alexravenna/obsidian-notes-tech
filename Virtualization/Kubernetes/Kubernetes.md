@@ -9,4 +9,6 @@ homepage:
 github: https://github.com/kubernetes-sigs/kind/
 documentation:
   - https://kubernetes.io/docs/home/
+resources:
+  - https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-kubernetes/
 ---

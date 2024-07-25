@@ -24,5 +24,5 @@ training:
 	- Also written in JSON
 - Definitions: built-in or custom initiatives and policies that are available
 - Policy exemptions can be configured based off of hierarchy or for individual resources
-- Free for [[Azure]] resources but not for [[Azure Arc]] resources
+- Free for [[Microsoft Azure/Azure]] resources but not for [[Azure Arc]] resources
 - [[Repository]] for built-in policies: [Azure/azure-policy: Repository for Azure Resource Policy built-in definitions and samples (github.com)](https://github.com/Azure/azure-policy)
