@@ -13,5 +13,5 @@ github: https://github.com/dapr
 documentation:
   - https://docs.dapr.io/
 ---
-- Runs alongside an application as a sidecar
+- Runs alongside an application as a [[Sidecar|sidecar]]
 - Uses [[CloudEvents]] for [[publish-subscribe]]

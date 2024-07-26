@@ -7,3 +7,4 @@
 | 409      | Conflict              |
 | 500      | Internal Server Error |
 | 501      | Not Implemented       |
+| 403      | Forbidden             |
