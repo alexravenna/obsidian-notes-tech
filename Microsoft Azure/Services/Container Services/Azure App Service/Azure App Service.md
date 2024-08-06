@@ -28,6 +28,7 @@ training:
 	- Many built-in images available for common language/framework runtimes
 	- Web App for Containers: the ability to run custom [[Linux]] [[Container Image|containers]]
 - Deployment slots enable different environments, such as staging and production
+- Code is built by [[Oryx]]
 # Plans
 - An app always runs in an App Service plan
 - Defines a set of compute resources
