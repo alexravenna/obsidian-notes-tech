@@ -1,0 +1,2 @@
+- Platforms:
+	- [[Azure API Platform]]

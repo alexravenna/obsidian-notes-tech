@@ -1,0 +1,1 @@
+- Developed/maintained by [[Azure API Platform]]
