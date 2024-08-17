@@ -6,6 +6,7 @@
     "resources": "multitext",
     "documentation": "multitext",
     "implemented by": "multitext",
-    "training": "multitext"
+    "training": "multitext",
+    "related to": "multitext"
   }
 }

@@ -1,0 +1,4 @@
+---
+aliases:
+  - Entity-Relationship Diagram
+---

@@ -23,10 +23,41 @@ training:
 	- They have the same application lifecycle
 	- This can be used to implement the [[Sidecar|sidecar pattern]]
 - Images can be pulled from [[Container Registry|container registries]]
+- Authentication and authorization:
+	- Built-in middleware
+		- Runs as a sidecar container on each application replica
+	- Uses [[Federated Identity|federated identity]] and supports any number of the following:
+		- Microsoft Identity Platform
+		- Facebook
+		- GitHub
+		- Google
+		- Twitter
+		- Any [[OpenID Connect]] provider
 # Container App Environment
 - One or more Container Apps run in an environment, which means they:
 	- are in the same virtual network
 	- write to the same [[Azure Log Analytics]] workspace
 - This offers:
-	- HTTPS ingress
-	- Service discovery
+	- HTTPS [[ingress]]
+	- [[Service discovery]]
+# Revisions
+- An immutable snapshot of a Container App version
+- Certain changes to the App are considered revision-scope changes and trigger generation of a new revision
+- Characteristics:
+	- Multiple revisions can be active at one time
+	- External traffic can be routed to different active revisions
+	- Revisions can be reverted to
+	- Each revision has its own unique name, which is also in the [[URL]]
+# Secrets
+- Container Apps doesn't support [[Azure Key Vault]] integration
+	- You have to use the Key Vault SDK in your code
+- Changing secrets doesn't trigger a revision change
+- Secrets are scoped to an application and not to a revision
+- Defined with `--secrets` in the [[Azure CLI]]
+# Dapr Integration
+- Container Apps provides a managed [[Dapr]] integration
+- Dapr can be configured through:
+	- CLI
+	- [[Infrastructure as Code|IaC]]: [[Bicep]], [[ARM Templates]]
+	- The [[Azure portal]]
+- Dapr components can be shared across container apps or scoped to specific apps
