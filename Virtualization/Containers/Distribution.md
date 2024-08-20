@@ -7,6 +7,7 @@ tags:
 homepage:
   - https://github.com/distribution/distribution
 github: https://distribution.github.io/distribution/
+image: https://hub.docker.com/_/registry
 ---
 # Description
 - Originally released by [[Docker (Company)]]

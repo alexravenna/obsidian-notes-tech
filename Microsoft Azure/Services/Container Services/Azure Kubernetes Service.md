@@ -11,3 +11,15 @@ training:
 ---
 # Description
 - Fully-managed [[Kubernetes]]
+- Can be created with:
+	- [[Azure CLI]]
+	- [[Azure portal]]
+- Default Initial node pool size is 2; at least is recommended for production
+- Supports:
+	- [[Helm]]
+	- [[Draft]]
+	- [[Kubernetes Extension for Visual Studio Code]]
+	- [[Visual Studio Kubernetes Tools]]
+- Has to cluster autoscaling options:
+	- horizontal pod autoscaler
+	- cluster autoscaler
