@@ -1,0 +1,1 @@
+- Added by using the [[Extension methods|extension method]] `AddGrpc` from `Grpc.AspNetCore.Server`
