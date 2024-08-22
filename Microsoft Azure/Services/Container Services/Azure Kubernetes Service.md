@@ -10,7 +10,8 @@ training:
   - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-kubernetes-service/
 ---
 # Description
-- Fully-managed [[Kubernetes]]
+- Fully-managed [[Kubernetes]] service
+	- Not a full [[PaaS]] - much administration still necessary, e.g. worker nodes
 - Can be created with:
 	- [[Azure CLI]]
 	- [[Azure portal]]
@@ -20,6 +21,7 @@ training:
 	- [[Draft]]
 	- [[Kubernetes Extension for Visual Studio Code]]
 	- [[Visual Studio Kubernetes Tools]]
+- Supports [[Linux]] and [[Windows]] nodes
 - Has to cluster autoscaling options:
-	- horizontal pod autoscaler
+	- horizontal pod autoscaler (HPA)
 	- cluster autoscaler

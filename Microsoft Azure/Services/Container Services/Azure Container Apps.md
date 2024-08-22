@@ -1,7 +1,10 @@
 ---
+aliases:
+  - ACA
 tags:
   - active-di
   - container
+  - PaaS
   - serverless
 documentation:
   - https://learn.microsoft.com/en-us/azure/container-apps/
@@ -33,6 +36,19 @@ training:
 		- Google
 		- Twitter
 		- Any [[OpenID Connect]] provider
+- Offers [[Envoy]] as application gateway
+- Compute plan types:
+	- Consumption/serverless
+		- Limited resources: 4 vCPUs, 8 GiB RAM
+		- Free amount of resources/requests
+	- Dedicated
+		- Workload profiles are defined:
+			- Varying amounts of [[CPU]] and [[RAM]]
+			- Scale independently
+		- Costs:
+			- Baseline plan management costs
+			- Per CPU/RAM usage
+
 # Container App Environment
 - One or more Container Apps run in an environment, which means they:
 	- are in the same virtual network
@@ -44,7 +60,7 @@ training:
 - An immutable snapshot of a Container App version
 - Certain changes to the App are considered revision-scope changes and trigger generation of a new revision
 - Characteristics:
-	- Multiple revisions can be active at one time
+	- Only one revision can be active at the same time
 	- External traffic can be routed to different active revisions
 	- Revisions can be reverted to
 	- Each revision has its own unique name, which is also in the [[URL]]
@@ -61,3 +77,6 @@ training:
 	- [[Infrastructure as Code|IaC]]: [[Bicep]], [[ARM Templates]]
 	- The [[Azure portal]]
 - Dapr components can be shared across container apps or scoped to specific apps
+# KEDA Integration
+- [[KEDA]]
+# Jobs

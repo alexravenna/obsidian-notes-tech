@@ -1,5 +1,6 @@
 ---
 aliases:
+  - APS
   - Azure Web Apps
   - Azure Web Sites
 tags:

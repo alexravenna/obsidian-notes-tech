@@ -1,0 +1,4 @@
+---
+aliases:
+  - Horizontal Pod Autoscaler
+---

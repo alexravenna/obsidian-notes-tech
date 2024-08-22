@@ -21,5 +21,6 @@ training:
 - Can also store:
 	- [[Helm]] [[charts]]
 	- images built according to the [[image-spec|OCI Image Specification]]
+- Uses  [[MS Defender for Containers]]
 # Tasks
 - Can automatically trigger [[Container Image|image]] builds upon [[VCS]] changes

@@ -1,0 +1,1 @@
+- Can possess multiple [[Subscription|subscriptions]]
