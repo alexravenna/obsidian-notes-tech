@@ -24,3 +24,10 @@ documentation:
 	- `Get-Verb` returns all standard verbs
 - `Get-Command` lists all available cmdlets
 	- can be filtered with `-Noun` and/or `-Verb`
+# Installation
+## Winget
+`winget install --id Microsoft.PowerShell --source winget`
+## MSI
+- Download release from [Releases · PowerShell/PowerShell (github.com)](https://github.com/PowerShell/PowerShell/releases)
+## Microsoft Store
+- Install it directly

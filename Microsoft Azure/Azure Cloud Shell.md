@@ -1,3 +1,8 @@
+---
+homepage:
+  - https://azure.microsoft.com/en-us/get-started/azure-portal/cloud-shell/
+---
+# Description
 - A browser-based shell to manage [[Resource|Azure resource]]s
 - Runs [[Linux]] in a [[Container|container]]
 - Provides two shells:
