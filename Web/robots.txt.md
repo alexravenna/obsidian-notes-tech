@@ -11,7 +11,7 @@ resources:
 # Description
 - A standard file for managing [[Web crawler|web crawler]] traffic, i.e. preventing/allowing crawling
 - Implements the Robots Exclusion Protocol
-	- Was originally a de facto standard from 1994, then published as an [[IETF]] [[RFC]] in 2019 by [[Google]]
+	- Was originally a de facto standard from 1994, then published as an [[IETF]] [[RFC]] in 2019 by [[Google/Google|Google]]
 - Stored in the web site's home/root directory
 - Relies on voluntary compliance, i.e. a crawler can't be forced to follow its instructions
 - #caveat Is *not* used exclusively for hiding a web page from search engine indexing
