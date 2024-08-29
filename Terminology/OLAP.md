@@ -1,0 +1,4 @@
+---
+aliases:
+  - Online Analytical Processing
+---
