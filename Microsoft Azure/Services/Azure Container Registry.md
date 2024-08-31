@@ -17,10 +17,22 @@ training:
 	- Basic
 	- Standard
 	- Premium
-- Can contain [[Linux]] and [[Windows]] images
+- Can contain [[Linux]] and [[Windows]] [[Container Image|images]]
 - Can also store:
 	- [[Helm]] [[charts]]
 	- images built according to the [[image-spec|OCI Image Specification]]
 - Uses  [[MS Defender for Containers]]
+- Features:
+	- encryption-at-rest (all tiers)
+	- data is stored in registry's region
+	- geo-replication (optional)
+	- zone redundancy (Premium only)
 # Tasks
-- Can automatically trigger [[Container Image|image]] builds upon [[VCS]] changes
+- Enables offloading image building and pushing to the registry
+	- Quick tasks accomplish this
+- Can automatically trigger image builds upon [[VCS]] changes
+- Possible triggers:
+	- source code update
+	- base image update
+	- schedule
+- Multi-step tasks allow more complex workflows

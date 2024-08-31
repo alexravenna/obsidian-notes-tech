@@ -5,7 +5,6 @@ tags:
 ---
 # Description
 - A text-based file format that contains the instructions for building and running a [[Docker image]]
-
 # Components
 - [[Container Image#Image Types|Base or parent image]] we are building upon
 - Commands: `CMD`
