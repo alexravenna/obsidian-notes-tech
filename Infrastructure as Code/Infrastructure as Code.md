@@ -8,4 +8,5 @@ tags:
   - infrastructure
 ---
 # Description
-- The process of managing and provisioning cloud infrastructure resources through code stored in a [[VCS]], just like application source code
+- Cloud infrastructure resources are defined in code stored in a [[VCS]], just like application source code
+- Cloud infrastructure is provisioned automatically by a tool that interprets this code
