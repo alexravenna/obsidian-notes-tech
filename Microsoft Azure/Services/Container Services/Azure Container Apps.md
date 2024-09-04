@@ -64,6 +64,9 @@ training:
 	- External traffic can be routed to different active revisions
 	- Revisions can be reverted to
 	- Each revision has its own unique name, which is also in the [[URL]]
+- Revision modes:
+	- single
+	- multiple - for [[blue-green deployment]]s
 # Secrets
 - Container Apps doesn't support [[Azure Key Vault]] integration
 	- You have to use the Key Vault SDK in your code

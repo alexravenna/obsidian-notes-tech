@@ -1,5 +1,5 @@
 # Description
-- An instance of [[Entra ID]]
+- An instance of [[Microsoft Entra ID]]
 - Stores users, user groups and applications
 - Users can be put into groups with different access levels for applications
 - Common shared-access levels also possible

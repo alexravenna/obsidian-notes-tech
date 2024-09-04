@@ -3,6 +3,8 @@ aliases:
   - Azure Active Directory
 tags:
   - active-directory
+documentation:
+  - https://learn.microsoft.com/en-us/entra/identity/
 training:
   - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-ad/
 ---

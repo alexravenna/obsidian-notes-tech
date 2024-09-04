@@ -11,6 +11,7 @@ tags:
 - [[Cloud-agnostic]] [[Infrastructure as Code]] tool
 - Written in [[HCL]]
 - Files describe the desired state of the infrastructure
+- All `.tf` files in the execution folder are included
 # Providers
 ## For Azure
 - AzureRM: Manage [[Azure Resource Manager|ARM]] resources
@@ -23,3 +24,7 @@ tags:
 - If the plan is verified, apply it with `terraform apply main.tfplan`
 # Clean up
 - `terraform plan -destroy`
+
+- locals
+- .tfvars
+- `terraform init`
