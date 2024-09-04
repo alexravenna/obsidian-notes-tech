@@ -1,3 +1,3 @@
 ---
-link: https://github.com/google/docsy
+link: https://github.com/google
 ---
