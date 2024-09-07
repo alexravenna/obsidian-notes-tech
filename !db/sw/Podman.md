@@ -3,7 +3,7 @@ blog: "[[!db/resources/links/podman/blog|blog]]"
 docs-framework: "[[Docusaurus]]"
 docsource:
   - "[[!db/resources/links/podman/docsource|docsource]]"
-org: "[[!db/resources/links/github/containers/containers|containers]]"
+org: "[[!db/resources/github/containers/containers|containers]]"
 source:
-  - "[[!db/resources/links/github/containers/podman|podman]]"
+  - "[[!db/resources/github/containers/podman|podman]]"
 ---

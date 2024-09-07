@@ -1,8 +1,8 @@
 ---
 homepage:
-  - "[[hompage]]"
+  - "[[!db/resources/links/podman/homepage]]"
 github:
-  - "[[!db/resources/links/github/containers/podman|podman]]"
+  - "[[!db/resources/github/containers/podman|podman]]"
 documentation:
   - "[[!db/resources/links/podman/docs|docs]]"
 docsource:
