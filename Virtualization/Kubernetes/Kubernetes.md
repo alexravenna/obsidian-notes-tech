@@ -13,4 +13,4 @@ resources:
   - https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-kubernetes/
 ---
 # Description
-- A [[Container|container]] orchestration platform
+- A [[Container|container]] [[orchestration]] platform
