@@ -31,6 +31,9 @@
     "excalidraw-open-md": "checkbox",
     "github": "multitext",
     "source": "multitext",
-    "docsource": "multitext"
+    "docsource": "multitext",
+    "guests": "multitext",
+    "hosts": "multitext",
+    "authors": "multitext"
   }
 }
