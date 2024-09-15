@@ -1,0 +1,1 @@
+- Sent as [[Bearer Token]] in the [[Authorization|Authorization header]] of the [[HTTP request]]
