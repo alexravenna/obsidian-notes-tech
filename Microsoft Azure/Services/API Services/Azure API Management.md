@@ -11,15 +11,29 @@ training:
 # Description
 - An [[API]] lifecycle management service
 - A façade for your APIs
+- [[Azure CLI]] create command: `az apim create`
 - Developed/maintained by [[Azure API Platform]]
 - Three main components:
-	- Gateway
-	- Single administration interface
+	- API gateway
+	- Single administration interface: management plane
 	- Developer portal
 - Several service tiers available
 - Products:
 	- A group of APIs that share their configuration
+	- Open products: require no subscription
+	- Protected products: must be subscribed to
 	- All APIs in a product can be accessed with a single subscription key
+- Groups:
+	- Default system groups:
+		- Administrators
+		- Developers: authenticated developer portal users
+			- Can be:
+				- created
+				- invited by administrators
+			- Can also sign up
+		- Guests: unauthenticated developer portal users
+	- Custom groups can be created by administrators
+	- External groups from [[Microsoft Entra]] [[Tenant|tenants]] can also be used
 - Revisions and versions:
 	- Revision: a minor, nonbreaking change
 	- Version: a major, breaking change
@@ -29,14 +43,18 @@ training:
 	- [[Azure Monitor Logs]]
 	- [[Azure Monitor Application Insights|Application Insights]]
 	- [[Azure Event Hub]]s
-# Gateway
+# API Gateway
 - It:
+	- acts as a [[reverse proxy]]
 	- verifies subscription keys and other credentials
 	- enforces usage policies
 	- routes calls to appropriate [[backend]] servers
 	- caches backend responses
 	- collects call metadata
-# Administration Interface
+- Can be:
+	- managed (default)
+	- or [[self-hosted]]
+# Administration Interface/Management Plane
 - Allows you to:
 	- define/import API specifications:
 		- [[OpenAPI]]
@@ -55,17 +73,43 @@ training:
 	- review documentation for your APIs
 	- try out APIs
 	- review code samples in different [[programming languages]]
-	- subscribing to an API and getting a subscription key
+	- subscribe to an API and getting a subscription key
 	- run analytics on developer's usage
 # Policies
 - Policy: setting or action that controls the behavior of an API
 - Policy categories:
 	- Access restriction
 	- [[Authentication]]
+		- can be implemented as a policy that checks properties of client [[TLS-SSL Certificates|certificates]]
 	- [[Caching]]
 	- Validation
 - Policy definitions:
 	- [[XML]] documents with statements defining policies and their parameters
+	- statements are executed sequentially
 	- can be set for different stages in the request-response pipeline:
-		- inbound
-		- outbound
+		- `inbound`: applied to the incoming request
+		- `backend`: applied to the request before it is forwarded to the backend service
+		- `outbound`: applied to the outgoing response
+		- `on-error`: for [[error handling]]
+- Policy expressions:
+	- a single [[Csharp|C#]] statement enclosed in `@{expression}`
+	- or a multi-statement C# code block enclosed in `@{expression}`
+		- must end with a `return`
+	- have implicit access to the `context` variable
+- Policies can apply to different scopes:
+	- global: applied with `<base />`
+	- a product
+	- a specific API
+	- an API operation
+# Subscriptions
+- Subscription approval can:
+	- require administrator approval
+	- or be auto-approved
+- Subscription keys are passed in as:
+	- a request header: `Ocp-Apim-Subscription-Key`
+	- or a [[query string parameter]]: `subscription-key`
+- There are two keys: primary and secondary for redundancy
+- Scopes:
+	- All APIs
+	- Single API
+	- Product

@@ -8,6 +8,8 @@ tags:
   - serverless
 documentation:
   - https://learn.microsoft.com/en-us/azure/container-apps/
+resources:
+  - https://www.youtube.com/watch?v=0HwQfsa03K8
 training:
   - https://learn.microsoft.com/en-us/training/paths/deploy-cloud-native-applications-to-azure-container-apps/
 ---
