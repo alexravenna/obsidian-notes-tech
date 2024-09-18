@@ -34,6 +34,7 @@
     "docsource": "multitext",
     "guests": "multitext",
     "hosts": "multitext",
-    "authors": "multitext"
+    "authors": "multitext",
+    "topics": "multitext"
   }
 }
