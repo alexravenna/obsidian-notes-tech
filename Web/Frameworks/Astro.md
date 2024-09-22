@@ -1,7 +1,9 @@
 ---
 homepage:
   - https://astro.build/
-github: https://github.com/withastro/astro
+source:
+  - https://github.com/withastro/astro
 documentation:
   - https://docs.astro.build/
+blog: https://astro.build/blog/
 ---
