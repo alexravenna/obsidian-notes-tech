@@ -18,5 +18,23 @@ training:
 # Description
 - An [[abstraction layer]] upon a [[REST|RESTful]] [[API]]
 - OData metadata: [[machine-readable]] description of an API's data model
-- Actions: operations that maybe have [[side effects]] upon invocation
-- Functions: operations that must return data and must have no side effects
+- The endpoint `/odata/$metadata` retrieves the service metadata
+- Service metadata is described with [[CSDL]]
+- Routing:
+	- Supports:
+		- parentheses-style keys: `~/Shapes(1)`
+		- key-as-segment: `~/Shapes/1`
+# Functions and Actions
+- Actions:
+	- operations that maybe have [[side effects]] upon invocation
+	- invoked with [[POST]] [[HTTP request]]s
+- Functions:
+	- operations that must return data and must have no side effects
+	- invoked with [[GET]] HTTP requests
+- Both can be:
+	- bound:
+		- applied to a specific entity type, primitive type, complex type or collection
+		- after one of the above: `GET ~/odata/Books/mostRecent()`
+	- unbound:
+		- invoked on the whole service
+		- after the route prefix: `GET ~/odata/ReturnAllForKidsBooks`
