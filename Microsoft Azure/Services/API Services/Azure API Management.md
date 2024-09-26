@@ -1,4 +1,6 @@
 ---
+aliases:
+  - APIM
 homepage:
   - https://azure.microsoft.com/en-us/products/api-management/
 documentation:
@@ -7,8 +9,7 @@ resources:
   - https://learn.microsoft.com/en-us/azure/well-architected/service-guides/api-management/reliability
 training:
   - https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-api-management/
-aliases:
-  - APIM
+  - https://learn.microsoft.com/en-us/training/paths/architect-api-integration/
 ---
 # Description
 - An [[API]] lifecycle management service
@@ -16,6 +17,8 @@ aliases:
 - [[Azure CLI]] create command: `az apim create`
 - Developed/maintained by [[Azure API Platform]]
 - URL endpoint schema: `<gateway>.azure-api.net`
+- Management URL schema: `<gateway>.management.azure-api.net`
+- Developer portal URL schema: `<gateway>.developer.azure-api.net`
 - Three main components:
 	- API gateway
 	- Single administration interface: management plane
@@ -59,12 +62,22 @@ aliases:
 	- or [[self-hosted]]
 # Administration Interface/Management Plane
 - Allows you to:
-	- define/import API specifications:
-		- [[OpenAPI]]
-		- [[SOAP]]
-		- [[WebSocket]]
+	- define API specifications from:
+		- [[HTTP]]: blank definition
+		-  [[WebSocket]]
 		- [[GraphQL]]
-		- or import instances of [[Azure]] services
+		- [[Protocols/gRPC/gRPC|gRPC]]
+	- import API specifications from:
+		- [[OpenAPI]]
+		- [[SOAP]]/[[WSDL]]
+		- [[WADL]]
+		- [[OData]]
+		- or from instances of [[Azure]] services:
+			- [[Azure OpenAI Services]]
+			- [[Azure Logic Apps]]
+			- [[Azure Functions]]
+			- [[Azure Container Apps]]
+			- [[Azure App Service]]
 	- set usage policies: quotas, rate limits
 	- set security policies
 	- package APIs into products

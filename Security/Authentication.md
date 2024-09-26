@@ -1,4 +1,6 @@
 ---
+aliases:
+  - AuthN
 tags:
   - security
 ---
