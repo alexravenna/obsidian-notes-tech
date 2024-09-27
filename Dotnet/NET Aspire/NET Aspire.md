@@ -4,6 +4,8 @@ aliases:
 tags:
   - cloud-native
   - dotnet
+resources:
+  - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD
 ---
 # Description
 - A suite of tools for developing distributed applications with [[NET|.NET]]

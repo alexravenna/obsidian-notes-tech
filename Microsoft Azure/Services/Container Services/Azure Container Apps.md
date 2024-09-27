@@ -9,6 +9,7 @@ tags:
 documentation:
   - https://learn.microsoft.com/en-us/azure/container-apps/
 resources:
+  - https://www.youtube.com/playlist?list=PLBmBUIbhAfd-eLB-XGxxhC68MNVl3I-Gi
   - https://www.youtube.com/watch?v=0HwQfsa03K8
 training:
   - https://learn.microsoft.com/en-us/training/paths/deploy-cloud-native-applications-to-azure-container-apps/
@@ -85,3 +86,10 @@ training:
 # KEDA Integration
 - [[KEDA]]
 # Jobs
+[Run Containerized Tasks with Jobs in Azure Container Apps - YouTube](https://www.youtube.com/watch?v=keg6C3WcJEw)
+- Any process that can be
+- For background processing
+- Run [[asynchronous]] tasks:
+	- on demand
+	- scheduled
+	- event-driven
