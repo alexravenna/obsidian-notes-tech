@@ -10,4 +10,4 @@ documentation:
 - The base element for all element objects in a [[Document Intelligence]]
 ## Events
 - [[blur]]
-- [[focus]]
+- [[Web/Interfaces/Element/focus]]
