@@ -6,6 +6,9 @@ tags:
   - hashicorp
   - IaC
   - infrastructure
+documentation:
+  - https://developer.hashicorp.com/terraform/docs
+from: "[[HashiCorp]]"
 ---
 # Description
 - [[Cloud-agnostic]] [[Infrastructure as Code]] tool
@@ -13,12 +16,11 @@ tags:
 - Files describe the desired state of the infrastructure
 - All `.tf` files in the execution folder are included
 # Providers
-## For Azure
-- AzureRM: Manage [[Azure Resource Manager|ARM]] resources
-- AzureAD: Manage [[Microsoft Entra]] resources
-- AzureDevOps: Manage [[Azure DevOps]] resources
-- AzAPI: Manage Azure [[Resource|resources]] by using the ARM APIs directly
-- Azure Stack: Manage [[Azure Stack]] resources
+- Written in [[Go]]
+- Consist of:
+	- resources
+	- data sources
+
 # Verify
 - `terraform plan -out main.tfplan` outputs an execution plan without applying it
 - If the plan is verified, apply it with `terraform apply main.tfplan`

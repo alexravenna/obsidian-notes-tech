@@ -8,6 +8,7 @@ resources:
   - https://learn.microsoft.com/en-us/azure/azure-resource-manager/
 training: https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/
 ---
+# Description
 - The deployment and management service for [[Azure]]
 - The gateway for all resource management tools:
 	- [[Azure CLI]]
@@ -17,4 +18,4 @@ training: https://learn.microsoft.com/en-us/training/modules/use-azure-resource-
 - Automate deployments with [[Infrastructure as Code]] options:
 	- [[ARM Templates]]
 	- [[Bicep]]
-	- [[Terraform]]: [Terraform on Azure documentation](https://learn.microsoft.com/en-us/azure/developer/terraform/)
+	- [[Terraform]]
