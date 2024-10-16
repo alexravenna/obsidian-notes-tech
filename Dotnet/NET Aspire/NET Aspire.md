@@ -6,9 +6,11 @@ tags:
   - dotnet
 resources:
   - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD
+training:
+  - https://learn.microsoft.com/en-us/training/paths/dotnet-aspire/
 ---
 # Description
-- A suite of tools for developing distributed applications with [[NET|.NET]]
+- A suite of tools for developing distributed, [[cloud-native]] applications with [[NET|.NET]]
 - Offers auto-provisioning to [[Azure]]
 - Service defaults
 - AppHost
@@ -17,23 +19,41 @@ resources:
 # Service Discovery
 - Service discovery is automatically configured from AppHost to service projects
 # Integrations
-- hosting
-	- in the AppHost
+- Each integration:
+	- is a [[NuGet]] package
+	- implements a standard interface to a backing service
+- Each integration usually has a hosting package:
+	- for use in the AppHost
 	- can provision and manage resources
 	- can automate infrastructure setup
-- client
+- And a client package for consuming the resource/dependency
 - types:
 	- [[Node.js]]
 	- [[Python]]
 	- [[Docker]]
 	- [[NET|.NET]] projects
 	- Databases:
-		- [[PostgreSQL]]
-		- [[SQL Server]]
-		- MySQL
-		- [[MongoDB]]
-		- CosmosDB
-		- Redis
+		- [[relational]]:
+			- [[PostgreSQL]]
+			- SQL Database:
+				- [[SQL Server]]
+				- [[Azure SQL Database]]
+			- MySQL
+		- [[NoSQL]]:
+			- [[MongoDB]]
+			- [[Azure Cosmos DB]]
+	- Data storage:
+		- 
+	- Caching
+		-  Redis
 	- Messaging
-	- Storage
+		- [[RabbitMQ]]
+		- [[Azure Service Bus]]
 	- Monitoring and logging
+# Tooling
+- Project templates
+- The .NET Aspire dashboard
+	- shows:
+		- all [[microservices]]
+		- all backing services
+		- performance and monitoring tools
