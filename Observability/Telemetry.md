@@ -1,1 +1,2 @@
-- Data emitted from a system about its behavior
+# Description
+- The measurement of data emitted from a system and its automatic transmission to a central system for monitoring

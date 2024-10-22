@@ -15,6 +15,7 @@ resources:
 # Description
 - [[Observability]] framework and toolkit
 - Creates and manages telemetry data: [[Traces|traces]], [[Metrics|metrics]] and [[Logs|logs]]
+	- Any data that is not a trace or metric is a log
 - [[vendor-neutral|Vendor]]- and tool-agnostic
 - A merger of OpenTracing and OpenCensus
 - Can be instrumented through:

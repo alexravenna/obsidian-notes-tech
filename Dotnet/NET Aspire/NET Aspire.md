@@ -43,9 +43,14 @@ training:
 			- [[MongoDB]]
 			- [[Azure Cosmos DB]]
 	- Data storage:
-		- 
+		- [[Azure Blob Storage]]
+		- [[Azure Queue Storage]]
+		- [[Azure Table Storage]]
 	- Caching
 		-  Redis
+			- StackExchange Redis
+			- StackExchange Redis output caching
+			- StackExchange Redis distributed caching
 	- Messaging
 		- [[RabbitMQ]]
 		- [[Azure Service Bus]]

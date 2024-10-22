@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Remote Dictionary Server
 tags:
   - cache
   - database

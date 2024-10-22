@@ -44,6 +44,6 @@ resources:
       1. User feedback and issue reporting
       2. Blocking users and IP addresses
       3. Blocking harmful responses upon discovering
-      4. Tracking [[Telemetry|telemetry]] data
+      4. Tracking [[Observability/Telemetry|telemetry]] data
 # Identify
 - 
