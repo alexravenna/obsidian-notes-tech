@@ -91,6 +91,9 @@ training:
 	- review code samples in different [[programming languages]]
 	- subscribe to an API and getting a subscription key
 	- run analytics on developer's usage
+- Can be self-hosted
+- Source code: [Azure/api-management-developer-portal: Developer portal provided by the Azure API Management service.](https://github.com/Azure/api-management-developer-portal)
+- Implemented using [[Paperbits]]
 # Policies
 - Policy: setting or action that controls the behavior of an API
 - Policy categories:

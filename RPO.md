@@ -1,0 +1,4 @@
+---
+aliases:
+  - Recovery Point Objectives
+---

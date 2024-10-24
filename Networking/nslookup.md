@@ -2,6 +2,7 @@
 documentation:
   - https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup
 ---
+# Description
 - Example: `nslookup`
 	- answers with default [[DNS]] [[Name Server|name server]]
 	- goes into interactive mode
