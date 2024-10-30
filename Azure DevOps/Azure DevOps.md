@@ -5,7 +5,10 @@ aliases:
   - VSTS
 documentation:
   - https://learn.microsoft.com/en-us/azure/devops/
+resources:
+  - https://azuredevopslabs.com/
 ---
+# Description
 - Components:
 	- Boards
 	- Repos

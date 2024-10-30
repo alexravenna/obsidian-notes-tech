@@ -11,6 +11,7 @@ documentation:
 resources:
   - https://www.youtube.com/playlist?list=PLBmBUIbhAfd-eLB-XGxxhC68MNVl3I-Gi
   - https://www.youtube.com/watch?v=0HwQfsa03K8
+  - https://www.youtube.com/watch?v=JDTzrSmmmTQ
 training:
   - https://learn.microsoft.com/en-us/training/paths/deploy-cloud-native-applications-to-azure-container-apps/
 ---

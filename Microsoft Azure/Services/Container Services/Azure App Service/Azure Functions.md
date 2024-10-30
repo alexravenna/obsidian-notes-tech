@@ -13,7 +13,7 @@ training:
   - https://learn.microsoft.com/en-us/training/paths/implement-azure-functions/
 ---
 # Description
-- A [[serverless]] solution for running compute workloads: Functions-as-a-Service
+- A [[Serverless Computing|serverless]] solution for running compute workloads: Functions-as-a-Service
 - For [[event-driven]] applications
 - Functions can be written in many different languages:
 	- [[Csharp|C#]]

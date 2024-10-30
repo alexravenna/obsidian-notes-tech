@@ -132,3 +132,7 @@ training:
 	- All APIs
 	- Single API
 	- Product
+- Standalone subscriptions:
+	- with no owner assigned
+	- useful for teams
+	- keys must be made available through other means; they aren't available through the developer portal

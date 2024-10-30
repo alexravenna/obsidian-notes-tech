@@ -8,7 +8,7 @@ training:
 ---
 # Description
 - Static assets ([[HTML]], [[JavaScript]], [[CSS]], images) are served from globally distributed servers
-- [[API]] endpoints are hosted [[Serverless|serverlessly]] with [[Azure Functions]]
+- [[API]] endpoints are hosted [[Serverless Computing|serverlessly]] with [[Azure Functions]]
 - Can connect to [[GitHub]] and [[Azure Repos]]
 - Utilizes workflows in [[GitHub Actions]] or [[Azure Pipelines]]
 	- When there are changes, these workflows build and deploy the app and API

@@ -7,5 +7,8 @@ homepage:
 # Description
 - Pillars:
 	- [[Reliability]]
+	- Security
+	- Cost optimization
+	- Operational excellence
+	- Performance efficiency
 # Workloads
-- 

@@ -6,5 +6,5 @@
 	- Consumption-based pricing model
 	- Focus on application
 	- Low operational overhead
-	- Dedicated and [[Serverless|serverless]] options possible
+	- Dedicated and [[Serverless Computing|serverless]] options possible
 	- [[Windows]] containers not possible
