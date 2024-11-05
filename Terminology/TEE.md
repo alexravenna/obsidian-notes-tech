@@ -1,0 +1,4 @@
+---
+aliases:
+  - trusted execution environment
+---

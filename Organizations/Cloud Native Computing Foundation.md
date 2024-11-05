@@ -9,4 +9,5 @@ tags:
   - member-of/linux-foundation
 resources:
   - https://www.cncf.io/
+blog: https://www.cncf.io/blog/
 ---
