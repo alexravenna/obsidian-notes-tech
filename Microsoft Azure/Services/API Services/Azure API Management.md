@@ -47,7 +47,7 @@ training:
 	- Multiple versions can be enabled at once
 - Supported Azure monitoring services:
 	- [[Azure Monitor Logs]]
-	- [[Azure Monitor Application Insights|Application Insights]]
+	- [[Application Insights|Application Insights]]
 	- [[Azure Event Hub]]s
 # API Gateway
 - It:

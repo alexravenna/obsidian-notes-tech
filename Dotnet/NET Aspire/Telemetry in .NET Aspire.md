@@ -12,4 +12,4 @@ training:
 - Common export destinations:
 	- [[Aspire dashboard]]
 	- [[Application Performance Management|APM]] tools like [[Prometheus]] or [[Grafana]]
-	- [[Azure Monitor Application Insights]]
+	- [[Application Insights]]

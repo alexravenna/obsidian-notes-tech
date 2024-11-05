@@ -10,5 +10,5 @@ resources:
 ---
 - Kusto Query Language
 - Primary query language used in [[Azure Data Explorer]]
-- Also used in [[Azure Monitor Application Insights]]
+- Also used in [[Application Insights]]
 - Can be used through an extension in [[Azure Data Studio]]

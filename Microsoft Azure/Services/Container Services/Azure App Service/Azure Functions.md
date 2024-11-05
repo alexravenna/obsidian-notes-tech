@@ -28,7 +28,7 @@ training:
 	- All functions in a function app:
 		- share the same settings and connections
 		- must be written in the same language
-- Has built-in integration with [[Azure Monitor Application Insights|Application Insights]]
+- Has built-in integration with [[Application Insights|Application Insights]]
 - Built on the [[WebJobs SDK]]
 - Can integrate with [[Azure Logic Apps|Logic Apps]]
 - Deployment slots:

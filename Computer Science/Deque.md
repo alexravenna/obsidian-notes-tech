@@ -1,0 +1,4 @@
+---
+aliases:
+  - double-ended queue
+---

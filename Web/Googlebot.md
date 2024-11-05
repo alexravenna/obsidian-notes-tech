@@ -4,6 +4,7 @@ tags:
   - crawler
   - google
 ---
+# Description
 - The [[Web crawler|web crawler]] from [[Google/Google|Google]]
 - Two variants exist: Googlebot Desktop and Googlebot Mobile (prioritized since September 2020)
 	- Which variant should crawl a site is not controllable

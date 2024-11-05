@@ -5,3 +5,4 @@ source:
   - https://github.com/project-copacetic/copacetic
 written in: "[[Go]]"
 ---
+[w]()
