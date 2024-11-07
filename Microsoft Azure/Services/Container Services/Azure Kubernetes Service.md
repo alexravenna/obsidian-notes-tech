@@ -17,7 +17,7 @@ training:
 	- [[Azure portal]]
 - Default Initial node pool size is 2; at least is recommended for production
 - Supports:
-	- [[Helm]]
+	- [[Virtualization/Kubernetes/Helm]]
 	- [[Draft]]
 	- [[Kubernetes Extension for Visual Studio Code]]
 	- [[Visual Studio Kubernetes Tools]]

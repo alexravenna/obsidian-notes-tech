@@ -1,0 +1,4 @@
+---
+homepage:
+  - https://cohere.com/
+---

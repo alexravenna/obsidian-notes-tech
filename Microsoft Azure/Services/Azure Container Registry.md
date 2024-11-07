@@ -20,7 +20,7 @@ training:
 	- Premium
 - Can contain [[Linux]] and [[Windows]] [[Container Image|images]]
 - Can also store:
-	- [[Helm]] [[charts]]
+	- [[Virtualization/Kubernetes/Helm]] [[charts]]
 	- images built according to the [[image-spec|OCI Image Specification]]
 - Uses  [[MS Defender for Containers]]
 	- [[Defender for Cloud]] is optional

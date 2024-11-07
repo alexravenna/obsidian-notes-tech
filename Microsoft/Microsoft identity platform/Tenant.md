@@ -1,3 +1,7 @@
+---
+aliases:
+  - directory
+---
 # Description
 - An instance of [[Microsoft Entra ID]]
 - Stores users, user groups and applications
