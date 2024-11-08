@@ -6,4 +6,5 @@ resources:
 training:
   - https://learn.microsoft.com/en-us/training/modules/manage-innersource-program-github/
 ---
+# Description
 - Basically: an [[Open Source|open source]] program within a company/organization

@@ -9,4 +9,4 @@ resources:
   - https://www.youtube.com/watch?v=H1eEFfAkIik&t
 ---
 # Description
-- Uses [[Vite]] as its build tool
+- Uses [[!notes/Vite]] as its build tool

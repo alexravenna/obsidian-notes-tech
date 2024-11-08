@@ -28,3 +28,6 @@ https://learn.microsoft.com/en-us/nuget/concepts/package-versioning
 - [[Visual Studio]] Package Manager and [[dotnet CLI]] store copies of downloaded packages in a cache for 30 minutes
 - Windows location: `%localappdata%\NuGet\v3-cache`
 - Linux location: `~/.local/share/NuGet/v3-cache`
+
+# Central Package Management
+[.NET Upgrade Assistant Now Supports Upgrading to Centralized Package Mangement - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-upgrade-assistant-cpm-upgrade/)
