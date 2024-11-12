@@ -1,0 +1,2 @@
+# Storage
+- Batch operations supported with: [Azure Storage Blobs Batch client library for .NET - Azure for .NET Developers | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/storage.blobs.batch-readme?view=azure-dotnet)
