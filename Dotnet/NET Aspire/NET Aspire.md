@@ -9,6 +9,7 @@ resources:
   - https://github.com/dotnet/eshop
   - https://learn.microsoft.com/en-us/samples/browse/?expanded=dotnet&products=dotnet-aspire
   - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD
+  - https://www.youtube.com/watch?v=4ixWtXK7KzY
 training:
   - https://learn.microsoft.com/en-us/training/paths/dotnet-aspire/
 ---
