@@ -29,4 +29,21 @@ from: "[[HashiCorp]]"
 
 - locals
 - .tfvars
-- `terraform init`
+# Workflow
+- `init`
+	- initializes working directory and downloads provider plugins and modules
+- `plan`
+	- creates an execution plan
+- `apply`
+	- applies the execution plan (implicitly runs `plan` first if no plan provided)
+- `destroy`
+	- deletes infrastructure managed by Terraform
+	- alias of `apply -delete`
+# Taint
+- `tf taint`
+# Backend
+- Cannot access variables because it is used before variable resolution
+- Changes to backend configuration requires re-initialization
+
+# Formatting
+- `tf fmt`
