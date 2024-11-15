@@ -34,7 +34,7 @@ training:
 - types:
 	- [[Node.js]]
 	- [[Python]]
-	- [[Docker]]
+	- [[Virtualization/Containers/Docker/Docker|Docker]]
 	- [[NET|.NET]] projects
 	- Databases:
 		- [[relational]]:

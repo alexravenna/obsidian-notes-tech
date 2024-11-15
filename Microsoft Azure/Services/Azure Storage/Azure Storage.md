@@ -12,7 +12,7 @@
 	- Cold - for infrequently-accessed data stored for at least 90 days
 	- Archive - for rarely-accessed data stored for at least 180 days, with flexible latency requirements
 - An Azure Storage account has to have a namespace that is unique in Azure
-- Azure Storage can be mounted as [[Volumes|volumes]] for [[Docker]] [[Container|containers]] through a plugin
+- Azure Storage can be mounted as [[Volumes|volumes]] for [[Virtualization/Containers/Docker/Docker|Docker]] [[Container|containers]] through a plugin
 # Services
 - [[Azure Blob Storage]]
 - [[Azure Data Lake Storage]]

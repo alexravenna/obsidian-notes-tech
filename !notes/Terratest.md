@@ -6,5 +6,5 @@ db: "[[!db/sw/Terratest|Terratest]]"
 - Supports:
 	- [[Infrastructure as Code/Terraform/Terraform|Terraform]]
 	- [[Packer]]
-	- [[Docker]]
+	- [[Virtualization/Containers/Docker/Docker|Docker]]
 	- [[Kubernetes]]

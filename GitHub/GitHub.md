@@ -8,7 +8,7 @@ tags:
 ---
 # Description
 - A developer platform
-- Acquired by [[Microsoft]]
+- Acquired by [[Microsoft/Microsoft|Microsoft]]
 - Largest web portal for hosting code
 - Components:
 	- Repositories

@@ -27,8 +27,8 @@ documentation:
 		- [[Windows]]
 		- [[macOS]]
 		- [[Linux]]
-		- [[Docker]]
-	- or hosted by [[Microsoft]]
+		- [[Virtualization/Containers/Docker/Docker|Docker]]
+	- or hosted by [[Microsoft/Microsoft|Microsoft]]
 # Tasks
 - [[Azure App Service Deploy]]
 - [[IIS WebApp Deploy]]

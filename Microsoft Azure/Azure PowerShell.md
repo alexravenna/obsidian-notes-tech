@@ -8,13 +8,14 @@ tags:
 documentation:
   - https://learn.microsoft.com/en-us/powershell/azure/
 ---
+# Description
 - Collection of [[PowerShell]] [[Module|modules]] for creating and managing [[Azure]] [[Resource|resources]]
 - Module name: `Az`
 - Compatible with PowerShell 7.x+ and [[Windows PowerShell]] 5.1
 - Runs in:
 	- [[Azure Cloud Shell]]
 	- PowerShell
-	-  a [[Docker]] [[container]]
+	-  a [[Virtualization/Containers/Docker/Docker|Docker]] [[container]]
 - Has tab completion and predictive [[IntelliSense]]
 - Based on [[.NET Standard]]
 - Returns [[.NET objects]]

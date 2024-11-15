@@ -6,7 +6,7 @@ tags:
 training: https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/
 ---
 # Description
-- The cloud platform from [[Microsoft]]
+- The cloud platform from [[Microsoft/Microsoft|Microsoft]]
 - Offers more than 100 services spanning:
 	- Running apps/[[VM]]s
 	- Storage, i.e. [[Database|databases]]

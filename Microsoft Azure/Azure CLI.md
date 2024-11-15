@@ -12,7 +12,7 @@ tags:
 	- [[PowerShell]]
 	- [[cmd.exe]]
 	- [[Bash]]
-	- a [[Docker]] [[container]]
+	- a [[Virtualization/Containers/Docker/Docker|Docker]] [[container]]
 - Commands are organized into groups and subgroups
 - Syntax pattern:
 	- `reference name -command -parameter -parameter value`

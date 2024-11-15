@@ -18,7 +18,7 @@ tags:
 - The container OS is isolated from the host OS
 # Image Types
 - Base image
-	- Builds upon the [[Docker]] `scratch` image, which is empty
+	- Builds upon the [[Virtualization/Containers/Docker/Docker|Docker]] `scratch` image, which is empty
 	- `scratch` doesn't create a filesystem layer
 	- Windows images always base upon a Windows base image
 - Parent image

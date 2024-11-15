@@ -12,7 +12,7 @@ training:
 		- compliant with [[OAuth 2.0]] and [[OpenID Connect]] standards
 		- authenticates different identity types:
 			- work or school accounts with [[Microsoft Entra ID]]
-			- [[Microsoft]] accounts
+			- [[Microsoft/Microsoft|Microsoft]] accounts
 			- social or local accounts with [[Azure Active Directory B2C]]
 			- social or local customer accounts with [[Microsoft Entra External ID]]
 	- open-source libraries like [[MSAL]]
