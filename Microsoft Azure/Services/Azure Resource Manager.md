@@ -18,4 +18,4 @@ training: https://learn.microsoft.com/en-us/training/modules/use-azure-resource-
 - Automate deployments with [[Infrastructure as Code]] options:
 	- [[ARM Templates]]
 	- [[Bicep]]
-	- [[Terraform]]
+	- [[Infrastructure as Code/Terraform/Terraform]]

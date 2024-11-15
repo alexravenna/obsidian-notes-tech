@@ -53,7 +53,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "aliases\ntags\nhomepage\ngithub\ndocumentation\nspecification\nresources",
+      "yaml-key-priority-sort-order": "aliases\ntags\nhomepage\nsource\ngithub\ndocumentation\ndocsource\nblog\nblog-feed\nspecification\nresources",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },

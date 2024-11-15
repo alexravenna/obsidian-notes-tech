@@ -10,7 +10,7 @@ resources:
 - Use [[Infrastructure as Code]] templates:
 	- [[ARM Templates]]
 	- [[Bicep]]
-	- [[Terraform]]
+	- [[Infrastructure as Code/Terraform/Terraform]]
 - Managed in catalog [[Repository|repositories]]:
 	- in [[GitHub]]
 	- in [[Azure DevOps]]
