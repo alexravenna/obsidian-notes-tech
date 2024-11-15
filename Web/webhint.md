@@ -8,13 +8,15 @@ tags:
   - web
 homepage:
   - https://webhint.io/
-github: https://github.com/webhintio
+github:
+  - https://github.com/webhintio
 ---
+# Description
 - A [[linting]] tool for websites to help improve their:
 	- [[Accessibility]]
 	- speed
 	- cross-browser compatibility
 	- cleaning up usage of bad practices
-- Started in the [[Microsoft]] [[Edge]] team
+- Started in the [[Microsoft/Microsoft|Microsoft]] [[Edge]] team
 - Is integrated in Edge [[Devtools]]
 - Available as an extension for other browsers
