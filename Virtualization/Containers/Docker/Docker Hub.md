@@ -8,5 +8,6 @@ homepage:
 documentation:
   - https://docs.docker.com/docker-hub/
 ---
+# Description
 - A [[Container Registry|container registry]] hosted by [[Docker (Company)]]
-- The default public registry used by [[Docker]]
+- The default public registry used by [[Virtualization/Containers/Docker/Docker|Docker]]

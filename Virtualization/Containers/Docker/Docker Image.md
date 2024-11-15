@@ -1,5 +1,5 @@
 # Description
-- The [[Docker]] implementation of a [[Container Image|container image]]
+- The [[Virtualization/Containers/Docker/Docker|Docker]] implementation of a [[Container Image|container image]]
 - Uses [[Unionfs]]
 	- The top layer of an image is writeable
 # Image Naming

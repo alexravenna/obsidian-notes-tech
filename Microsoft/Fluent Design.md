@@ -1,7 +1,8 @@
 ---
-homepage:
-  - https://fluent2.microsoft.design/
 tags:
   - design-system
+homepage:
+  - https://fluent2.microsoft.design/
 ---
-- [[Microsoft]] [[design system]]
+# Description
+- [[Microsoft/Microsoft|Microsoft]] [[design system]]

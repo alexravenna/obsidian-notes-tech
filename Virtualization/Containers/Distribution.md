@@ -12,4 +12,4 @@ image: https://hub.docker.com/_/registry
 # Description
 - Originally released by [[Docker (Company)]]
 - Implementation of a [[Container Registry|container registry]] server upon which the [[OCI]] [[distribution-spec]] was based
-- In use by [[Docker]] until [[containerd]] is implemented
+- In use by [[Virtualization/Containers/Docker/Docker|Docker]] until [[containerd]] is implemented

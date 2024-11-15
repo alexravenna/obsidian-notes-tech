@@ -12,7 +12,7 @@ resources:
   - https://devblogs.microsoft.com/ise/dev-containers/
 ---
 # Description
-- A [[Docker]] [[Container Image|container image]] that contains all the tools and dependencies needed to run a development environment
+- A [[Virtualization/Containers/Docker/Docker|Docker]] [[Container Image|container image]] that contains all the tools and dependencies needed to run a development environment
 - Defined in a `devcontainer.json` file, usually contained in the root directory or a .devcontainer directory
 - Supported by [[IDE]]s such as:
 	- [[Visual Studio Code|VS Code]]
