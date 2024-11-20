@@ -7,4 +7,4 @@ tags:
   - storage
 ---
 - Windows-only
-- Superseded by [[Azurite]]
+- Superseded by [[Microsoft Azure/Services/Azure Storage/Azurite]]
