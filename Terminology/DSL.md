@@ -1,0 +1,4 @@
+---
+aliases:
+  - domain-specific language
+---
