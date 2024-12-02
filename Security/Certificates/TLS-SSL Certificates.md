@@ -9,6 +9,7 @@ aliases:
 - Chained to a CAs root certificate
 - The basis [[HTTPS]]
 - Used to encrypt information transferred to and from a website/server
+- A trustworthy way of transmitting a [[public key]]
 - Levels of validation, from lowest to highest, i.e. most anonymous to least anonymous:
 	- Domain Validated (DV)
 	- Organization Validated (OV)

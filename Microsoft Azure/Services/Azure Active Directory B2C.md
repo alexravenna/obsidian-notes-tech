@@ -7,6 +7,7 @@ tags:
   - azure
 resources:
   - https://learn.microsoft.com/en-us/azure/active-directory-b2c/
+  - https://www.youtube.com/watch?v=QuXI4rPaczc
 ---
 # Description
 - [[CIAM]] solution

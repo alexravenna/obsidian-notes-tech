@@ -15,3 +15,7 @@ resources:
 - scope=openid
 - ID token: [[JWT]]
 - Claims
+	- subject
+	- audience
+	- expiration
+	- issued at
