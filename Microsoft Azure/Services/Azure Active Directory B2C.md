@@ -11,6 +11,7 @@ resources:
 ---
 # Description
 - [[CIAM]] solution
+- Is its own [[tenant]] and can't have any [[Subscription|subscriptions]] associated with it
 - Business-to-customer identity as a service
 - Connection between identities (local, social, business, government) and business applications and APIs
 - Uses:
