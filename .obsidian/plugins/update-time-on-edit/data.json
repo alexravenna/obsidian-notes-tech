@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "!db/Db newtool.md": "daefd1dc7b9da7ca6f0c130ec2348268355d946e7bf0910fcbe503a27516a517",
-    "templates/db.md": "f531752ed53ca57520d0832682c2c8fff363c980a8022ea2bc3ed34609b9b39b"
+    "templates/db.md": "f531752ed53ca57520d0832682c2c8fff363c980a8022ea2bc3ed34609b9b39b",
+    "!db/sw/Valibot.md": "e8e2af1ce86ca1532396030e0fb37a748b2fd3418c5f45673ad63f5e10b46bd8"
   }
 }
