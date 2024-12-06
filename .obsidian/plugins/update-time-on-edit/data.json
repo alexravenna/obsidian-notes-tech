@@ -1,0 +1,14 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "!db/Db newtool.md": "daefd1dc7b9da7ca6f0c130ec2348268355d946e7bf0910fcbe503a27516a517",
+    "templates/db.md": "f531752ed53ca57520d0832682c2c8fff363c980a8022ea2bc3ed34609b9b39b"
+  }
+}

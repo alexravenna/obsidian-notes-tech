@@ -1,0 +1,12 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "!notes",
+      "templateName": "note"
+    },
+    {
+      "folderPath": "!db/sw",
+      "templateName": "db"
+    }
+  ]
+}
