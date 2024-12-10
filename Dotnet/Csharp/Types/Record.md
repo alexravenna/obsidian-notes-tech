@@ -1,4 +1,6 @@
 ---
+created: 2024-07-17T08:46:10Z
+updated: 2024-12-10T08:35:00Z
 documentation:
   - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record
 resources:

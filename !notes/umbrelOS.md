@@ -1,4 +1,6 @@
 ---
+created: 2024-11-14T10:02:33Z
+updated: 2024-12-10T08:33:05Z
 tags:
   - home-server
   - self-hosting

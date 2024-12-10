@@ -1,4 +1,6 @@
 ---
+created: 2024-10-01T20:00:28Z
+updated: 2024-12-10T08:34:57Z
 documentation:
   - https://learn.microsoft.com/en-us/azure/developer/terraform/
 ---

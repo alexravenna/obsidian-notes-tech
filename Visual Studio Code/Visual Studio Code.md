@@ -1,4 +1,6 @@
 ---
+created: 2023-11-15T16:12:05Z
+updated: 2024-12-10T08:34:54Z
 aliases:
   - VS Code
   - VSC

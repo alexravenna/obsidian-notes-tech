@@ -1,4 +1,6 @@
 ---
+created: 2023-11-21T12:10:31Z
+updated: 2024-12-10T08:34:58Z
 aliases:
   - Azure Resource Manager Templates
 tags:

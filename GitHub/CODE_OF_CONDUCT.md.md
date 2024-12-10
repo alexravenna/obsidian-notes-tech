@@ -1,4 +1,6 @@
 ---
+created: 2024-06-18T13:15:17Z
+updated: 2024-12-10T08:34:59Z
 resources:
   - https://opensource.guide/code-of-conduct/
 ---

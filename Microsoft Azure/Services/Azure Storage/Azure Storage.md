@@ -1,3 +1,7 @@
+---
+created: 2024-04-23T08:22:57Z
+updated: 2024-12-10T08:34:57Z
+---
 # Description
 - All data is encrypted
 - Accessible through [[HTTP]] and [[HTTPS]] through:

@@ -1,4 +1,6 @@
 ---
+created: 2024-04-22T14:05:35Z
+updated: 2024-12-10T08:34:59Z
 aliases:
   - Simple DirectMedia Layer
 tags:

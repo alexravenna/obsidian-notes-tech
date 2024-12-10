@@ -1,4 +1,6 @@
 ---
+created: 2024-05-21T08:31:41Z
+updated: 2024-12-10T08:35:00Z
 documentation:
   - https://learn.microsoft.com/en-us/dotnet/core/deploying/
 ---

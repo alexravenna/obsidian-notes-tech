@@ -1,4 +1,6 @@
 ---
+created: 2024-02-12T08:53:09Z
+updated: 2024-12-10T08:34:58Z
 aliases:
   - Azure resource
 training: https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/

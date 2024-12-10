@@ -1,4 +1,6 @@
 ---
+created: 2024-11-27T14:16:55Z
+updated: 2024-12-10T08:32:53Z
 aliases:
   - Database Markup Language
 homepage:

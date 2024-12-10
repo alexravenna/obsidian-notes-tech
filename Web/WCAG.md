@@ -1,4 +1,6 @@
 ---
+created: 2024-03-13T13:20:27Z
+updated: 2024-12-10T08:34:54Z
 aliases:
   - Web Contact Accessibility Guidelines
 tags:

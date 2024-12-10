@@ -1,4 +1,6 @@
 ---
+created: 2024-02-26T08:33:24Z
+updated: 2024-12-10T08:34:57Z
 aliases:
   - Domain Name System
 tags:

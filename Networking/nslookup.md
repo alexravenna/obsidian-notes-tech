@@ -1,4 +1,6 @@
 ---
+created: 2024-06-12T09:01:37Z
+updated: 2024-12-10T08:34:57Z
 documentation:
   - https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup
 ---

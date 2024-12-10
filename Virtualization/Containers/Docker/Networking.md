@@ -1,4 +1,6 @@
 ---
+created: 2024-05-21T11:43:56Z
+updated: 2024-12-10T08:34:54Z
 documentation:
   - https://docs.docker.com/engine/network/drivers/host/
 ---

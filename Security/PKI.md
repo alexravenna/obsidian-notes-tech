@@ -1,4 +1,6 @@
 ---
+created: 2024-03-01T13:30:35Z
+updated: 2024-12-10T08:34:56Z
 aliases:
   - Public Key Infrastructure
 resources:

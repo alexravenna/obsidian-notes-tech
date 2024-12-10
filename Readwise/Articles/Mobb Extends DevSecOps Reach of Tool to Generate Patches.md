@@ -1,3 +1,7 @@
+---
+created: 2024-02-05T09:19:29Z
+updated: 2024-12-10T08:34:56Z
+---
 # Mobb Extends DevSecOps Reach of Tool to Generate Patches
 
 ![rw-book-cover](https://devops.com/wp-content/uploads/2021/10/android-chrome-256x256-1-130x130.png)

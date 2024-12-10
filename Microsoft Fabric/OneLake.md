@@ -1,4 +1,6 @@
 ---
+created: 2024-10-01T09:40:55Z
+updated: 2024-12-10T08:27:57Z
 documentation:
   - https://learn.microsoft.com/en-us/fabric/onelake/
 ---

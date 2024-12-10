@@ -1,4 +1,6 @@
 ---
+created: 2024-06-04T13:23:25Z
+updated: 2024-12-10T08:34:57Z
 homepage:
   - https://nixos.org/
 documentation:

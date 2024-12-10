@@ -1,3 +1,7 @@
+---
+created: 2024-02-12T13:40:09Z
+updated: 2024-12-10T08:35:00Z
+---
 - The ability to adjust resources to meet demand
 - Pay only for what you use
 - Be able to handle fluctuations in traffic

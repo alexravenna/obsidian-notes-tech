@@ -1,4 +1,6 @@
 ---
+created: 2024-04-23T06:44:11Z
+updated: 2024-12-10T08:34:57Z
 tags:
   - azure
   - serverless

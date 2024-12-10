@@ -1,4 +1,6 @@
 ---
+created: 2023-11-16T08:00:48Z
+updated: 2024-12-10T08:34:57Z
 tags:
   - azure
 training: https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/

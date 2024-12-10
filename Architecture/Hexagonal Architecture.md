@@ -1,4 +1,6 @@
 ---
+created: 2024-01-29T14:51:29Z
+updated: 2024-12-10T08:35:01Z
 aliases:
   - Port-Adapter
 ---

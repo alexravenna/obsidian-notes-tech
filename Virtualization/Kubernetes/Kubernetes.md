@@ -1,4 +1,6 @@
 ---
+created: 2023-12-20T14:56:06Z
+updated: 2024-12-10T08:34:54Z
 aliases:
   - k8s
 tags:

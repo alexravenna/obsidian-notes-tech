@@ -1,4 +1,6 @@
 ---
+created: 2024-08-28T07:38:41Z
+updated: 2024-12-10T08:34:57Z
 aliases:
   - CSP
 specification: "[[Content Security Policy Level 2]]"

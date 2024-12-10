@@ -1,4 +1,6 @@
 ---
+created: 2024-09-13T07:43:50Z
+updated: 2024-12-10T08:34:58Z
 documentation:
   - https://learn.microsoft.com/en-us/entra/identity-platform/
 resources:

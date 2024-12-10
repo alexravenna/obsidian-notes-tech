@@ -1,4 +1,6 @@
 ---
+created: 2024-11-26T13:53:51Z
+updated: 2024-12-10T08:34:55Z
 homepage:
   - https://www.smartdraw.com/
 ---

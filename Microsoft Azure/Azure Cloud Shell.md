@@ -1,4 +1,6 @@
 ---
+created: 2024-02-12T08:47:02Z
+updated: 2024-12-10T08:34:58Z
 homepage:
   - https://azure.microsoft.com/en-us/get-started/azure-portal/cloud-shell/
 ---

@@ -1,4 +1,6 @@
 ---
+created: 2024-08-07T10:35:40Z
+updated: 2024-12-10T08:34:58Z
 resources: 
 training:
   - https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-api-center/

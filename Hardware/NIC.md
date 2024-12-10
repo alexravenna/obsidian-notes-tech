@@ -1,4 +1,6 @@
 ---
+created: 2023-12-10T10:52:16Z
+updated: 2024-12-10T08:34:59Z
 aliases:
   - LAN Adapter
   - Network Adapter

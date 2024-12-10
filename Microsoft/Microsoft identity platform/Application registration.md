@@ -1,4 +1,6 @@
 ---
+created: 2024-09-16T10:39:04Z
+updated: 2024-12-10T08:34:58Z
 aliases:
   - app registration
 training:

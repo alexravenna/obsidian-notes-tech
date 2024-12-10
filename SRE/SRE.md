@@ -1,4 +1,6 @@
 ---
+created: 2024-06-04T12:20:38Z
+updated: 2024-12-10T08:34:55Z
 aliases:
   - Site Reliability Engineering
 resources:

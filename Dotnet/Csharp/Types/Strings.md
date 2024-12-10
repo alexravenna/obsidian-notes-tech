@@ -1,4 +1,6 @@
 ---
+created: 2024-04-22T07:15:55Z
+updated: 2024-12-10T08:35:00Z
 documentation:
   - https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/
 ---

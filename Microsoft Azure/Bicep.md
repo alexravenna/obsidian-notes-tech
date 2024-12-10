@@ -1,4 +1,6 @@
 ---
+created: 2023-11-21T12:19:04Z
+updated: 2024-12-10T08:34:58Z
 tags:
   - azure
   - declarative

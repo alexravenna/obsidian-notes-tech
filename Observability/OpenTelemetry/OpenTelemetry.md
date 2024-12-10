@@ -1,4 +1,6 @@
 ---
+created: 2023-11-23T10:28:51Z
+updated: 2024-12-10T08:34:57Z
 aliases:
   - OTel
 tags:

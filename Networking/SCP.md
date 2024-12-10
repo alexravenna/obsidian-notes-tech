@@ -1,4 +1,6 @@
 ---
+created: 2024-01-03T14:11:59Z
+updated: 2024-12-10T08:34:57Z
 aliases:
   - Secure Copy Protocol
 tags:

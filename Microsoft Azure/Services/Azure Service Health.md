@@ -1,4 +1,6 @@
 ---
+created: 2024-07-05T14:02:50Z
+updated: 2024-12-10T08:34:58Z
 training:
   - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-service-health/
 ---

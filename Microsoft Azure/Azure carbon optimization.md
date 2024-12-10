@@ -1,4 +1,6 @@
 ---
+created: 2024-08-06T14:14:34Z
+updated: 2024-12-10T08:34:58Z
 documentation:
   - https://learn.microsoft.com/en-us/azure/carbon-optimization/
 resources:

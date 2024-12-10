@@ -1,4 +1,6 @@
 ---
+created: 2024-04-15T07:09:21Z
+updated: 2024-12-10T08:34:58Z
 tags:
   - binary
   - data-type

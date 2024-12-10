@@ -1,4 +1,6 @@
 ---
+created: 2024-01-25T11:38:40Z
+updated: 2024-12-10T08:34:57Z
 aliases:
   - Content Delivery Network
 tags:

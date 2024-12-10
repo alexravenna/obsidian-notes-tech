@@ -1,4 +1,6 @@
 ---
+created: 2024-03-19T08:30:19Z
+updated: 2024-12-10T08:34:58Z
 tags:
   - command-line
   - shell

@@ -1,4 +1,6 @@
 ---
+created: 2024-01-25T13:05:48Z
+updated: 2024-12-10T08:34:56Z
 aliases:
   - Quantum Information Science Kit
 tags:

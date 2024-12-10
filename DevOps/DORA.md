@@ -1,4 +1,6 @@
 ---
+created: 2023-11-21T15:59:39Z
+updated: 2024-12-10T08:35:00Z
 aliases:
   - DevOps Research and Assessment
 tags:

@@ -1,20 +1,22 @@
 ---
+created: 2024-01-03T12:20:12Z
+updated: 2024-12-10T08:34:59Z
 tags:
   - ai
   - codex
   - copilot
   - github
   - openai
+homepage:
+  - https://github.com/features/copilot
+documentation:
+  - https://docs.github.com/en/copilot/about-github-copilot
 resources:
   - https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/
   - https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/
 training:
   - https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
   - https://learn.microsoft.com/en-us/training/paths/copilot/
-homepage:
-  - https://github.com/features/copilot
-documentation:
-  - https://docs.github.com/en/copilot/about-github-copilot
 ---
 # Description
 - An AI [[pair programming|pair programmer]] from [[GitHub]]

@@ -1,4 +1,6 @@
 ---
+created: 2024-06-18T04:04:10Z
+updated: 2024-12-10T08:34:58Z
 aliases:
   - ADE
 documentation:

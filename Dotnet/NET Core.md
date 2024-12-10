@@ -1,4 +1,6 @@
 ---
+created: 2023-11-24T11:04:46Z
+updated: 2024-12-10T08:34:59Z
 aliases:
   - .NET
   - .NET Core

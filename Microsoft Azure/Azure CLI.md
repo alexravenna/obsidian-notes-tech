@@ -1,4 +1,6 @@
 ---
+created: 2024-03-18T15:08:01Z
+updated: 2024-12-10T08:34:58Z
 tags:
   - azure
   - cli

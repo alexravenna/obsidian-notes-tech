@@ -1,4 +1,6 @@
 ---
+created: 2024-10-30T08:58:13Z
+updated: 2024-12-10T08:32:53Z
 homepage:
   - https://encore.dev/
 source:

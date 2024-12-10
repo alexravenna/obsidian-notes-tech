@@ -1,4 +1,6 @@
 ---
+created: 2024-12-03T08:51:09Z
+updated: 2024-12-10T08:34:58Z
 aliases:
   - Test-NetConnection
 tags:

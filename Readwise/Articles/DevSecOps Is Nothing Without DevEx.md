@@ -1,3 +1,7 @@
+---
+created: 2024-01-25T07:34:36Z
+updated: 2024-12-10T08:34:56Z
+---
 # DevSecOps Is Nothing Without DevEx
 
 ![rw-book-cover](https://media.graphassets.com/oE5bi0tqSOWN03928P68)

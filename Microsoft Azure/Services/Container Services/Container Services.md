@@ -1,4 +1,6 @@
 ---
+created: 2024-07-19T14:20:11Z
+updated: 2024-12-10T08:34:57Z
 homepage:
   - https://azure.microsoft.com/en-us/products/category/containers/
 resources:

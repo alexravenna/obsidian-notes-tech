@@ -1,4 +1,6 @@
 ---
+created: 2024-11-14T15:52:13Z
+updated: 2024-12-10T08:33:05Z
 tags:
   - azure
   - IaC

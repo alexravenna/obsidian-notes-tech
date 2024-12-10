@@ -1,4 +1,6 @@
 ---
+created: 2023-11-28T14:10:35Z
+updated: 2024-12-10T08:34:57Z
 tags:
   - azure
   - compute

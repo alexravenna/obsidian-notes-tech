@@ -1,3 +1,7 @@
+---
+created: 2023-12-13T10:10:44Z
+updated: 2024-12-10T08:34:56Z
+---
 # How to Stop Lying to Ourselves: A Call for Self-Awareness
 
 ![rw-book-cover](https://jamesclear.com/wp-content/uploads/2015/07/self-awareness.jpg)

@@ -1,4 +1,6 @@
 ---
+created: 2024-02-07T12:16:54Z
+updated: 2024-12-10T08:35:00Z
 resources:
   - https://aws.amazon.com/compliance/shared-responsibility-model/
   - https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility

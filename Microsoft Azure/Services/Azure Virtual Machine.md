@@ -1,4 +1,6 @@
 ---
+created: 2024-09-10T17:58:24Z
+updated: 2024-12-10T08:34:57Z
 aliases:
   - Azure VM
 tags:

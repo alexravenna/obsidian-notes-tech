@@ -1,4 +1,6 @@
 ---
+created: 2024-11-21T10:47:20Z
+updated: 2024-12-10T08:35:00Z
 resources:
   - https://www.learnentityframeworkcore.com/configuration/data-annotation-attributes/databasegenerated-attribute
 ---

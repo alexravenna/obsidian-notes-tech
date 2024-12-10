@@ -1,3 +1,7 @@
+---
+created: 2024-02-09T09:10:59Z
+updated: 2024-12-10T08:35:01Z
+---
 - Architecture type for [[Large Language Model|LLM]]s
 - Consists of:
 	- Encoder: creates semantic representations of the training vocabulary

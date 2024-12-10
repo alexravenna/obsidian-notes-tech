@@ -1,4 +1,6 @@
 ---
+created: 2024-01-10T09:06:59Z
+updated: 2024-12-10T08:34:59Z
 aliases:
   - IaC
 tags:

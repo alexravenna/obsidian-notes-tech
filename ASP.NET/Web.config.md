@@ -1,4 +1,6 @@
 ---
+created: 2023-11-13T11:59
+updated: 2024-12-10T08:35:01Z
 tags:
   - ASPNET
   - file
@@ -9,8 +11,6 @@ documentation:
 resources:
   - https://azuliadesigns.com/c-sharp-tutorials/ultimate-guide-webconfig-file/
   - https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/transform-webconfig
-created: 2023-11-13T11:59
-updated: 2024-12-09T21:10
 ---
 # Description
 - [[XML]] file for configuring [[ASP.NET]] web applications

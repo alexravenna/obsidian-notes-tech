@@ -1,4 +1,6 @@
 ---
+created: 2024-03-08T16:16:04Z
+updated: 2024-12-10T08:35:01Z
 resources:
   - https://azure.microsoft.com/en-us/solutions/cloud-native-apps/
   - https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/

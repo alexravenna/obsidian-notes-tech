@@ -1,4 +1,6 @@
 ---
+created: 2023-11-29T07:43:57Z
+updated: 2024-12-10T08:34:57Z
 aliases:
   - Azure Active Directory
 tags:

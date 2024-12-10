@@ -1,3 +1,7 @@
+---
+created: 2024-05-21T10:40:12Z
+updated: 2024-12-10T08:34:54Z
+---
 # Description
 - The [[Virtualization/Containers/Docker/Docker|Docker]] implementation of a [[Container Image|container image]]
 - Uses [[Unionfs]]

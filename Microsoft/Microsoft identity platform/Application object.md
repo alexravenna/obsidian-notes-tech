@@ -1,4 +1,6 @@
 ---
+created: 2024-09-16T10:37:43Z
+updated: 2024-12-10T08:34:58Z
 resources:
   - https://learn.microsoft.com/en-us/graph/api/resources/application
 ---

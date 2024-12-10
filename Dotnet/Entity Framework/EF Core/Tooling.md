@@ -1,4 +1,6 @@
 ---
+created: 2024-08-27T07:44:40Z
+updated: 2024-12-10T08:35:00Z
 documentation:
   - https://learn.microsoft.com/en-us/ef/core/cli/
 ---

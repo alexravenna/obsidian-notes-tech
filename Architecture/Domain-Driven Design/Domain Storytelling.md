@@ -1,4 +1,6 @@
 ---
+created: 2024-01-29T10:55:29Z
+updated: 2024-12-10T08:35:01Z
 tags:
   - ddd
   - modeling
