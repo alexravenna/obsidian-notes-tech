@@ -1,6 +1,6 @@
 ---
 created: 2024-04-15T07:09:21Z
-updated: 2024-12-10T08:34:58Z
+updated: 2024-12-10T13:15:53Z
 tags:
   - binary
   - data-type
@@ -9,8 +9,9 @@ tags:
 documentation:
   - https://learn.microsoft.com/en-us/sql/t-sql/data-types/bit-transact-sql
 ---
+# Description
 - An [[integer]] data type
-- Used for storing boolean values: `"TRUE"` => 1 and `"FALSE"` => 0
+- Used for storing [[boolean]] values: `"TRUE"` => 1 and `"FALSE"` => 0
 - Possible values:
 	- 1
 	- 0
