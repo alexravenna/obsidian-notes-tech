@@ -1,6 +1,6 @@
 ---
 created: 2023-11-27T07:56:13Z
-updated: 2024-12-10T08:35:00Z
+updated: 2024-12-13T16:31:06Z
 aliases:
   - Remote Dictionary Server
 tags:
@@ -13,6 +13,8 @@ homepage:
 documentation:
   - https://redis.io/docs/latest/
 written in: "[[C]]"
+resources:
+  - https://thenewstack.io/redis-is-not-just-a-cache/
 ---
 # Description
 - A [[key-value]] [[Database|database]] 
