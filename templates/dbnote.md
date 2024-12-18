@@ -1,6 +1,6 @@
 ---
-created: 2024-10-28T09:36
-updated: 2024-12-10T08:17:27Z
+created: {{date:YYYY-MM-DDTHH:mm:ssZ}}
+updated: 2024-12-17T15:52:01Z
 db: 
 ---
 # Description
