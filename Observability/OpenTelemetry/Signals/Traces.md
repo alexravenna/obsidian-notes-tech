@@ -9,4 +9,4 @@ resources:
 # Description
 - A record of all units of work needed to handle an individual request
 - Records the paths taken by requests through a multi-service architecture
-- Consist of one or more [[Spans|spans]] in a [[Directed Acyclic Graph|DAG]]
+- Consist of one or more [[Spans|spans]] in a [[directed acyclic graph|DAG]]
