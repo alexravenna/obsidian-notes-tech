@@ -5,5 +5,7 @@ aliases:
   - Secure Sockets Layer
 tags:
   - abbreviation
+resources:
+  - https://www.cloudflare.com/learning/ssl/what-is-ssl/
 ---
 - Superseded by [[TLS]

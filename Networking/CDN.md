@@ -8,4 +8,5 @@ tags:
 resources:
   - https://www.youtube.com/watch?v=Bsq5cKkS33I
   - https://www.youtube.com/watch?v=rwBv7FqZ77g
+  - https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
 ---
