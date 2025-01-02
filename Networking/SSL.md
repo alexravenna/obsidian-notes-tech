@@ -1,9 +1,10 @@
 ---
 created: 2023-11-20T10:23:07Z
-updated: 2024-12-10T08:34:57Z
+updated: 2025-01-02T22:57:31+01:00
 aliases:
   - Secure Sockets Layer
 tags:
   - abbreviation
 ---
-- Superseded by [[TLS]
+# Description
+- Superseded by [[TLS]]
