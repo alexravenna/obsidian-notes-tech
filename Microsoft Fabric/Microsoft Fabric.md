@@ -1,6 +1,6 @@
 ---
 created: 2024-04-09T15:08:06Z
-updated: 2024-12-10T08:27:57Z
+updated: 2025-01-09T16:36:06+01:00
 tags:
   - SaaS
 documentation:
@@ -23,3 +23,5 @@ resources:
 	- [[Power BI]]
 	- [[Real-time Intelligence]]
 	- [[Synapse Data Warehouse]]
+- Data is stored in [[OneLake]]
+- Split into workspaces
