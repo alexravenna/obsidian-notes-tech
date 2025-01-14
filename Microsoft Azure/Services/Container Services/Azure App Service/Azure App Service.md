@@ -1,6 +1,6 @@
 ---
 created: 2023-11-16T09:23:53Z
-updated: 2024-12-10T08:34:57Z
+updated: 2025-01-14T11:21:01+01:00
 aliases:
   - APS
   - Azure Web Apps
@@ -8,6 +8,7 @@ aliases:
 tags:
   - azure
   - PaaS
+  - application-hosting
 documentation:
   - https://learn.microsoft.com/en-us/azure/app-service/
 training:
@@ -15,11 +16,20 @@ training:
   - https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/
 ---
 # Description
+- Supports [[Windows]] and [[Linux]] environments
 - [[PaaS]] offering for hosting web apps, [[REST|REST API]]s and mobile back ends
 - Built-in scalability:
 	- up/down: more/less [[CPU]] and/or [[RAM]]
 	- in/out: more/fewer instances running the web app
-- Allows auto-syncing code with:
+- Supports multiple languages/frameworks:
+	- [[NET|.NET]]
+	- [[NET Core|.NET Core]]
+	- [[Java]]
+	- [[Ruby]]
+	- [[Node.js]]
+	- [[PHP]]
+	- [[Python]]
+- Allows auto-syncing code ([[CD|continuous deployment]]) with:
 	- [[Azure DevOps]] (automated)
 	- [[GitHub]] (automated)
 	- [[Bitbucket]] (automated)
@@ -55,3 +65,52 @@ training:
 	- Any [[OpenID Connect]] provider
 	- GitHub
 - The authentication and authorization module runs separately from app code and can be configured without code
+# Types
+## Web Apps
+- Supports:
+	- [[ASP.NET]]
+	- [[ASP.NET Core]]
+	- [[Java]]
+	- [[Ruby]]
+	- [[Node.js]]
+	- [[PHP]]
+	- [[Python]]
+- Possible host systems:
+	- [[Windows]]
+	- [[Linux]]
+## API Apps
+- Offers full [[Swagger]] support
+- [[API]]s can be packaged and published to the [[Azure Marketplace]]
+- Apps can be consumed by [[HTTP]] or [[HTTPS]] clients
+## WebJobs
+- Enables running a program in the same context as another app
+- Supports:
+	- [[.exe]]
+	- [[Java]]
+	- [[PHP]]
+	- [[Python]]
+	- [[Node.js]]
+	- [[.cmd]]
+	- [[.bat]]
+	- [[PowerShell]]
+	- [[Bash]]
+- Can be:
+	- scheduled
+	- run by trigger
+- Often used for background jobs
+## Mobile Apps
+- Used for building [[backend]]s for mobile apps
+- Offers functionality for:
+	- storing data in [[Azure SQL Database]]
+	- [[authentication]] against social [[Identity Provider|providers]]:
+		- [[MSA]]
+		- [[Google/Google|Google]]
+		- [[X]]
+		- [[Facebook]]
+	- sending [[push notifications]]
+	- running custom [[Csharp|C#]] or [[Node.js]] backend code
+- Provides SDKs for mobile apps using:
+	- native [[iOS]]
+	- native [[Android]]
+	- [[React Native]]
+	- [[Xamarin]]
