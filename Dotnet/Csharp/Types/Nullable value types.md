@@ -1,11 +1,12 @@
 ---
 created: 2024-03-14T08:59:34Z
-updated: 2024-12-10T08:35:00Z
+updated: 2025-01-17T22:12:37+01:00
 tags:
   - "null"
   - nullable
 documentation:
-  - https://developer.mozilla.org/en-US/docs/Web/API/Element/blur_event
   - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types
 ---
-`int? MyInteger`
+# Description
+- The default value of a nullable value type is `null`
+- Example: `int? MyInteger`
