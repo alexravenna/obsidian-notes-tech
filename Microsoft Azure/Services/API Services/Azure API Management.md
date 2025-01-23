@@ -70,7 +70,7 @@ training:
 		- [[GraphQL]]
 		- [[Protocols/gRPC/gRPC|gRPC]]
 	- import API specifications from:
-		- [[OpenAPI]]
+		- [[OpenAPI Specification]]
 		- [[SOAP]]/[[WSDL]]
 		- [[WADL]]
 		- [[OData]]

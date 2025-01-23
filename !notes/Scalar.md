@@ -5,5 +5,5 @@ db: "[[!db/sw/Scalar|Scalar]]"
 ---
 # Description
 - [[API]] documentation platform
-- Works with [[OpenAPI]]
+- Works with [[OpenAPI Specification]]
 - Has a client: https://client.scalar.com/
