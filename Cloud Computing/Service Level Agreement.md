@@ -1,9 +1,10 @@
 ---
-created: 2023-11-13T10:59:49Z
-updated: 2024-12-10T08:35:00Z
+created: 2025-01-31T10:06:19+01:00
+updated: 2025-01-31T10:06:28+01:00
 aliases:
   - SLA
 ---
+# Description
 - Defines commitments for performance and uptime of applications
 - Formal agreement between service provider and customers
 - Measured in service uptime (%)
