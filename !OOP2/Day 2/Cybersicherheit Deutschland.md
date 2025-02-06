@@ -1,0 +1,5 @@
+- Haya Schulmann
+- Deutschland wenig Cloud im Vergleich
+- On-prem Kritischer
+- Alle sektOren hydride IT
+- Larger IT surface area → more vulnerable

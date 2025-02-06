@@ -1,0 +1,24 @@
+- Modelle
+	- No-Architecture (Anarchie)
+		- unkoordiniert 
+		- + schnelle Entscheidungen
+		- - mehr Chaos statt Struktur
+		- - verhärtete Fronten
+	- Der Architekt (Autokratur)
+		- freiwillig bestimmt
+		- anfänge der strukturierten Architekturarbeit
+		- + einheitliche Entscheidungen
+		- + jemand kümmert sich
+		- - skaliert nicht
+		- - Bodenhaftung geht verloren
+	- Multi-Level-Architektur (constitutional monarchy)
+		- Makro- und Mikroarchitektur
+		- gemeinsame Architekturarbeit mit Guidance
+		- + Freiraum in Grenzen
+		- + gemeinsame Vision
+		- - zu großer Overhead
+	- Architekturspezialisten (Expertokratie)
+		- + starke, gemeinsame Ziele
+		- + Engineering statt Coding
+		- gemeinsame Vision von Business und Technik
+		- großes Vertrauen

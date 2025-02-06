@@ -1,0 +1,21 @@
+- Migration
+	- fachlicher Schnitt
+		- "fracture planes" Matthew Skelton
+			- natural seams for easily splitting
+			- independent services heuristics
+				- innoq Michael Plöd 2024 07b
+	- technischer Umbau: Anwendung 
+	- technischer Umbau: Betrieb
+- Modulith
+	- Modul
+		- fachliches Feature 
+		- öffent. API
+		- private Implementierung 
+		- getrennte Datentabellen 
+	- dzone article vs microservices 
+	- Konsistenz 
+		- keine Workarounds (e.g. saga pattern)
+		- CDCT Consumer-driven contract testing
+	- Validation:
+		- jMolecule
+		- ArchUnit
