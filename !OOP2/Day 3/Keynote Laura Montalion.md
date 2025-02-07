@@ -1,0 +1,10 @@
+- "Software is encoded knowledge"
+- knowledge stock increases your efficiency
+- knowledge flow increases your effectiveness
+	- ability to transfer knowledge between people (or technology) in ways that change or shift the system
+- shift two: help me design relationships
+	- think about "one and one" make two, don't forget "and"
+- shift three: help me discover leverage points
+	- don't forget about counterintuitiveness
+- shift four: embrace new values
+- Book: Learning System Thinking

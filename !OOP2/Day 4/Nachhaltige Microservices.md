@@ -1,0 +1,33 @@
+- QAware
+- Microservices - dominante Pattern, deswegen möglicher Hebel
+- Verschiedene Frameworks für
+	- Java
+	- Javascript 
+	- Go
+	- Rust
+- Gemessen:
+	- Build-Zeiten
+	- Build-Größe
+- Messtools
+	- Stromverbrauch zur Laufzeit
+	- LiMo
+		- leitet von Green Frame ab www.greenframe.io
+		- Verbrauch linear mit CPU und Speicher-Verbrauch eines Containers
+		- Verbrauche eines Containers messen
+		- normalisieren zu "Energieverbrauch"
+		- läuft in Docker
+		- keine Historie
+	- Green Metrics Tool www.green-coding.io
+		- detailliertes Hardware-Modell
+		- nicht-lineares Modell mit ML
+		- läuft in Docker
+		- Dashboard 
+	- Kepler
+		- CPU-Verbrauch dominiert Energieverbrauch
+		- über eBPF-Probes zur Laufzeit auswerten
+		- Lineares Modell mit opt. ML
+		- läuft in Kubernetes
+		- Dashboard
+- Experiment
+	- load testing mit k6
+	- Microservice mit Tool in eigener Instanz, getrennt von Backend und k6

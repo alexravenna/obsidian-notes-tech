@@ -1,0 +1,11 @@
+- "Embrace modularity, but beware of granularity" - Mark Richards
+- Teams aligned with module ownership
+- Different aspects of architecture that affect agility
+	- Upsides and downsides of each aspect
+	- observability
+	- abstractability
+	- modularity
+	- operability
+		- availability
+		- reliability
+- Book: Cloud Application Architecture Patterns

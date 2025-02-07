@@ -1,0 +1,29 @@
+- Nadine Müller, Johanna Mergler - codecentric AG
+- GSF
+	- energy efficiency
+		- lazy loading
+		- kein video preload
+		- serverside caching: product data?
+		- kleinere Datenformate verwenden
+			- list in slides
+		- bilder und schriften optimieren
+			- list in slides
+		- sustainable UX research
+	- hardware efficiency
+		- software in Rechenzentren wird oft nie verwendet
+		- autoscaling
+		- scale to zero
+		- ältere Endgeräte unterstützen
+	- carbon awareness
+		- temporal shifting
+			- run intensive jobs when carbon intensity is low
+		- carbon aware SDK
+			- carbon aware computing
+			- carbon aware keda scaler
+- Mess-Tools
+	- see slides
+	- measure website!!
+	- badge for website showing CO2/view
+- in DoD aufnehmen
+
+- sitespeed + co2.js

@@ -1,0 +1,15 @@
+- Stefan Lieser
+- CCD Akademie - Clean Code Developer Trainings
+- hexagonale Architektur
+	- port = interface
+	- adapter
+		- Implementiert Port
+- Gemeinsamkeit: DIP dependency inversion principle
+	- Domänenlogik muss unabhängig von der Infrastruktur sein
+- kann trotzdem SRP verletzen
+	- single level of abstraction
+- solution: integration operation segregation principle, IOSP
+	- unit tests for A and B
+	- integration tests for I
+	- Extract use of parent abstraction/integration to separate method
+- DIP durch IOSP ergänzen

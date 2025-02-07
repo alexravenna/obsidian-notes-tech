@@ -1,0 +1,26 @@
+- Philipp Kersting, oktobit.de
+- Auditor Blaue Engel für Software
+- FinOps
+	- cloud costs rising dramatically
+	- FinOps necessary because difficult to measure decentral IT costs
+	- creates transparency of costs
+	- FinOps Framework by FinOps Foundation
+	- Cloud FinOps book from O'Reilly
+	- practices
+		- reduce amount
+			- right sizing
+			- remove unused instances
+			- autoscaling
+		- reduce costs
+			- savings plans
+			- reserved instances
+- GreenOps
+	- E in ESG
+	- in cloud and on-prem
+	- Green IT vs. Green by IT (Google Maps efficient route)
+		- energy efficiency
+			- Green Software
+	- practices
+		- Carbon-Ware computing
+- IT and business must work together to optimize software
+- No GreenOps or FinOps ohne DevOps

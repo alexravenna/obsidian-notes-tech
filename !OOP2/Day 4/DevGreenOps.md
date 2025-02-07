@@ -1,0 +1,55 @@
+- Jochen Joswig, MaibornWolff seit 2020
+	- Azure Cloud, Green IT
+	- GSF Champion
+- Immer größere Websites und Anwendungen
+- The Shift Project 2018
+- ISIT - The handbook of sustainable design of digital services
+- GSF Green Software Patterns
+- Blauer Engel
+- static code analysis
+	- Greenspector
+	- ecoCode - Erweiterung für SonarQube
+	- CAST
+- Clean code isn't always green code
+- build best practices
+	- only build changed code
+	- Eco CI
+	- slim toolkit for Docker images
+	- compression
+- test best practices
+	- only test changed code
+	- turn off dev/test environments 
+	- kube-green
+	- Green Metrics Tool
+		- SCI
+- release best practices
+	- ensure support for old hardware 
+	- clean up left-overs
+	- EOL strategy
+- deploy best practices
+	- only deploy changes worth deploying
+	- consider sustainability of deploy location
+- operate
+	- right size infrastructure
+	- scaling
+	- consider carbon awareness !!!
+		- climateaction.tech Branch Magazine
+		- when to run batch jobs
+- monitoring 
+	- Scaphandre
+	- kepler
+	- Cloud Carbon Footprint
+		- cost data -> energy data
+- plan
+	- optimize user journeys
+	- design with user and device in mind
+	- make ecosystem stakeholder
+	- use media and formats appropriately
+	- favicons
+- transparency important
+- Jevons Paradox
+	- once something becomes more efficient, it consumes more energy instead of less
+- E.ON project idea: provide data about when carbon load is lowest
+
+Cloud provider who is green aware?
+Azure Power license
