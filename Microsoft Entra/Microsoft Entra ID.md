@@ -1,6 +1,6 @@
 ---
 created: 2023-11-29T07:43:57Z
-updated: 2024-12-10T08:34:57Z
+updated: 2025-02-17T08:20:03+01:00
 aliases:
   - Azure Active Directory
 tags:
@@ -9,6 +9,8 @@ documentation:
   - https://learn.microsoft.com/en-us/entra/identity/
 training:
   - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-ad/
+resources:
+  - https://youtu.be/RnnnY0hr3vE?si=pV2bwNlovqvlI50u
 ---
 # Description
 - Formerly Azure Active Directory
