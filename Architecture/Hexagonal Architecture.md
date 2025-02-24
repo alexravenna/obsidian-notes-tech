@@ -1,9 +1,10 @@
 ---
-created: 2024-01-29T14:51:29Z
-updated: 2024-12-10T08:35:01Z
+created: 2025-01-31T10:07:49+01:00
+updated: 2025-01-31T10:07:54+01:00
 aliases:
   - Port-Adapter
 ---
+# Description
 - From Alistair Cockburn
 - Each port can accept multiple adapters
 - Primary ports

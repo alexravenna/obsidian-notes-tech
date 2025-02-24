@@ -1,10 +1,12 @@
 ---
-created: 2023-11-16T08:00:48Z
-updated: 2024-12-10T08:34:57Z
+created: 2025-01-27T10:07:00+01:00
+updated: 2025-01-27T10:07:05+01:00
 tags:
   - azure
-training: https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/
+training:
+  - https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/
 ---
+# Description
 - A subscription is necessary to create and use [[Azure]] services
 - A subscription belongs to an account
 - Multiple subscriptions can belong to one account
