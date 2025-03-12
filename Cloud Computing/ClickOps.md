@@ -1,6 +1,6 @@
 ---
 created: 2024-11-13T12:39:47Z
-updated: 2024-12-10T08:35:01Z
+updated: 2025-03-12T00:14:11+01:00
 ---
 # Description
-- When the cloud infrastructure is "clicked together" in the cloud provider web portal
+- When [[cloud]] [[infrastructure]] is "clicked together" in the cloud provider web portal
