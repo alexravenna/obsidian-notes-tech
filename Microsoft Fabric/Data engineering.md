@@ -1,6 +1,9 @@
 ---
-created: 2024-10-01T09:46:42Z
-updated: 2024-12-10T08:27:51Z
+created: 2025-04-10T09:18:14+02:00
+updated: 2025-04-10T09:20:39+02:00
 documentation:
   - https://learn.microsoft.com/en-us/fabric/data-engineering/
 ---
+# Description
+- Used for creating lakehouses
+- Utilizes notebooks and [[Spark]]

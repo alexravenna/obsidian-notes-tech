@@ -1,4 +1,6 @@
 ---
-created: 2024-10-01T09:30:19Z
-updated: 2024-12-10T08:35:00Z
+created: 2025-04-10T09:51:46+02:00
+updated: 2025-04-10T09:51:52+02:00
 ---
+# Description
+- Insert possible with [[SQL]]

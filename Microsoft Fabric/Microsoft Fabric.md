@@ -1,6 +1,6 @@
 ---
 created: 2024-04-09T15:08:06Z
-updated: 2025-01-09T16:36:06+01:00
+updated: 2025-04-10T09:57:47+02:00
 tags:
   - SaaS
 documentation:
@@ -16,12 +16,18 @@ resources:
 	- [[Scala]]
 	- [[SparkR]]
 	- others
-- Experiences:
-	- [[Data engineering]]
-	- [[Data factory]]
-	- [[Data science]]
+- Experiences/workloads:
+	- [[Data Engineering]]
+	- [[Data Factory]]
+	- [[Data Science]]
 	- [[Power BI]]
-	- [[Real-time Intelligence]]
-	- [[Synapse Data Warehouse]]
+	- [[Real-time Analytics]]
+	- [[Microsoft Fabric/Data Warehouse]]
+	- [[Data Activator]]
 - Data is stored in [[OneLake]]
 - Split into workspaces
+- Built on [[Power BI]]
+- Security, [[governance]] and administration with [[Microsoft Purview]]
+- Direct Lake Mode
+	- real-time
+	- loads data directly from [[Parquet]] files without explicitly importing
