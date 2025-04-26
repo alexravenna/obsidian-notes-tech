@@ -1,6 +1,6 @@
 ---
 created: 2023-11-23T10:28:51Z
-updated: 2024-12-10T08:34:57Z
+updated: 2025-04-11T16:23:18+02:00
 aliases:
   - OTel
 tags:
@@ -25,3 +25,4 @@ resources:
 	- zero-code
 - Components:
 	- [[OpenTelemetry Protocol]]
+- Customized versions of components are called "distributions"

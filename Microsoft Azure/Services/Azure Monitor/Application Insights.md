@@ -1,6 +1,6 @@
 ---
 created: 2023-11-13T10:59:49Z
-updated: 2024-12-10T08:34:58Z
+updated: 2025-04-11T16:24:45+02:00
 tags:
   - azure
   - logging
@@ -8,6 +8,8 @@ tags:
 resources:
   - https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
   - https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-overview?tabs=aspnetcore
+training:
+  - https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/
 ---
 # Description
 - A feature of [[Azure Monitor]]
@@ -17,7 +19,7 @@ resources:
 	- Distributed tracing
 	- Metrics
 	- Logs
-- There are automatic and manual methods for enabling an app to send telemetry
+- There are automatic ("autoinstrumentation") and manual ("manual instrumentation") methods for enabling an app to send telemetry
 - Data model:
 	- Telemetry types automatically collected:
 		- Requests - server requests
@@ -33,6 +35,7 @@ resources:
 	- The Application Insights agent
 - #caveat [[Redis]] dependencies must be manually configured, they aren't detected automatically
 - Can send status requests to your application
+- Migration to and use of an [[OpenTelemetry]] distribution is recommended
 # Preprocessing Telemetry
 ## Sampling
 - Application Insights features three sampling methods:

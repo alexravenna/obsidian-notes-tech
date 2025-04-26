@@ -1,6 +1,6 @@
 ---
-created: 2024-05-31T07:37:26Z
-updated: 2024-12-10T08:34:57Z
+created: 2025-04-10T13:38:26+02:00
+updated: 2025-04-10T13:38:48+02:00
 tags:
   - azure
   - deprecated
@@ -8,5 +8,6 @@ tags:
   - emulator
   - storage
 ---
+# Description
 - Windows-only
-- Superseded by [[Microsoft Azure/Services/Azure Storage/Azurite]]
+- Superseded by [[Azurite]]

@@ -1,8 +1,9 @@
 ---
-created: 2024-04-23T08:26:05Z
-updated: 2024-12-10T08:34:57Z
-tags: []
+created: 2025-04-10T13:39:07+02:00
+updated: 2025-04-10T13:39:12+02:00
+tags:
 ---
+# Description
 - File shares
 - Can be mounted concurrently by cloud or [[on-premise]] deployments
 - Endpoint format: `https://<storage-account-name>.file.core.windows.net`
