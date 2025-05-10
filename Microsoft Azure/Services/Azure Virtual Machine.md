@@ -1,6 +1,6 @@
 ---
 created: 2024-09-10T17:58:24Z
-updated: 2024-12-10T08:34:57Z
+updated: 2025-05-10T12:24:05+02:00
 aliases:
   - Azure VM
 tags:
@@ -17,3 +17,5 @@ tags:
 	- Size
 	- Storage disks
 	- Networking
+- Each VM is associated with at least one [[network security group]]
+	- A default NSG is created if none is specified

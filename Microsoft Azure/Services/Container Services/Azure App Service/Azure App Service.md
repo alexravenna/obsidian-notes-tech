@@ -1,6 +1,6 @@
 ---
 created: 2023-11-16T09:23:53Z
-updated: 2025-01-14T11:21:01+01:00
+updated: 2025-05-10T11:59:12+02:00
 aliases:
   - APS
   - Azure Web Apps
@@ -83,21 +83,8 @@ training:
 - [[API]]s can be packaged and published to the [[Azure Marketplace]]
 - Apps can be consumed by [[HTTP]] or [[HTTPS]] clients
 ## WebJobs
-- Enables running a program in the same context as another app
-- Supports:
-	- [[.exe]]
-	- [[Java]]
-	- [[PHP]]
-	- [[Python]]
-	- [[Node.js]]
-	- [[.cmd]]
-	- [[.bat]]
-	- [[PowerShell]]
-	- [[Bash]]
-- Can be:
-	- scheduled
-	- run by trigger
-- Often used for background jobs
+- See [[Azure App Service WebJobs]]
+
 ## Mobile Apps
 - Used for building [[backend]]s for mobile apps
 - Offers functionality for:
