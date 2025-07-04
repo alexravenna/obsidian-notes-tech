@@ -1,6 +1,6 @@
 ---
 created: 2024-02-26T08:33:24Z
-updated: 2024-12-10T08:34:57Z
+updated: 2025-07-04T08:30:56+02:00
 aliases:
   - Domain Name System
 tags:
@@ -20,4 +20,4 @@ resources:
 # Root Server
 # TLD Server
 # Authoritative Name Server
-- aka Doman Name Server
+- AKA Domain Name Server
