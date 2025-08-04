@@ -5,5 +5,7 @@ aliases:
   - Model Context Protocol
 resources:
   - https://www.youtube.com/watch?v=VChRPFUzJGA
+  - https://www.ibm.com/think/topics/model-context-protocol
+  - https://www.youtube.com/watch?v=l93LrDpIJGY
 ---
 # Description
