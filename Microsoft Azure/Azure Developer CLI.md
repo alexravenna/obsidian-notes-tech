@@ -12,6 +12,8 @@ documentation:
   - https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/
 resources:
   - https://azure.github.io/awesome-azd/
+  - https://jonahandersson.tech/cloud-development-with-azure-developer-cli-azd/
+  - https://github.com/jonahandersson/learning-azure-developer-cli-resources
 training:
   - https://learn.microsoft.com/en-us/training/paths/azure-developer-cli/
 ---
