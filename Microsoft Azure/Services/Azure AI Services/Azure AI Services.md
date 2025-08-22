@@ -1,12 +1,13 @@
 ---
-created: 2024-02-09T16:34:01Z
-updated: 2024-12-10T08:34:58Z
+created: 2025-08-19T21:23:20+02:00
+updated: 2024-12-10T12:57:41Z
 tags:
   - ai
   - SaaS
 documentation:
   - https://learn.microsoft.com/en-us/azure/ai-services/
 ---
+# Description
 - Formerly [[Azure Applied AI Services]] and Cognitive Services
 - A portfolio of [[AI]] services
 - Offers prebuilt, pretrained [[Machine Learning|ML]] models

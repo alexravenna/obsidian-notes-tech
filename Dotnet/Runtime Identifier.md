@@ -1,11 +1,12 @@
 ---
-created: 2024-05-21T08:36:49Z
-updated: 2024-12-10T08:34:59Z
+created: 2025-08-19T19:00:16+02:00
+updated: 2024-12-10T12:57:41Z
 aliases:
   - RID
 documentation:
   - https://learn.microsoft.com/en-us/dotnet/core/rid-catalog
 ---
+# Description
 - With .NET 8, a smaller RID graph was introduced
 	- version-specific and [[distro]]-specific RIDs were removed in favor of using "portable" RIDs, e.g.:
 		- `alpine-x64` -> `linux-musl-x64`

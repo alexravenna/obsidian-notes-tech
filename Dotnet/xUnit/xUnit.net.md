@@ -1,6 +1,6 @@
 ---
-created: 2024-02-05T14:06:41Z
-updated: 2024-12-10T08:34:59Z
+created: 2025-08-19T19:13:36+02:00
+updated: 2024-12-10T12:57:41Z
 tags:
   - dotnet
   - member-of/dotnet-foundation
@@ -13,6 +13,7 @@ github: https://github.com/xunit/xunit
 documentation:
   - https://xunit.net/#documentation
 ---
+# Description
 - An [[Open Source]] [[unit testing]] tool for the [[.NET Framework]]
 - Supported languages:
 	- [[Csharp#|C#]]

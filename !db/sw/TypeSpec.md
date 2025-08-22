@@ -6,4 +6,5 @@ homepage:
 source: https://github.com/microsoft/typespec/
 documentation:
   - https://learn.microsoft.com/en-us/azure/developer/typespec/
+blog: https://typespec.io/blog/
 ---

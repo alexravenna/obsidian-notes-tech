@@ -6,6 +6,8 @@ tags:
   - microsoft
   - platform
 training: https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/
+BC-tag-note-tag: "#azure"
+BC-tag-note-field: down
 ---
 # Description
 - The cloud platform from [[Microsoft/Microsoft|Microsoft]]

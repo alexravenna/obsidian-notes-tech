@@ -5,6 +5,7 @@ homepage:
   - https://azure.microsoft.com/en-us/products/category/containers/
 resources:
   - https://learn.microsoft.com/en-us/azure/container-apps/compare-options
+BC-folder-note-field: "down"
 ---
 # Description
 - [[Azure Container Instances]]
