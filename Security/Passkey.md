@@ -5,6 +5,8 @@ homepage:
   - https://www.passkeys.io/
 resources:
   - https://www.microsoft.com/en-us/security/business/security-101/what-is-passkey
+  - https://www.webauthn.me/passkeys
+  - https://learnpasskeys.io/
 ---
 # Description
 - A technology enabling [[passwordless]] [[Security/Authorization|authorization]]
