@@ -30,4 +30,4 @@ resources:
 - client ID/app ID
 - client secret/app secret
 - authorization code
-- access token: used by client for communication with resource server
+- [[access token]]: used by client for communication with resource server
