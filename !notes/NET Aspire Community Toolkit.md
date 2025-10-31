@@ -6,3 +6,5 @@ resources:
   - https://www.youtube.com/watch?v=T-e_HORWHTk
 ---
 # Description
+- Has integrations for:
+	- [[!db/sw/Mailpit|Mailpit]]
