@@ -9,6 +9,8 @@ tags:
   - service-bus
 documentation:
   - https://learn.microsoft.com/en-us/azure/service-bus-messaging/
+resources:
+  - https://www.youtube.com/shorts/Iru4wzb5gUA
 ---
 # Description
 # Queues
