@@ -8,4 +8,6 @@ documentation:
   - https://learn.microsoft.com/en-us/microsoft-cloud/dev/dev-proxy/overview
 resources:
   - https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-developer-proxy-community-preview/
+written in:
+  - "[[Csharp|C#]]"
 ---
