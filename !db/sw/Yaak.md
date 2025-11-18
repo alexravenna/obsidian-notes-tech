@@ -1,6 +1,11 @@
 ---
-created: 2024-09-27T15:03:05Z
-updated: 2024-12-10T08:32:54Z
+created: 2025-11-18T22:05:27+01:00
+updated: 2024-12-17T15:27:08Z
 homepage:
   - https://yaak.app/
+source: https://github.com/mountain-loop/yaak
+documentation:
+written in:
+  - "[[TypeScript]]"
+  - "[[Rust]]"
 ---
