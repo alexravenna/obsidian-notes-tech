@@ -13,6 +13,7 @@ tags:
 resources:
   - https://opentelemetry.io/
   - https://opentelemetry.io/docs/
+  - "[[OpenTelemetry Simplifying Hybrid Cloud Monitoring]]"
 ---
 # Description
 - [[Observability]] framework and toolkit
