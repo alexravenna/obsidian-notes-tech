@@ -6,4 +6,6 @@ homepage:
 source:
   - https://github.com/ryanoasis/nerd-fonts
 documentation:
+docsource:
+  - https://github.com/ryanoasis/nerd-fonts/tree/gh-pages
 ---
