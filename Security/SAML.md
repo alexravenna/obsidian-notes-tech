@@ -6,6 +6,7 @@ aliases:
 resources:
   - https://auth0.com/intro-to-iam/what-is-saml#where-does-your-identity-platform-idp-fit-with-saml-20-and-single-sign-on
   - https://www.samltool.io/
+  - "[[SAML vs. OpenID (OIDC) What's the Difference]]"
 ---
 # Description
 - An open standard for exchanging [[Authentication|authentication]] and [[Security/Authorization|authorization]] data

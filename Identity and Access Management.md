@@ -5,4 +5,5 @@ aliases:
   - IAM
 resources:
   - https://www.ssh.com/academy/iam
+  - "[[Identity & Access Management (IAM)]]"
 ---

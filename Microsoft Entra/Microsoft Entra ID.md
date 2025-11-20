@@ -11,6 +11,8 @@ training:
   - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-ad/
 resources:
   - https://youtu.be/RnnnY0hr3vE?si=pV2bwNlovqvlI50u
+  - "[[Microsoft Entra ID Beginner's Tutorial (Azure Active Directory)]]"
+  - "[[Microsoft Foundry The AI app and agent factory – Now with Anthropic's Claude models]]"
 ---
 # Description
 - Formerly Azure Active Directory

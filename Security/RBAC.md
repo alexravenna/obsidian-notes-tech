@@ -7,4 +7,6 @@ tags:
   - abbreviation
   - access-control
   - security
+resources:
+  - "[[Role-based access control (RBAC) vs. Attribute-based access control (ABAC)]]"
 ---

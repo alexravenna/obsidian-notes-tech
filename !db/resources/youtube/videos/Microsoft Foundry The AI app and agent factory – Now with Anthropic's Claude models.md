@@ -1,0 +1,6 @@
+---
+created: 2025-11-20T22:05:46+01:00
+updated: 2024-12-17T12:48:49Z
+channel: "[[Microsoft Azure]]"
+link: https://www.youtube.com/watch?v=ooZ3xXEdOKI
+---
