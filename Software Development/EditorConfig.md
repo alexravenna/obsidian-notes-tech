@@ -8,4 +8,6 @@ tags:
 homepage:
   - https://editorconfig.org/
 github: https://github.com/editorconfig/
+resources:
+  - "[[How I Enforce Clean Code in Every Project (No Exceptions)]]"
 ---
