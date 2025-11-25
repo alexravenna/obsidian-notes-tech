@@ -1,0 +1,5 @@
+---
+created: 2025-11-20T22:08:01+01:00
+updated: 2024-12-17T12:48:35Z
+link: https://www.youtube.com/shorts/ZCukVyjUKkI
+---

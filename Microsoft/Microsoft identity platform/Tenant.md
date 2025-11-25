@@ -3,6 +3,8 @@ created: 2023-11-16T07:54:28Z
 updated: 2024-12-10T08:34:58Z
 aliases:
   - directory
+resources:
+  - "[[What is a Tenant  Microsoft Entra ID explained]]"
 ---
 # Description
 - An instance of [[Microsoft Entra ID]]
