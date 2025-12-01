@@ -1,6 +1,6 @@
 ---
-created: 2023-11-15T16:12:05Z
-updated: 2024-12-10T08:34:54Z
+created: 2025-11-14T22:25:42+01:00
+updated: 2025-11-14T22:25:51+01:00
 aliases:
   - VS Code
   - VSC
@@ -19,6 +19,7 @@ documentation:
 category: IDE
 training: https://learn.microsoft.com/en-us/training/modules/introduction-to-visual-studio-code/
 ---
+# Description
 - A lightweight source code editor and/or [[IDE]]
 - [[Electron]] app
 - Customizable/extensible through [[VS Code Extensions|extensions]]
