@@ -5,7 +5,7 @@ documentation:
   - https://learn.microsoft.com/en-us/azure/developer/terraform/
 ---
 # Description
-- [[Infrastructure as Code/Terraform/Terraform|Terraform]] [[Providers]] for [[Azure]] ecosystem:
+- [[Infrastructure as Code/Terraform/Terraform|Terraform]] [[provider]] for [[Azure]] ecosystem:
 	- AzureRM: for managing [[Azure Resource Manager|ARM]] resources; most user-friendly
 		- uses Azure SDK for Go under the hood
 	- AzureAD: for managing [[Microsoft Entra ID]] resources
