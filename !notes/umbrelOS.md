@@ -10,5 +10,5 @@ db: "[[!db/sw/umbrelOS|umbrelOS]]"
 - A [[home server]] [[Operating System|OS]]
 - Installable:
 	- on a [[Raspberry Pi]]
-	- on a [[x86]] system
+	- on an [[x86]] system
 	- in a [[Virtual Machine|VM]]
