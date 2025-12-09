@@ -25,3 +25,11 @@ resources:
 		- Password hash synchronization
 		- Pass-through authentication
 		- Federated authentication
+- Provides:
+	- [[Authentication]] with:
+		- [[SSO]]
+		- [[MFA]]
+		- [[passwordless]]
+	- application management
+	- device management
+		- enables [[Intune]]
