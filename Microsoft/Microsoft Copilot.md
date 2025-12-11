@@ -13,7 +13,7 @@ homepage:
 	- [[Edge]] browser
 	- [[Microsoft 365]]
 	- [[Dynamics 365]]
-	- [[Microsoft Fabric]]
+	- [[Microsoft Fabric/Microsoft Fabric]]
 	- [[Power BI]]
 	- [[Microsoft Defender]]
 	- [[Azure portal]]

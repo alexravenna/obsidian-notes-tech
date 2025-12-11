@@ -5,7 +5,7 @@ documentation:
   - https://learn.microsoft.com/en-us/fabric/data-factory/
 ---
 # Description
-- Used for saving and transforming data into [[Microsoft Fabric]]
+- Used for saving and transforming data into [[Microsoft Fabric/Microsoft Fabric]]
 - Data sources can be structured and/or unstructured
 - Ingestion occurs in pipelines
 - Uses [[Dataflows Gen2]] for transforming

@@ -7,6 +7,6 @@ documentation:
 # Description
 - A [[data lake]] for an entire organization
 - Data is stored in [[Parquet]] files
-- Comes automatically with every [[Microsoft Fabric]] tenant
+- Comes automatically with every [[Microsoft Fabric/Microsoft Fabric]] tenant
 - Built on top of [[Azure Data Lake Storage]] Gen2
 - Workspaces allow 
