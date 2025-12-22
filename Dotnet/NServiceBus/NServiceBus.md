@@ -28,3 +28,14 @@ documentation:
 - Useful when a process relies on more than one message
 - Often called "policies": implementing [[class|classes]] are suffixed with `Policy`
 - Saga data is often implemented as a nested class inside the saga definition
+# Recoverability
+- Docs: [Recoverability • NServiceBus • Particular Docs](https://docs.particular.net/nservicebus/recoverability/)
+- Two types of automatic retries offered:
+	- immediate (default: 5)
+	- delayed (default: after 10 seconds, after 20 seconds, after 30 seconds)
+- These defaults lead to a maximum possible amount of retries of 24
+- Automatic [[rate limiting]] can be configured for multiple consecutive failing messages at an endpoint
+	- affects the entire endpoint, not just one message type processed by the endpoint
+- When messages reach the maximum number of allowed retries, the failing message is moved to the [[error queue]]
+- Unrecoverable exceptions can be defined
+	- Default: only `MessageDeserializationException`
