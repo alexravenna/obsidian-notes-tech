@@ -9,7 +9,7 @@ documentation:
   - https://learn.microsoft.com/en-us/azure/devops/pipelines/
 ---
 # Description
-- A [[CI]]/[[CD]] service from [[Azure DevOps]]
+- A [[DevOps/CI]]/[[CD]] service from [[Azure DevOps]]
 - Provides infrastructure for automated [[Pipelines|pipelines]] to run on
 - Integrates with various [[VCS]]:
 	- [[GitHub]] 

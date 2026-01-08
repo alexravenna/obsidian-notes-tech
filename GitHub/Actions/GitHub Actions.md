@@ -13,7 +13,7 @@ training:
   - https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/
 ---
 # Description
-- Enable [[CI]]/[[CD]] workflows in [[GitHub]]
+- Enable [[DevOps/CI]]/[[CD]] workflows in [[GitHub]]
 - Can also be used for automating a wide variety of other GitHub tasks
 - Defined in [[YAML]]
 - Executed on runners

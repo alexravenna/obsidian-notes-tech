@@ -9,4 +9,4 @@ homepage:
   - https://tekton.dev/
 github: https://github.com/tektoncd
 ---
-- A [[Cloud-native]] [[CI]]/[[CD]] framework
+- A [[Cloud-native]] [[DevOps/CI]]/[[CD]] framework
