@@ -29,7 +29,7 @@ BC-tag-note-field: down
 # Management Infrastructure
 - Management group
 	- (Potential other management groups - up to 6 levels)
-		- [[Subscription]]
+		- [[subscription]]
 			- [[ Resource|Resource Group]]
 				- [[Resource]]
 # Services

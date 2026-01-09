@@ -13,7 +13,7 @@ resources:
 ---
 # Description
 - [[CIAM]] solution
-- Is its own [[tenant]] and can't have any [[Subscription|subscriptions]] associated with it
+- Is its own [[tenant]] and can't have any [[subscription|subscriptions]] associated with it
 	- other [[Azure]] [[Resource|resources]] can't be created in this tenant
 - Business-to-customer identity as a service
 - Connection between identities (local, social, business, government) and business applications and APIs

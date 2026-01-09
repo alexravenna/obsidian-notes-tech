@@ -5,7 +5,7 @@ training:
   - https://learn.microsoft.com/en-us/training/modules/get-started-azure-advisor/
 ---
 # Description
-- Offers recommendations for your [[Subscription|subscriptions]] in five categories:
+- Offers recommendations for your [[subscription|subscriptions]] in five categories:
 	- Reliability
 	- Security
 	- Performance
