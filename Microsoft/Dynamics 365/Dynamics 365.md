@@ -7,10 +7,10 @@ homepage:
 # Description
 - A suite of business applications
 - Products:
-	- Sales
-	- Customer Service
+	- [[Dynamics 365 Sales]]
+	- [[Dynamics 365 Customer Service]]
 	- Customer Voice
-	- Field Service
+	- [[Dynamics 365 Field Service]]
 	- Customer Insights
 	- Finance
 	- Supply Chain Management
