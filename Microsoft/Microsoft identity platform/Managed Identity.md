@@ -6,6 +6,7 @@ documentation:
 ---
 # Description
 - An identity for applications when they connect to resources [[Authentication|authenticated]] by [[Microsoft Entra]]
+- No [[secret]]s or [[credential]]s are necessary between the [[resource]]s
 - Two types:
 	- System-assigned
 		- Lifecycle is tied to the creating [[Resource|resource]]

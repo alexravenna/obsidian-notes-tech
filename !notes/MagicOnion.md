@@ -6,3 +6,4 @@ resources:
   - "[[Streamlining App Development with Aspire + MagicOnion in Csharp]]"
 ---
 # Description
+- An [[RPC]] framework for [[NET Core|.NET]]

@@ -6,3 +6,4 @@ db: "[[!db/sw/Garnet|Garnet]]"
 # Description
 - A remote cache-store
 - Implements the [[RESP]] protocol, which makes it usable in place of [[Redis]]
+- A successor to [[!db/sw/FASTER|FASTER]]
