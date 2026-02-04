@@ -13,8 +13,6 @@ homepage:
 	- Cost optimization
 	- Operational excellence
 	- Performance efficiency
-# Workloads
-- Workload: a collection of application resources, data and supporting infrastructure that function together towards a defined business goal
 # [[Reliability]]
 - Design principles:
 	- Design for business requirements:
