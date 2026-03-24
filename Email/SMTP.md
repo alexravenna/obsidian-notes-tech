@@ -4,4 +4,6 @@ updated: 2024-12-10T08:34:56Z
 tags:
   - abbreviation
   - email
+aliases:
+  - Simple Mail Transfer Protocol
 ---
