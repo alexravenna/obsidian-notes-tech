@@ -6,6 +6,9 @@ updated: 2024-12-10T12:57:41Z
 - [dotnet-skills](https://github.com/richlander/dotnet-skills)
 - [skills.sh](https://skills.sh/)
 - [github/awesome-copilot: Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.](https://github.com/github/awesome-copilot)
+- https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/
+- https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/
+- https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/
 - In Visual Studio:
 	- [.github + MCP - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubNode)
 	- [Visual Studio Documentation | Use MCP servers](https://learn.microsoft.com/en-us/visualstudio/ide/mcp-servers?view=visualstudio)
