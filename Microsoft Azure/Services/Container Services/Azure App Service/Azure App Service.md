@@ -31,7 +31,7 @@ training:
 	- [[Python]]
 - Allows auto-syncing code ([[CD|continuous deployment]]) with:
 	- [[Azure DevOps]] (automated)
-	- [[GitHub]] (automated)
+	- [[GitHub/GitHub]] (automated)
 	- [[Bitbucket]] (automated)
 	- [[FTP]] (manual)
 	- [[Azure CLI]] (manual): `az webapp up`

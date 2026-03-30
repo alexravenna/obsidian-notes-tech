@@ -23,7 +23,7 @@ training: https://learn.microsoft.com/en-us/training/modules/edit-code-using-any
 	- No debugging code
 - How to start:
 	- open [vscode.dev](https://vscode.dev)
-	- prepend the URL of a [[GitHub]] repository with `vscode.dev`
+	- prepend the URL of a [[GitHub/GitHub]] repository with `vscode.dev`
 	- prepend the URL of an [[Azure DevOps]] repository with `vscode.dev`
 - Supports [[VS Code Extensions|extensions]], but only [[web extensions]]
 	- Each extension is run in a separate, independent [[web worker]]

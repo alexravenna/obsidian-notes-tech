@@ -13,7 +13,7 @@ resources:
   - https://learn.microsoft.com/en-us/training/modules/code-with-github-codespaces/
 ---
 # Description
-- A [[Cloud Development Environment|CDE]] from [[GitHub]]
+- A [[Cloud Development Environment|CDE]] from [[GitHub/GitHub]]
 - Each Codespace is a [[Container|container]] on a Linux [[Virtual Machine|VM]] in the [[Azure]] cloud
 - You can create a Codespace:
 	- on [GitHub](github.com)

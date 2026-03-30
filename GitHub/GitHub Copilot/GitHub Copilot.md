@@ -20,7 +20,7 @@ training:
   - https://learn.microsoft.com/en-us/training/paths/copilot/
 ---
 # Description
-- An AI [[pair programming|pair programmer]] from [[GitHub]]
+- An AI [[pair programming|pair programmer]] from [[GitHub/GitHub]]
 - Powered by [[Codex]] 
 - Supported [[IDE]]s:
 	- [[Visual Studio]]

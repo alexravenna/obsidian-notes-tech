@@ -12,5 +12,5 @@ documentation:
 	- AzureDevOps: for managing [[Azure DevOps]] resources
 	- AzAPI: for managing Azure [[Resource|resources]] by using the ARM APIs directly; most up-to-date
 		- uses direct [[REST]] [[API]] calls to the [[Azure Resource Manager]] REST API
-	- github: for managing [[GitHub]]
+	- github: for managing [[GitHub/GitHub]]
 	- Azure Stack: for managing  [[Azure Stack]] resources

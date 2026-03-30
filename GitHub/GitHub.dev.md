@@ -11,10 +11,10 @@ documentation:
   - https://docs.github.com/en/codespaces/the-githubdev-web-based-editor
 ---
 # Description
-- A lightweight web-based editor for navigating and editing [[GitHub]] repositories
+- A lightweight web-based editor for navigating and editing [[GitHub/GitHub]] repositories
 - It is a customized version of [[vscode.dev]] with integrated GitHub functionality:
 	- automatic GitHub login
-	- the URL format follows [[GitHub]]'s `organization/repo` model
+	- the URL format follows [[GitHub/GitHub]]'s `organization/repo` model
 - How to use while browsing a repository or [[Pull Request|PR]] on [GitHub](https://github.com):
 	- To open in the same tab: press `.` 
 	- To open in a new tab: press `>` 

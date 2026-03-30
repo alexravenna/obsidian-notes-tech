@@ -14,5 +14,5 @@ resources:
 	- [[Bicep]]
 	- [[Infrastructure as Code/Terraform/Terraform]]
 - Managed in catalog [[Repository|repositories]]:
-	- in [[GitHub]]
+	- in [[GitHub/GitHub]]
 	- in [[Azure DevOps]]

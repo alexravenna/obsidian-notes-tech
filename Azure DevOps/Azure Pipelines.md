@@ -12,7 +12,7 @@ documentation:
 - A [[DevOps/CI]]/[[CD]] service from [[Azure DevOps]]
 - Provides infrastructure for automated [[Pipelines|pipelines]] to run on
 - Integrates with various [[VCS]]:
-	- [[GitHub]] 
+	- [[GitHub/GitHub]] 
 	- [[GitLab]]
 	- [[Azure Repos]]
 	- [[Bitbucket]]
