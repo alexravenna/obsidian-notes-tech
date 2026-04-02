@@ -6,3 +6,4 @@ updated: 2024-12-10T12:57:41Z
 - https://adrianbailador.netlify.app/
 	- https://adrianbailador.github.io/blog/
 - https://nickchapsas.com/
+- [Irina Scurtu - .NET, Architecture and the world around it](https://irina.codes/)
