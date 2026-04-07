@@ -11,3 +11,4 @@ updated: 2024-12-10T12:57:41Z
 - [[TOGAF]]
 - [[!db/resources/books/Enterprise Integration Patterns|Enterprise Integration Patterns]]
 - Software Architect Elevator
+- LeanIX
