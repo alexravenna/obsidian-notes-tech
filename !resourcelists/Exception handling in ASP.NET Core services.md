@@ -4,3 +4,4 @@ updated: 2024-12-10T12:57:41Z
 ---
 # Description
 - https://www.youtube.com/watch?v=Jq_JU4NnTH0
+- https://adrianbailador.github.io/blog/51-exception-security/

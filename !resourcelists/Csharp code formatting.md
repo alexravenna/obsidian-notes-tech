@@ -6,3 +6,5 @@ updated: 2024-12-10T12:57:41Z
 - [Code Style Options and Code Cleanup - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/code-styles-and-code-cleanup?view=visualstudio&pivots=programming-language-dotnet)
 - CSharpier:
 	- [GitHub | CSharpier](https://github.com/belav/csharpier)
+- StyleCop:
+	- https://github.com/DotNetAnalyzers/StyleCopAnalyzers
