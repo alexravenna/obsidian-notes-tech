@@ -13,6 +13,7 @@ updated: 2024-12-10T12:57:41Z
 - https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/
 - https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/
 - https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/
+- [Custom Agents in Visual Studio: Built in and Build-Your-Own agents - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/)
 - In Visual Studio:
 	- [.github + MCP - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubNode)
 	- [Visual Studio Documentation | Use MCP servers](https://learn.microsoft.com/en-us/visualstudio/ide/mcp-servers?view=visualstudio)
