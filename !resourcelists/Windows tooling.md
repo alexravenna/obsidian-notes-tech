@@ -25,3 +25,5 @@ updated: 2024-12-10T12:57:41Z
 	- https://github.com/Flow-Launcher/Flow.Launcher
 - Bulk Crap Uninstaller:
 	- https://github.com/Klocman/Bulk-Crap-Uninstaller
+- Fluent Search:
+	- [adirh3/Fluent-Search: Official repository for Fluent Search, use to report issues or ask for a new feature](https://github.com/adirh3/Fluent-Search)
