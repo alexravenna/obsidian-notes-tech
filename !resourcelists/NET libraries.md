@@ -6,3 +6,4 @@ updated: 2024-12-10T12:57:41Z
 - https://github.com/TestableIO/System.IO.Abstractions
 - https://github.com/Kaliumhexacyanoferrat/MockH
 	- https://dev.to/kaliumhexacyanoferrat/mocking-http-services-in-c-with-mockh-2jkj
+- https://github.com/JohnnyCrazy/SpotifyAPI-NET

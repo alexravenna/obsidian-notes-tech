@@ -26,6 +26,7 @@ updated: 2024-12-10T12:57:41Z
 	- [Get Started with GitHub Copilot - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-get-started?view=visualstudio)
 	- [About GitHub Copilot Chat in Visual Studio - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-chat?view=visualstudio)
 	- [Copilot Completions - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-extension?view=visualstudio)
+	- https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/
 	- [.github + MCP - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubNode)
 	- [Visual Studio Documentation | Use MCP servers](https://learn.microsoft.com/en-us/visualstudio/ide/mcp-servers?view=visualstudio)
 	- https://github.com/microsoft/mcp-dotnet-samples

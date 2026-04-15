@@ -8,6 +8,7 @@ updated: 2024-12-10T12:57:41Z
 - https://learn.microsoft.com/en-us/shows/azure-developers-sql-conf-2025/deploy-data-api-builder-in-azure-container-apps
 	- https://github.com/cwiederspan/sqlconf-dab-aca-20250122
 - https://learn.microsoft.com/en-us/training/modules/develop-data-api-azure-sql-database/
+- https://learn.microsoft.com/en-us/shows/azure-developers-sql-conf-2025/unlocking-database-conversations-semantic-kernel-and-data-api-builder-in-action
 - VS Code extension:
 	- https://learn.microsoft.com/en-us/azure/data-api-builder/vscode-extension/
 	- https://marketplace.visualstudio.com/items?itemName=jerry-nixon.omnibus-data-api-builder

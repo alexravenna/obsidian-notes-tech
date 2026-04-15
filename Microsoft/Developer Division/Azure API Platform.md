@@ -5,4 +5,4 @@ updated: 2024-12-10T08:34:59Z
 # Description
 - Responsible for:
 	- [[Azure API Center]]
-	- [[Azure API Management]]
+	- [[Microsoft Azure/Services/API Services/Azure API Management]]
