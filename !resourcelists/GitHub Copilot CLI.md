@@ -7,3 +7,9 @@ updated: 2024-12-10T12:57:41Z
 - https://github.com/github/copilot-cli-for-beginners
 - https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-copilot-cli
 - https://www.youtube.com/playlist?list=PL0lo9MOBetEHvO-spzKBAITkkTqv4RvNl
+- https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-custom-agents
+- Plugins:
+	- https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-cli-plugins
+	- https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/plugins-finding-installing
+	- https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/plugins-creating
+	- https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-plugin-reference

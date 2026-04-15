@@ -9,5 +9,7 @@ updated: 2024-12-10T12:57:41Z
 - https://learn.microsoft.com/en-us/dotnet/core/testing/microsoft-testing-platform-intro
 - https://learn.microsoft.com/en-us/dotnet/core/testing/microsoft-testing-platform-features
 - https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-test?tabs=dotnet-test-with-mtp
+- Migrating:
+	- https://learn.microsoft.com/en-us/dotnet/core/testing/migrating-vstest-microsoft-testing-platform
 - https://www.youtube.com/watch?v=J3On_irDTns
 - maybe related: https://www.youtube.com/watch?v=nHUwqsRtPCU

@@ -10,7 +10,7 @@ tags:
 # Description
 - [[Microsoft/Microsoft|Microsoft]] implementation of the [[SQL]] standard
 - Used by:
-	- [[SQL Server Management Studio]]
+	- [[Microsoft/SQL Server Management Studio]]
 	- [[Azure Data Studio]]
 - Data types:
 	- [[bit]]
