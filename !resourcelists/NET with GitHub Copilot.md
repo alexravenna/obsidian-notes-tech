@@ -19,14 +19,14 @@ updated: 2024-12-10T12:57:41Z
 - https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/
 - https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/
 - https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/
-- [Custom Agents in Visual Studio: Built in and Build-Your-Own agents - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/)
-- 
+
 - In Visual Studio:
 	- [Copilot feature matrix - GitHub Docs](https://docs.github.com/en/copilot/reference/copilot-feature-matrix?tool=visualstudio)
 	- [Get Started with GitHub Copilot - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-get-started?view=visualstudio)
 	- [About GitHub Copilot Chat in Visual Studio - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-chat?view=visualstudio)
 	- [Copilot Completions - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-extension?view=visualstudio)
 	- https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/
+	- [Custom Agents in Visual Studio: Built in and Build-Your-Own agents - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/
 	- [.github + MCP - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubNode)
 	- [Visual Studio Documentation | Use MCP servers](https://learn.microsoft.com/en-us/visualstudio/ide/mcp-servers?view=visualstudio)
 	- https://github.com/microsoft/mcp-dotnet-samples
