@@ -11,3 +11,4 @@ updated: 2024-12-10T12:57:41Z
 - Gerald Barre: https://www.meziantou.net/
 	- https://github.com/meziantou
 - Ricardo Peres: https://developmentwithadot.blogspot.com/
+- Christian Helle: https://christianhelle.com/
