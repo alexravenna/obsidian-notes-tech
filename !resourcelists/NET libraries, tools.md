@@ -9,3 +9,8 @@ updated: 2024-12-10T12:57:41Z
 - https://github.com/JohnnyCrazy/SpotifyAPI-NET
 - https://github.com/linked-data-dotnet/json-ld.net
 - https://atc-net.github.io/
+- SimonCropp:
+	- https://github.com/SimonCropp/LocalDb
+- [[NServiceBus]]:
+	- https://github.com/NServiceBusCommunity
+- https://github.com/RicoSuter/DNT
