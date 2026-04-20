@@ -27,3 +27,4 @@ updated: 2024-12-10T12:57:41Z
 	- https://github.com/Klocman/Bulk-Crap-Uninstaller
 - Fluent Search:
 	- [adirh3/Fluent-Search: Official repository for Fluent Search, use to report issues or ask for a new feature](https://github.com/adirh3/Fluent-Search)
+- https://windowsforum.com/threads/six-fast-windows-11-search-alternatives-everything-fluent-flow-more.381211/
