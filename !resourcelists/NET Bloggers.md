@@ -12,3 +12,4 @@ updated: 2024-12-10T12:57:41Z
 	- https://github.com/meziantou
 - Ricardo Peres: https://developmentwithadot.blogspot.com/
 - Christian Helle: https://christianhelle.com/
+- Ardalias/Steve Smith: https://ardalis.com/blog/
