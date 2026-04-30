@@ -14,3 +14,4 @@ updated: 2024-12-10T12:57:41Z
 - Christian Helle: https://christianhelle.com/
 - Ardalias/Steve Smith: https://ardalis.com/blog/
 - Anton Martyniuk: https://antondevtips.com/
+- Julio Casal: https://juliocasal.com/blog/the-result-pattern
