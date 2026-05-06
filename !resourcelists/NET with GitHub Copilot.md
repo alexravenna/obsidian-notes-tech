@@ -19,6 +19,7 @@ updated: 2024-12-10T12:57:41Z
 - https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/
 - https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/
 - https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/
+- https://learn.microsoft.com/en-us/dotnet/core/porting/github-copilot-app-modernization/
 
 - In Visual Studio:
 	- [Copilot feature matrix - GitHub Docs](https://docs.github.com/en/copilot/reference/copilot-feature-matrix?tool=visualstudio)

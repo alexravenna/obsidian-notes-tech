@@ -28,3 +28,6 @@ updated: 2024-12-10T12:57:41Z
 - Fluent Search:
 	- [adirh3/Fluent-Search: Official repository for Fluent Search, use to report issues or ask for a new feature](https://github.com/adirh3/Fluent-Search)
 - https://windowsforum.com/threads/six-fast-windows-11-search-alternatives-everything-fluent-flow-more.381211/
+- Lively Wallpaper:
+	- [rocksdanister/lively: Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.](https://github.com/rocksdanister/lively)
+	- [Lively Wallpaper by rocksdanister](https://www.rocksdanister.com/lively/)
