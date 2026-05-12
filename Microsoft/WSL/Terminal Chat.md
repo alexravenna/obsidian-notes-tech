@@ -9,6 +9,6 @@ resources:
 # Description
 - Only available in [[Windows Terminal Canary]]
 - Supports:
-	- [[GitHub Copilot]]
+	- [[GitHub/GitHub Copilot/GitHub Copilot]]
 	- [[Azure OpenAI Services]]
 	- [[OpenAI]]

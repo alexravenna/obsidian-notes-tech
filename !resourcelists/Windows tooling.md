@@ -31,3 +31,4 @@ updated: 2024-12-10T12:57:41Z
 - Lively Wallpaper:
 	- [rocksdanister/lively: Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.](https://github.com/rocksdanister/lively)
 	- [Lively Wallpaper by rocksdanister](https://www.rocksdanister.com/lively/)
+	- [Web Guide III : Shaders · rocksdanister/lively Wiki](https://github.com/rocksdanister/lively/wiki/Web-Guide-III-:-Shaders)

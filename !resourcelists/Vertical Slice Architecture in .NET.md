@@ -9,5 +9,6 @@ updated: 2024-12-10T12:57:41Z
 - https://www.milanjovanovic.tech/blog/vertical-slice-architecture-is-easier-than-you-think
 - https://adrianbailador.github.io/blog/47-vertical-slice-architecture/
 - https://antondevtips.com/blog/how-to-avoid-code-duplication-in-vertical-slice-architecture-in-dotnet
+- https://antondevtips.com/blog/n-layered-vs-clean-vs-vertical-slice-architecture
 - https://www.youtube.com/watch?v=L2Wnq0ChAIA
 - https://www.youtube.com/shorts/I22yHqBHh70
