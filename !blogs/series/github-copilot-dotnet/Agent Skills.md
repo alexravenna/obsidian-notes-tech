@@ -15,3 +15,4 @@ updated: 2024-12-10T12:57:41Z
 - Resources:
 	- [Agent Skills Overview - Agent Skills](https://agentskills.io/home)
 		- the "specification"
+	- https://www.philschmid.de/agent-skills-tips

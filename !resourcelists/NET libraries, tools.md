@@ -14,3 +14,4 @@ updated: 2024-12-10T12:57:41Z
 - [[NServiceBus]]:
 	- https://github.com/NServiceBusCommunity
 - https://github.com/RicoSuter/DNT
+- https://www.nuget.org/packages/Scalar.AspNetCore.Microsoft

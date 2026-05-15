@@ -6,3 +6,4 @@ updated: 2024-12-10T12:57:41Z
 - [How to author a WinGet Configuration file | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/configuration/create)
 - [microsoft/winget-dsc](https://github.com/microsoft/winget-dsc)
 	- [winget-dsc/samples at main · microsoft/winget-dsc](https://github.com/microsoft/winget-dsc/tree/main/samples)
+- [microsoft/winget-studio: Winget studio](https://github.com/microsoft/winget-studio)
