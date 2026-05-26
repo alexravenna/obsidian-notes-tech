@@ -1,7 +1,8 @@
 ---
-created: 2024-04-23T12:10:19Z
-updated: 2024-12-10T08:34:57Z
+created: 2026-05-26T08:39:22+02:00
+updated: 2024-12-10T12:57:41Z
 ---
+# Description
 - Synchronous message queueing
 - For storing large numbers of messages
 - Each message can be up to 64 [[KB]]

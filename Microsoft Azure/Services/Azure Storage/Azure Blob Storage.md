@@ -25,5 +25,4 @@ tags:
 	- Useful for things like logs, where existing blobs have to be appended to
 - Page blobs
 	- Optimized for random read and write operations
-	- store [[VHD]] files, e.g. [[Azure Disk Storage]]
-- 
+	- store [[VHD]] files, e.g. [[Azure Disk Storage]] 
