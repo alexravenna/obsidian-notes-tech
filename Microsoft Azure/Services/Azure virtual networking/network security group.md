@@ -5,6 +5,6 @@ aliases:
   - NSG
 ---
 # Description
-- An [[Azure]] [[resource]] that define inbound and outbound security rules
+- An [[Azure]] [[resource]] that defines inbound and outbound security rules
 - Enables filtering of [[Azure Virtual Network|network]] traffic
 - Rules are processed according to rule priority (lower numbers are processed before higher numbers)
