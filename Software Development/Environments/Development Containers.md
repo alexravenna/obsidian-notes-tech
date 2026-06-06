@@ -40,7 +40,7 @@ resources:
 	- `.devcontainer.json`: an entrypoint script
 - Packaged as [[tarballs]]
 - Multiple templates can be stored in one "collection" with a `devcontainer-collection.json`
-- #caveat Templates and features should be stored in separate [[Git]] [[Repository|repositories]]
+- #caveat Templates and features should be stored in separate [[Git]] [[Software Development/Version Control/Git/Repository|repositories]]
 ## CLI
 - Reference implementation: [devcontainers/cli: A reference implementation for the specification that can create and configure a dev container from a devcontainer.json. (github.com)](https://github.com/devcontainers/cli)
 

@@ -18,7 +18,7 @@ training:
 - Defined in [[YAML]]
 - Executed on runners
 	- Either hosted by GitHub or [[self-hosted]]
-- Can be defined locally in a [[Repository|repo]] or contributed to and consumed from the [Marketplace (github.com)](https://github.com/marketplace?type=actions)
+- Can be defined locally in a [[Software Development/Version Control/Git/Repository|repo]] or contributed to and consumed from the [Marketplace (github.com)](https://github.com/marketplace?type=actions)
 - Types:
 	- Docker
 	- JavaScript

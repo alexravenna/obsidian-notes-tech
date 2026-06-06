@@ -44,6 +44,6 @@ training:
 	- [[PR]] summaries can be generated -> quickly create a PR description for reviewers
 	- Docsets management:
 		- Docsets are private collections of internal code and documentation
-			- You can add GitHub [[Repository|repos]] and specific files from repos to be indexed
+			- You can add GitHub [[Software Development/Version Control/Git/Repository|repos]] and specific files from repos to be indexed
 		- Copilot can answer questions using these docsets
 	- Copilot code reviews

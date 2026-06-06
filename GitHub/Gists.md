@@ -5,5 +5,5 @@ documentation:
   - https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists
 ---
 
-- Each gist is a [[Git]] [[Repository|repo]]
+- Each gist is a [[Git]] [[Software Development/Version Control/Git/Repository|repo]]
 - Secret/private gists can be seen by those with the [[URL]]

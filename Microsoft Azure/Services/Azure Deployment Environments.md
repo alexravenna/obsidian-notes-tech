@@ -13,6 +13,6 @@ resources:
 	- [[ARM Templates]]
 	- [[Bicep]]
 	- [[Infrastructure as Code/Terraform/Terraform]]
-- Managed in catalog [[Repository|repositories]]:
+- Managed in catalog [[Software Development/Version Control/Git/Repository|repositories]]:
 	- in [[GitHub/GitHub]]
 	- in [[Azure DevOps]]

@@ -36,7 +36,7 @@ training:
 	- Azure File share
 	- Secret
 	- Empty directory
-	- Cloned [[Git]] [[Repository|repo]]
+	- Cloned [[Git]] [[Software Development/Version Control/Git/Repository|repo]]
 # Restart Policy
 - Specified as `restart-policy` when using [[Azure CLI]]
 - Policies:

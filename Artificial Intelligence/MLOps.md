@@ -13,5 +13,5 @@ resources:
 	- Model validation
 	- Model deployment
 	- Model retraining
-- Model registry: like a [[Repository|code repository]] for ML models; for saving and versioning
+- Model registry: like a [[Software Development/Version Control/Git/Repository|code repository]] for ML models; for saving and versioning
 - Save training datasets centrally

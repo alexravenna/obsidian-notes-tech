@@ -4,4 +4,4 @@ updated: 2024-12-17T15:52:01Z
 db: "[[!db/sw/BFG Repo-Cleaner|BFG Repo-Cleaner]]"
 ---
 # Description
-- Used to cleanse data from multiple [[Branch]]es across a [[Repository]]
+- Used to cleanse data from multiple [[Branch]]es across a [[Software Development/Version Control/Git/Repository]]
