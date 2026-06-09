@@ -9,3 +9,4 @@ updated: 2025-07-04T08:29:21+02:00
 	- [[Dynamics 365]]
 - Traffic doesn't travel over the public internet
 - ExpressRoute Circuit: a connection between an [[on-premise]] [[network]] and the [[Microsoft/Microsoft|Microsoft]] cloud using ExpressRoute
+- ExpressRoute Global Reach: allows connecting ExpressRoute circuits through the [[Microsoft/Microsoft|Microsoft]] backbone

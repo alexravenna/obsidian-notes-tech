@@ -6,7 +6,7 @@ documentation:
 ---
 # Description
 - Example: `nslookup`
-	- answers with default [[DNS]] [[Name Server|name server]]
+	- answers with default [[DNS]] [[name server|name server]]
 	- goes into interactive mode
 - Example: `nslookup mydomain.com 1.1.1.1
 	- look up the IP of `mydomain.com` using the name server `1.1.1.1`

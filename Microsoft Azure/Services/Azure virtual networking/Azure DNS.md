@@ -5,6 +5,9 @@ updated: 2025-07-04T08:36:52+02:00
 # Description
 - Based on [[Azure Resource Manager]]
 - A hosting service for [[DNS]] [[domains]]
+- Uses [[anycast]] networking
+- Has a global network of [[DNS]] [[name server]]s
+- Can manage [[DNS records]] for [[Azure]] services as well as for external resources
 - Enables management of [[DNS records]] with standard [[Azure]] means:
 	- [[Azure portal]]
 	- [[Azure CLI]]
