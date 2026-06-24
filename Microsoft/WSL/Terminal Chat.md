@@ -8,6 +8,7 @@ resources:
 ---
 # Description
 - Only available in [[Windows Terminal Canary]]
+- Deprecated by [[Intelligent Terminal]]
 - Supports:
 	- [[GitHub/GitHub Copilot/GitHub Copilot]]
 	- [[Azure OpenAI Services]]
