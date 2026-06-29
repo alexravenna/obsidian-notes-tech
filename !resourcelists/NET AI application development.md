@@ -7,5 +7,6 @@ updated: 2024-12-10T12:57:41Z
 	- https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/
 - MCP servers:
 	- https://dometrain.com/blog/how-to-build-and-consume-mcp-servers-in-dotnet/
+	- https://www.youtube.com/watch?v=RPz8f857KWA
 - https://www.youtube.com/watch?v=bSPDsANiQvs
 - https://devblogs.microsoft.com/agent-framework/agent-skills-in-net-three-ways-to-author-one-provider-to-run-them/
