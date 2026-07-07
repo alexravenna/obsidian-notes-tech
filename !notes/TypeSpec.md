@@ -8,7 +8,7 @@ tags:
 # Description
 - A [[language]] for defining [[API]]s
 - [[Protocol]]-agnostic
-- Has a [[VS Code Extensions|VS Code Extension]]
+- Has a [[Visual Studio Code/VS Code Extensions|VS Code Extension]]
 - Has a [[Visual Studio Extension]]
 - Can emit code for:
 	- [[OpenAPI]]

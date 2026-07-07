@@ -7,7 +7,7 @@ training:
 ---
 # Description
 - Developed/maintained by [[Azure API Platform]]
-- Has a [[VS Code Extensions|VS Code extension]]: [Azure API Center - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=apidev.azure-api-center)
+- Has a [[Visual Studio Code/VS Code Extensions|VS Code extension]]: [Azure API Center - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=apidev.azure-api-center)
 - Capabilities:
 	- API inventory
 		- APIs of various types, technologies and runtime environments can be added

@@ -4,4 +4,4 @@ updated: 2024-12-10T08:32:53Z
 homepage:
   - https://www.gitguardian.com/
 ---
-- [[VS Code Extensions|VS Code extension]]: [GitGuardian - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gitguardian-secret-security.gitguardian)
+- [[Visual Studio Code/VS Code Extensions|VS Code extension]]: [GitGuardian - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gitguardian-secret-security.gitguardian)

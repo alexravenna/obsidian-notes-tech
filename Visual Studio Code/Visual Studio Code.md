@@ -22,7 +22,7 @@ training: https://learn.microsoft.com/en-us/training/modules/introduction-to-vis
 # Description
 - A lightweight source code editor and/or [[IDE]]
 - [[Electron]] app
-- Customizable/extensible through [[VS Code Extensions|extensions]]
+- Customizable/extensible through [[Visual Studio Code/VS Code Extensions|extensions]]
 - Code editor is based on the [[Monaco]] editor
 - Integrated features:
 	- Terminal
