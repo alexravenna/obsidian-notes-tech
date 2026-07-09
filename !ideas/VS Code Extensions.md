@@ -6,3 +6,5 @@ updated: 2024-12-10T12:57:41Z
 - Terminal buddy:
 	- idea from ACA workshop: copying lots of CLI commands and setting variables
 	- pane with newly added (or all) envvars
+	- Track envvars starting at a certain point
+	- See Set-Variables.ps1 from https://azure.github.io/aca-dotnet-workshop/
