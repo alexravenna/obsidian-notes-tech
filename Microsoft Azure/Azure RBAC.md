@@ -5,7 +5,7 @@ documentation:
   - https://learn.microsoft.com/en-us/azure/role-based-access-control/
 ---
 # Description
-- [[RBAC]] allows assigning specific permissions to users, groups, [[Service Principal|service principals]] or [[Managed Identity|managed identities]] in [[Azure]]
+- [[RBAC]] allows assigning specific permissions to users, groups, [[Service Principal|service principals]] or [[Managed Identity|managed identities]] in [[Microsoft Azure/Azure]]
 - Different services offer different roles that can be assigned
 - Roles are groups of different permissions
 	- There are built-in roles, but custom ones can be created too

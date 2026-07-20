@@ -17,7 +17,7 @@ training:
 ---
 # Description
 - A suite of tools for developing distributed, [[cloud-native]] applications with [[NET|.NET]]
-- Offers auto-provisioning to [[Azure]]
+- Offers auto-provisioning to [[Microsoft Azure/Azure]]
 - Service defaults
 - AppHost
 	- generates deployment manifest

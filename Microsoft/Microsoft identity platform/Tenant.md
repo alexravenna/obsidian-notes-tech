@@ -13,4 +13,4 @@ resources:
 - Common shared-access levels also possible
 - Represents an organization
 - Can possess multiple [[subscription|subscriptions]]
-- Represented by a Microsoft Entra directory [[Resource|resource]] in [[Azure]]
+- Represented by a Microsoft Entra directory [[Resource|resource]] in [[Microsoft Azure/Azure]]

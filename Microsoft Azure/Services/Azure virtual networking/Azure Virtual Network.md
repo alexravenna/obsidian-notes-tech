@@ -13,4 +13,4 @@ aliases:
 	- [[on-premise]] clients
 - Virtual networks can be segmented into [[subnets]]:
 	- each subnet uses a part of the network's [[address space]]
-	- [[name resolution]] can come from [[Azure]] or an internal or external [[DNS]] [[server]]
+	- [[name resolution]] can come from [[Microsoft Azure/Azure]] or an internal or external [[DNS]] [[server]]

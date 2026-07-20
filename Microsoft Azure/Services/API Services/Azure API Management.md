@@ -74,7 +74,7 @@ training:
 		- [[SOAP]]/[[WSDL]]
 		- [[WADL]]
 		- [[OData]]
-		- or from instances of [[Azure]] services:
+		- or from instances of [[Microsoft Azure/Azure]] services:
 			- [[Azure OpenAI Services]]
 			- [[Azure Logic Apps]]
 			- [[Azure Functions]]

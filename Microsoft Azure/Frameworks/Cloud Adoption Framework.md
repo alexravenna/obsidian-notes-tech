@@ -11,7 +11,7 @@ resources:
   - https://github.com/microsoft/CloudAdoptionFramework
 ---
 # Description
-- A set of proven practices for using the [[Azure]] cloud
+- A set of proven practices for using the [[Microsoft Azure/Azure]] cloud
 - Strategy
 - Plan
 - Ready

@@ -7,4 +7,4 @@ resources:
   - https://www.youtube.com/watch?v=Ztmxx_KhZdE
 ---
 # Description
-- A tool for managing naming [[conventions]] for [[Azure]] [[Resource|resources]]
+- A tool for managing naming [[conventions]] for [[Microsoft Azure/Azure]] [[Resource|resources]]

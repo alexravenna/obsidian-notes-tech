@@ -11,7 +11,7 @@ resources:
 training: https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/
 ---
 # Description
-- The deployment and management service for [[Azure]]
+- The deployment and management service for [[Microsoft Azure/Azure]]
 - The gateway for all resource management tools:
 	- [[Azure CLI]]
 	- [[Azure PowerShell]]

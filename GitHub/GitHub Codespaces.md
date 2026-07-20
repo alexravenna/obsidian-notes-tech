@@ -14,7 +14,7 @@ resources:
 ---
 # Description
 - A [[Cloud Development Environment|CDE]] from [[GitHub/GitHub]]
-- Each Codespace is a [[Container|container]] on a Linux [[Virtual Machine|VM]] in the [[Azure]] cloud
+- Each Codespace is a [[Container|container]] on a Linux [[Virtual Machine|VM]] in the [[Microsoft Azure/Azure]] cloud
 - You can create a Codespace:
 	- on [GitHub](github.com)
 	- in [[Visual Studio Code|VS Code]]

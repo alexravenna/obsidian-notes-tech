@@ -10,7 +10,7 @@ resources:
   - https://learn.microsoft.com/en-us/legal/cognitive-services/openai/overview
   - https://www.microsoft.com/en-us/ai/responsible-ai
 ---
-- A term from [[Microsoft]]
+- A term from [[Microsoft/Microsoft]]
 - The principles and best practices to ensure that [[AI]] work are:
 	- accountable
 	- fair and inclusive

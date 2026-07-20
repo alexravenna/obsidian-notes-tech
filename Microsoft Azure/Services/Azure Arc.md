@@ -2,7 +2,7 @@
 created: 2024-07-15T09:23:29Z
 updated: 2024-12-10T08:34:58Z
 ---
-- Allows you to manage resource types hosted outside of [[Azure]]
+- Allows you to manage resource types hosted outside of [[Microsoft Azure/Azure]]
 - Supported resource types:
 	- physical and virtual [[Windows]] or [[Linux]] servers
 	- [[Kubernetes]] clusters

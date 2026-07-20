@@ -7,7 +7,7 @@ training:
   - https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/
 ---
 # Description
-- A subscription is necessary to create and use [[Azure]] services
+- A subscription is necessary to create and use [[Microsoft Azure/Azure]] services
 - A subscription belongs to an account
 - Multiple subscriptions can belong to one account
 - Subscriptions can be separated along two boundaries:

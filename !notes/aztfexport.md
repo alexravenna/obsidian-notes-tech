@@ -6,7 +6,7 @@ resources:
   - https://learn.microsoft.com/en-us/azure/developer/terraform/azure-export-for-terraform/export-terraform-overview
 ---
 # Description
-- A tool for exporting [[Azure]] [[Resource]] configuration to [[Infrastructure as Code/Terraform/Terraform|Terraform]] [[HCL]] code
+- A tool for exporting [[Microsoft Azure/Azure]] [[Resource]] configuration to [[Infrastructure as Code/Terraform/Terraform|Terraform]] [[HCL]] code
 - Supports the [[provider]]s:
 	- [[AzureRM]]
 	- [[AzApi]]

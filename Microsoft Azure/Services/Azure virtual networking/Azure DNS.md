@@ -7,8 +7,8 @@ updated: 2025-07-04T08:36:52+02:00
 - A hosting service for [[DNS]] [[domains]]
 - Uses [[anycast]] networking
 - Has a global network of [[DNS]] [[name server]]s
-- Can manage [[DNS records]] for [[Azure]] services as well as for external resources
-- Enables management of [[DNS records]] with standard [[Azure]] means:
+- Can manage [[DNS records]] for [[Microsoft Azure/Azure]] services as well as for external resources
+- Enables management of [[DNS records]] with standard [[Microsoft Azure/Azure]] means:
 	- [[Azure portal]]
 	- [[Azure CLI]]
 	- [[Azure PowerShell]] [[cmdlets]]
