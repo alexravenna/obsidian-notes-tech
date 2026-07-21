@@ -5,3 +5,4 @@ updated: 2024-12-10T12:57:41Z
 # Description
 - https://devblogs.microsoft.com/visualstudio/make-visual-studio-look-the-way-you-want/
 - https://learn.microsoft.com/en-us/visualstudio/extensibility/ux-guidelines/theme-color-token-reference?view=visualstudio
+- https://learn.microsoft.com/en-us/visualstudio/extensibility/migration/modernize-theme-colors?view=visualstudio

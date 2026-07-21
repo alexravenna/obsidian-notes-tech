@@ -4,6 +4,7 @@ updated: 2024-12-10T12:57:41Z
 ---
 # Description
 - https://learn.microsoft.com/en-us/visualstudio/extensibility/visualstudio.extensibility/?view=visualstudio
+- https://learn.microsoft.com/en-us/visualstudio/extensibility/starting-to-develop-visual-studio-extensions?view=visualstudio
 - https://github.com/microsoft/VSExtensibility
 - https://github.com/VsixCommunity/Community.VisualStudio.Toolkit
 - https://www.vsixgallery.com/
