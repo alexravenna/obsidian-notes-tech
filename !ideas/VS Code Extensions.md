@@ -8,3 +8,10 @@ updated: 2024-12-10T12:57:41Z
 	- pane with newly added (or all) envvars
 	- Track envvars starting at a certain point
 	- See Set-Variables.ps1 from https://azure.github.io/aca-dotnet-workshop/
+- ignore-complete
+	- [File Ignore Decorator - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonatanClaros.file-ignore-decorator)
+		- see in the file tree which files are ignored by which .ignore file
+			- and configure how that looks
+	- add files/folders from the file tree
+	- .ignore file syntax highlighting
+	- for thought: [Ignore Lens - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ignore-lens.ignore-lens)
