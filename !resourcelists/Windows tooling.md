@@ -33,4 +33,7 @@ updated: 2024-12-10T12:57:41Z
 	- [Lively Wallpaper by rocksdanister](https://www.rocksdanister.com/lively/)
 	- [Web Guide III : Shaders · rocksdanister/lively Wiki](https://github.com/rocksdanister/lively/wiki/Web-Guide-III-:-Shaders)
 - Windows-Auto-Night-Mode:
-	  https://github.com/AutoDarkMode/Windows-Auto-Night-Mode
+	-  https://github.com/AutoDarkMode/Windows-Auto-Night-Mode
+- Git UIs:
+	- [sourcegit-scm/sourcegit: Windows/macOS/Linux GUI client for GIT users](https://github.com/sourcegit-scm/sourcegit)
+  
