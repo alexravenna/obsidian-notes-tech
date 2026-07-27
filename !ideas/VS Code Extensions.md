@@ -15,3 +15,8 @@ updated: 2024-12-10T12:57:41Z
 	- add files/folders from the file tree
 	- .ignore file syntax highlighting
 	- for thought: [Ignore Lens - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ignore-lens.ignore-lens)
+- add-to-sln:
+	- NOT in solution view, I don't care about that!
+	- in the Explorer tree, right-click: add to .sln(x)...
+		- then where in the solution it should land
+	- also command for it when in an active file
