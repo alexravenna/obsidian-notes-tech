@@ -12,4 +12,4 @@ resources:
 - Supports:
 	- [[GitHub/GitHub Copilot/GitHub Copilot]]
 	- [[Azure OpenAI Services]]
-	- [[OpenAI]]
+	- [[Artificial Intelligence/OpenAI]]

@@ -6,5 +6,5 @@ aliases:
 tags:
   - ai-model
 ---
-- A family of [[Large Language Model|LLM]]s from [[OpenAI]]
+- A family of [[Large Language Model|LLM]]s from [[Artificial Intelligence/OpenAI]]
 - Uses only decoder in the [[Transformer Architecture|transformer architecture]]
